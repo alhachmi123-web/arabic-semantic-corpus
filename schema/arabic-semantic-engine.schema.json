@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://arabic-semantic-engineering.org/schema/v1/discourse-unit.json",
+  "title": "Arabic Semantic Engineering Discourse Unit",
+  "description": "تمثيل دلالي تداولي للخطاب العربي متحرر من العوامل الافتراضية ومبني على الأقطاب والموجهات",
+  "type": "object",
+  "required": ["discourse_id", "raw_text", "pragmatic_intent", "predication_core"],
+  "properties": {
+    "discourse_id": { "type": "string" },
+    "raw_text": { "type": "string" },
+    "pragmatic_intent": {
+      "type": "object",
+      "required": ["speech_act"],
+      "properties": {
+        "speech_act": {
+          "type": "string",
+          "enum": ["assertion_إخبار", "directive_طلب", "exclamation_تعجب", "restriction_قصر_وحصر", "supplication_دعاء", "oath_قسم"]
+        },
+        "discourse_markers": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "predication_core": {
+      "type": "object",
+      "required": ["topic_axis", "semantic_aspect"],
+      "properties": {
+        "topic_axis": {
+          "type": "object",
+          "required": ["lemma", "role", "phonetic_marker"],
+          "properties": {
+            "lemma": { "type": "string" },
+            "role": { "type": "string", "enum": ["initiator_مُحدِث", "recipient_مُستقبِل_للحدث", "subject_محور_ثابت"] },
+            "phonetic_marker": { "type": "string", "enum": ["damma_ضمة", "fatha_فتحة", "kasra_كسرة", "implicit_مقدر"] }
+          }
+        },
+        "action_event": {
+          "type": ["object", "null"],
+          "properties": {
+            "lemma": { "type": "string" },
+            "temporal_state": { "type": "string", "enum": ["past_منقضٍ", "ongoing_متجدد", "imperative_استشرافي"] }
+          }
+        },
+        "semantic_aspect": {
+          "type": "string",
+          "enum": ["dynamic_renewal_تجدد_وحدوث", "static_permanence_ثبوت_وديمومة"]
+        }
+      }
+    },
+    "event_modifiers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["modifier_type", "value"],
+        "properties": {
+          "modifier_type": {
+            "type": "string",
+            "enum": [
+              "target_scope_نطاق_الوقوع",
+              "manner_state_الهيئة_والكيفية",
+              "cause_purpose_العلة_والغاية",
+              "temporal_coord_الإحداثي_الزماني",
+              "spatial_coord_الإحداثي_المكاني",
+              "intensity_measure_المقدار_والتأكيد"
+            ]
+          },
+          "value": { "type": "string" },
+          "phonetic_marker": { "type": "string" }
+        }
+      }
+    },
+    "contextual_links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["link_type", "target_element", "linked_value"],
+        "properties": {
+          "link_type": {
+            "type": "string",
+            "enum": [
+              "attribute_specification_وصف_وتخصيص",
+              "sequential_flow_تدفق_وتعقيب",
+              "joint_association_مشاركة_وجمع",
+              "semantic_reinforcement_تأكيد_وترسيخ",
+              "clarifying_substitution_إبدال_وإيضاح"
+            ]
+          },
+          "connector_particle": { "type": ["string", "null"] },
+          "target_element": { "type": "string" },
+          "linked_value": { "type": "string" }
+        }
+      }
+    }
+  }
+}
