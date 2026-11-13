@@ -1,0 +1,29 @@
+{
+  "discourse_id": "TC-002-2026",
+  "raw_text": "إِنَّ زَيْداً قَامَ ثُمَّ قَعَدَ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": ["إنّ"]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "زيد",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "قام",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "ثم",
+      "target_element": "قام",
+      "linked_value": "قعد"
+    }
+  ]
+}
