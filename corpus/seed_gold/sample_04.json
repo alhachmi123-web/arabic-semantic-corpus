@@ -1,0 +1,32 @@
+{
+  "discourse_id": "TC-004-2026",
+  "raw_text": "وَاللَّهِ لَقَدْ أَفْلَحَ الْمُؤْمِنُونَ الصَّادِقُونَ",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "والله",
+      "لقد"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "المؤمنون",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أفلح",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": null,
+      "target_element": "المؤمنون",
+      "linked_value": "الصادقون"
+    }
+  ]
+}
