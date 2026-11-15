@@ -1,0 +1,37 @@
+{
+  "discourse_id": "disc_08_oath",
+  "raw_text": "وَاللَّهِ لَأَقُومَنَّ",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "واو القسم"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أقوم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "قام",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "توكيد",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": "و",
+      "target_element": "أقوم",
+      "linked_value": "الله"
+    }
+  ]
+}
