@@ -1,0 +1,37 @@
+{
+  "discourse_id": "disc_06_restriction",
+  "raw_text": "إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إِنَّمَا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "العلماء",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "يخشى",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "اللَّهَ",
+      "phonetic_marker": "فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": "مِنْ",
+      "target_element": "العلماء",
+      "linked_value": "عِبَادِهِ"
+    }
+  ]
+}
