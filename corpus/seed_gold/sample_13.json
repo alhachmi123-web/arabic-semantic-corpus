@@ -1,0 +1,36 @@
+{
+  "discourse_id": "DISC_GOLD_13",
+  "raw_text": "أَحَقّاً قَدِمَ الرَّكْبُ؟",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "modality": "epistemic",
+    "illocutionary_force": "استعلام واستثبات عن وقوع الحدث"
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رَكْب",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "قَدِمَ",
+      "temporal_state": "past_منقضٍ",
+      "valence": 1
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "حَقّاً",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "semantic_reinforcement_تأكيد_وترسيخ",
+      "target_element": "وقت الوصول",
+      "linked_value": "تحقق الحدث"
+    }
+  ]
+}
