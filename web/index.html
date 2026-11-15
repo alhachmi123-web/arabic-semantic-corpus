@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>المدونة المفتوحة للهندسة الدلالية العربية</title>
+  <style>
+    :root {
+      --bg-color: #f8f9fa;
+      --card-bg: #ffffff;
+      --primary: #1b4332;
+      --accent: #2d6a4f;
+      --border: #dee2e6;
+      --text-main: #212529;
+      --text-muted: #6c757d;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: var(--primary);
+      color: #ffffff;
+      padding: 1.5rem 2rem;
+      text-align: center;
+      border-bottom: 4px solid var(--accent);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+
+    header p {
+      margin: 0.5rem 0 0;
+      font-size: 0.95rem;
+      opacity: 0.9;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .controls {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+      background: var(--card-bg);
+      padding: 1rem;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+
+    select, input {
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-family: inherit;
+    }
+
+    .samples-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .sample-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .discourse-id {
+      font-family: monospace;
+      font-size: 0.85rem;
+      background: #e9ecef;
+      padding: 0.2rem 0.5rem;
+      border-radius: 4px;
+      color: var(--primary);
+    }
+
+    .speech-act-badge {
+      background: var(--accent);
+      color: #fff;
+      font-size: 0.8rem;
+      padding: 0.25rem 0.6rem;
+      border-radius: 20px;
+    }
+
+    .raw-text {
+      font-size: 1.4rem;
+      font-weight: bold;
+      color: var(--primary);
+      text-align: center;
+      padding: 1rem;
+      background: #f1f8f5;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+
+    .section-box {
+      margin-bottom: 0.75rem;
+      padding: 0.75rem;
+      border: 1px solid #edf2f4;
+      border-radius: 6px;
+      background: #fcfcfc;
+    }
+
+    .section-title {
+      font-size: 0.85rem;
+      font-weight: bold;
+      color: var(--text-muted);
+      margin-bottom: 0.4rem;
+      display: block;
+    }
+
+    .detail-row {
+      font-size: 0.9rem;
+      margin: 0.2rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>المدونة المفتوحة للهندسة الدلالية العربية</h1>
+    <p>واجهة العرض البصري للعينات الذهبية وفق المخطط القياسي المعتمد</p>
+  </header>
+
+  <main class="container">
+    <!-- شريط التصفية والبحث -->
+    <section class="controls">
+      <select id="speechActFilter">
+        <option value="all">جميع الأفعال الكلامية (speech_act)</option>
+        <option value="assertion_إخبار">إخبار (assertion_إخبار)</option>
+        <option value="directive_طلب">طلب (directive_طلب)</option>
+        <option value="exclamation_تعجب">تعجب (exclamation_تعجب)</option>
+        <option value="restriction_قصر_وحصر">قصر وحصر (restriction_قصر_وحصر)</option>
+        <option value="supplication_دعاء">دعاء (supplication_دعاء)</option>
+        <option value="oath_قسم">قسم (oath_قسم)</option>
+      </select>
+
+      <input type="text" id="searchInput" placeholder="ابحث في النص أو الجذر...">
+    </section>
+
+    <!-- شبكة عرض البطاقات الدلالية -->
+    <section id="samplesContainer" class="samples-grid">
+      <!-- سيتم حقن بطاقات العينات هنا عبر JavaScript -->
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
