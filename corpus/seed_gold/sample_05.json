@@ -1,0 +1,30 @@
+{
+  "discourse_id": "disc_05_exclamation",
+  "raw_text": "ما أسرعَ الأيامَ!",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما التعجبية"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "الأيام",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "أسرع",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "شدة السرعة والفجأة",
+      "phonetic_marker": "فتحة"
+    }
+  ],
+  "contextual_links": []
+}
