@@ -1,0 +1,35 @@
+{
+  "discourse_id": "disc_12_assertion",
+  "raw_text": "الْحَقُّ وَاضِحٌ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حق",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "وضح",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بيان ظهور الحق وثبوته",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": null,
+      "target_element": "الحق",
+      "linked_value": "واضح"
+    }
+  ]
+}
