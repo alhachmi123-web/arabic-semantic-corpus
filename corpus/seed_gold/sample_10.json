@@ -1,0 +1,37 @@
+{
+  "discourse_id": "disc_10_exclamation",
+  "raw_text": "مَا أَجْمَلَ البَدِيعَ",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما التعجبية"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أجمل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "جمل",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "تعجب من الحسن والجمال",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": null,
+      "target_element": "أجمل",
+      "linked_value": "البديع"
+    }
+  ]
+}
