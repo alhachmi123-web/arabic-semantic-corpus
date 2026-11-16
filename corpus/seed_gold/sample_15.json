@@ -1,0 +1,29 @@
+{
+  "discourse_id": "DISC_GOLD_15",
+  "raw_text": "أَتَعَارَضُ الدَّلِيلانِ أَمْ تَخَالَفَا؟",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": ["أَ", "أَمْ"]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "دَلِيلان",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "تَعَارَضَ",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أَمْ",
+      "target_element": "طبيعة العلاقة",
+      "linked_value": "تَخَالَفَا"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_16",
+  "raw_text": "أَحُجَّةٌ الإِجْمَاعُ القَطْعِيُّ؟",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": ["أَ"]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "إِجْمَاع",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "القَطْعِيُّ",
+      "phonetic_marker": "damma_ضمة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "target_element": "طبيعة الدليل",
+      "linked_value": "حُجَّةٌ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_18",
+  "raw_text": "أَقَطْعِيٌّ هَذَا البُرْهَانُ أَمْ ظَنِّيٌّ؟",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": ["أَ", "أَمْ"]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "بُرْهَان",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "هَذَا",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أَمْ",
+      "target_element": "وصف البرهان",
+      "linked_value": "ظَنِّيّ"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_19",
+  "raw_text": "أَمَفْهُومٌ هَذَا الحُكْمِ أَمْ مَنْطُوقُهُ؟",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": ["أَ", "أَمْ"]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مَفْهُوم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "هَذَا الحُكْمِ",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أَمْ",
+      "target_element": "دلالة اللفظ",
+      "linked_value": "مَنْطُوق"
+    }
+  ]
+}
