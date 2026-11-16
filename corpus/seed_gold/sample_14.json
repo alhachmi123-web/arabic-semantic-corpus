@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_14",
+  "raw_text": "أَعِلْمٌ هَذَا أَمْ ظَنٌّ؟",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "modality": "epistemic",
+    "illocutionary_force": "استعلام واستثبات عن حقيقة المعرفة"
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عِلْم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "هَذَا",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أَمْ",
+      "target_element": "حقيقة المعرفة",
+      "linked_value": "ظَنٌّ"
+    }
+  ]
+}
