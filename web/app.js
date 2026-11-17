@@ -5,29 +5,32 @@ document.addEventListener('DOMContentLoaded', () => {
 
   let allSamples = [];
 
-  // جلب كافة العينات الذهبية (من 1 إلى 12)
+  // جلب كافة العينات الذهبية ديناميكياً حتى أول ملف غير موجود
   async function loadSamples() {
-    const totalSamples = 12;
+    let i = 1;
+    let keepFetching = true;
     const promises = [];
 
-    for (let i = 1; i <= totalSamples; i++) {
+    // حلقة جلب ديناميكية تتوقف فور عدم وجود الملف التالي (تغطي حتى 200 كحد أقصى كاحتياط)
+    while (keepFetching && i <= 200) {
       const numStr = i < 10 ? `0${i}` : `${i}`;
       const path = `../corpus/seed_gold/sample_${numStr}.json`;
-      promises.push(
-        fetch(path)
-          .then(res => {
-            if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-            return res.json();
-          })
-          .catch(err => {
-            console.warn(`تعذر تحميل الملف ${path}:`, err);
-            return null;
-          })
-      );
+      
+      try {
+        const res = await fetch(path);
+        if (!res.ok) {
+          keepFetching = false;
+          break;
+        }
+        const data = await res.json();
+        allSamples.push(data);
+      } catch (err) {
+        keepFetching = false;
+        break;
+      }
+      i++;
     }
 
-    const results = await Promise.all(promises);
-    allSamples = results.filter(item => item !== null);
     renderSamples(allSamples);
   }
 
