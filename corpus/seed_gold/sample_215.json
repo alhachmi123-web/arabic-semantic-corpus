@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_215",
+  "raw_text": "نمتُ طوالَ الليلِ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "نوم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

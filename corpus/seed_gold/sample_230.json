@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_230",
+  "raw_text": "تأملتُ هاتينِ اللوحتينِ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "تأمل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

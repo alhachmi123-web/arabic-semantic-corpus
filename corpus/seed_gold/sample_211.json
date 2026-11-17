@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_211",
+  "raw_text": "هذا الذي ننتظرُهُ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "انتظار",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_249",
+  "raw_text": "لا شكَّ في صدقِ الخبرِ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "شك",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}
