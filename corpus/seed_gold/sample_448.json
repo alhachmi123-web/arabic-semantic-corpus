@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_448",
+  "raw_text": "إلا رحمةً من ربكَ إنَّ فضلَهُ كان عليك كبيراً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "رحمة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

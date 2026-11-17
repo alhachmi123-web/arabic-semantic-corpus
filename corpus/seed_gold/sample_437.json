@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_437",
+  "raw_text": "إنَّ الباطل كان زهوقاً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "باطل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

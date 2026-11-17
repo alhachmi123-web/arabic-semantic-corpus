@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_431",
+  "raw_text": "ولن يخرق الأرض ولن يبلغ الجبال طولاً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "خرق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

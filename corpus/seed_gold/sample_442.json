@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_442",
+  "raw_text": "قل كلٌّ يعمل على شاكلتِهِ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "عمل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

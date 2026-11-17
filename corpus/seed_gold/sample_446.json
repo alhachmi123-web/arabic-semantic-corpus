@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_446",
+  "raw_text": "ولئن شئنا لنذهبنَّ بالذي أوحينا إليكَ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "مشيئة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}
