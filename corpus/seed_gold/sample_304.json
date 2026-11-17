@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_304",
+  "raw_text": "حيثما توجّهْ ركابَكَ تجدْ ترحيباً",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "توجيه",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

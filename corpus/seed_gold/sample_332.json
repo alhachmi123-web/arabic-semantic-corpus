@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_332",
+  "raw_text": "لعمرُكَ إنَّ الحياةَ جهادٌ مستمرٌ",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "حياة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
