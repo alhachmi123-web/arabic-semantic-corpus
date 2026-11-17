@@ -1,0 +1,34 @@
+{
+  "discourse_id": "DISC_GOLD_49",
+  "raw_text": "لعلَّ النصرَ قريبٌ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لعلَّ"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "نصر",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "لعلَّ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": "لعلَّ",
+      "target_element": "الخبر",
+      "linked_value": "قريبٌ"
+    }
+  ]
+}
