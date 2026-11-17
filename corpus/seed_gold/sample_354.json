@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_354",
+  "raw_text": "ما أحسنَ الصدقَ في المواعيدِ",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "حسن",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

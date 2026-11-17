@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_393",
+  "raw_text": "والليلِ إذا يغشى",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "ليل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  }
+}

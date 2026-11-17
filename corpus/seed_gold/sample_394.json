@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_394",
+  "raw_text": "والضحى والليلِ إذا سجى",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "ضحى",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_367",
+  "raw_text": "أعوذُ باللهِ من الشيطانِ الرجيمِ",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "عياذ",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
