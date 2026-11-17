@@ -1,0 +1,34 @@
+{
+  "discourse_id": "DISC_GOLD_30",
+  "raw_text": "ذَهَبَ عَلِيٌّ إِلَى المَدْرَسَةِ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إِلَى"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "ذهاب",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "المَدْرَسَةِ",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "إِلَى",
+      "target_element": "جار ومجرور",
+      "linked_value": "المَدْرَسَةِ"
+    }
+  ]
+}
