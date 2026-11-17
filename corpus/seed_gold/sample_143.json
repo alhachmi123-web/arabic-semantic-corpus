@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_143",
+  "raw_text": "يا ليْتني كنْتُ معهمْ",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "ليت",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

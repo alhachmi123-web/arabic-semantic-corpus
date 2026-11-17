@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_136",
+  "raw_text": "شرعَ الخطيبُ يخطبُ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "خطبة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_148",
+  "raw_text": "ظننتُ الأمرَ سهلاً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "ظن",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}
