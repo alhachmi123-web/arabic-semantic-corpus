@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_157",
+  "raw_text": "كلما دخل عليها زكريا المحرابَ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "دخول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}
