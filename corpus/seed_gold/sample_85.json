@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_85",
+  "raw_text": "ما أجمالَ السماءَ!",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "جمال",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

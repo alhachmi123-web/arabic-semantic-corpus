@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_53",
+  "raw_text": "عسى النصرُ أنْ يتأتى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "نصر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

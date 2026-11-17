@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_86",
+  "raw_text": "أَسْمِعْ به وأَبْصِرْ",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "سمع",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  }
+}
