@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_262",
+  "raw_text": "شارك في الندوةِ ألفُ باحثٍ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "مشاركة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

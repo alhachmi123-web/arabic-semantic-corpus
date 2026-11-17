@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_252",
+  "raw_text": "ما للظالمينَ من حميمٍ ولا شفيعٍ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "ظلم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

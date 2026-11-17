@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_266",
+  "raw_text": "سافرَ أخوكَ أو أبوكَ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "سفر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
