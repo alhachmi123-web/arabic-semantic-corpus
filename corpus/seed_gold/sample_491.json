@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_491",
+  "raw_text": "قال أجئتنا لتخرجنا من أرضنا بسحرك يا موسى",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إتيان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_476",
+  "raw_text": "قالا ربنا إننا نخاف أن يفرط علينا أو أن يطغى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "خوف",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

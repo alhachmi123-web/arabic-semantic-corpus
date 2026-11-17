@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_461",
+  "raw_text": "وأشركه في أمري كي نسبحك كثيراً ونذكرك كثيراً",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إشراك",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

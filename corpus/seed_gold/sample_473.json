@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_473",
+  "raw_text": "اذهب أنت وأخوك بآياتي ولا تننيا في ذكري",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "ذهاب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

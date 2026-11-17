@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_455",
+  "raw_text": "ومن يتَّقِ اللهَ يجعلْ له مخرجاً ويرزقه من حيث لا يحتسبُ",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "تقوى",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

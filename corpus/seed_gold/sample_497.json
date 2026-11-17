@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_497",
+  "raw_text": "فتنازعوا أمرهم بينهم وأسروا النجوى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "تنازع",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

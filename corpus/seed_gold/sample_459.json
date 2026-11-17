@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_459",
+  "raw_text": "واحلل عقبةً من لساني يفقهوا قولي",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "حل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

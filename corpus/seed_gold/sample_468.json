@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_468",
+  "raw_text": "إذ تمشي أختك فتقول هل أدلكم على من يكفله",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "مشي",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}
