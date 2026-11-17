@@ -1,0 +1,34 @@
+{
+  "discourse_id": "DISC_GOLD_43",
+  "raw_text": "إنْ تدرسْ تنجحْ",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "إنْ"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "دراسة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": null,
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "تدرسْ",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "إنْ",
+      "target_element": "جواب الشرط",
+      "linked_value": "تنجحْ"
+    }
+  ]
+}
