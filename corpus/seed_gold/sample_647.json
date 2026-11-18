@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_647",
+  "raw_text": "حتى إذا فشلتم وتنازعتم في الأمر وعصيتم من بعد ما أراكم ما تحبون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "فشل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_661",
+  "raw_text": "ليجعل الله ذلك حسرة في قلوبهم والله يحيي ويميت",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "جعل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

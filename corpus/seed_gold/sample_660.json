@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_660",
+  "raw_text": "يا أيها الذين آمنوا لا تكونوا كالذين كفروا وقالوا لإخوانهم إذا ضربوا في الأرض أو كانوا غزى لو كانوا عندنا ما ماتوا وما قتلوا",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "كون",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_697",
+  "raw_text": "إن الذين اشتروا الكفر بالإيمان لن يضروا الله شيئاً ولهم عذاب أليم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "شراء",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

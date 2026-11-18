@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_651",
+  "raw_text": "فأثابكم غماً بغم لكيلا تحزنوا على ما فاتكم ولا ما أصابكم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إثابة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

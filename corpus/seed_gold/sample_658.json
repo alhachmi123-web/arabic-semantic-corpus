@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_658",
+  "raw_text": "إن الذين تولوا منكم يوم التقَى الجمعان إنما استزلهم الشيطان ببعض ما كسبوا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "تولي",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

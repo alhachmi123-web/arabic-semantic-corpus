@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_626",
+  "raw_text": "ويتخذ منكم شهداء والله لا يحب الظالمين",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "اتخاذ",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

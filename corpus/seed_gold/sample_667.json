@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_667",
+  "raw_text": "فإذا عزمت فتوكل على الله إن الله يحب المتوكلين",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "عزم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

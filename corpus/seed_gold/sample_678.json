@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_678",
+  "raw_text": "قل هو من عند أنفسكم إن الله على كل شيء قدير",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

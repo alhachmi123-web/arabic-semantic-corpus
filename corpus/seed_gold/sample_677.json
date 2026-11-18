@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_677",
+  "raw_text": "أولما أصابتكم مصيبة قد أصبتم مثليها قلتم أنى هذا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إصابة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
