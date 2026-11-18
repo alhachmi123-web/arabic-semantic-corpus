@@ -60,17 +60,35 @@
       display: flex;
       justify-content: center;
       gap: 1rem;
-      margin-top: 0.5rem;
+      margin-top: 0.75rem;
       flex-wrap: wrap;
+      align-items: center;
     }
 
     .rights-badge {
       background: rgba(255, 255, 255, 0.2);
-      padding: 0.2rem 0.6rem;
+      padding: 0.25rem 0.65rem;
       border-radius: 4px;
       font-size: 0.8rem;
       border: 1px solid rgba(255, 255, 255, 0.35);
       backdrop-filter: blur(4px);
+    }
+
+    .nav-link-btn {
+      background: #52b788;
+      color: #1b4332;
+      padding: 0.25rem 0.75rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      font-weight: bold;
+      text-decoration: none;
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      transition: all 0.2s;
+    }
+
+    .nav-link-btn:hover {
+      background: #ffffff;
+      color: #1b4332;
     }
 
     /* منطقة المحتوى القابلة للتمرير */
@@ -343,6 +361,7 @@
     <div class="header-badges">
       <span class="rights-badge">✨ محتوى ذهبي معتمد</span>
       <span class="rights-badge">🛡️ محمية لحفظ حقوق البحث العلمي والأكاديمي</span>
+      <a href="discussions.html" class="nav-link-btn">💬 مناقشات الباحثين والمطورين</a>
     </div>
   </header>
 

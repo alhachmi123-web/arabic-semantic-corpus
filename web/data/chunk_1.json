@@ -1,0 +1,4342 @@
+[
+  {
+    "discourse_id": "TC-001-2026",
+    "raw_text": "جَاءَ زَيْدٌ رَاكِضاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "زيد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "جاء",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "راكضاً",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "TC-002-2026",
+    "raw_text": "إِنَّ زَيْداً قَامَ ثُمَّ قَعَدَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "إنّ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "زيد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "قام",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "ثم",
+        "target_element": "قام",
+        "linked_value": "قعد"
+      }
+    ]
+  },
+  {
+    "discourse_id": "TC-003-2026",
+    "raw_text": "إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبادِهِ الْعُلَمَؤُا",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر",
+      "discourse_markers": [
+        "إنما"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "العلماء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "يخشى",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الله",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "TC-004-2026",
+    "raw_text": "وَاللَّهِ لَقَدْ أَفْلَحَ الْمُؤْمِنُونَ الصَّادِقُونَ",
+    "pragmatic_intent": {
+      "speech_act": "oath_قسم",
+      "discourse_markers": [
+        "والله",
+        "لقد"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "المؤمنون",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "أفلح",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": null,
+        "target_element": "المؤمنون",
+        "linked_value": "الصادقون"
+      }
+    ]
+  },
+  {
+    "discourse_id": "disc_05_exclamation",
+    "raw_text": "ما أسرعَ الأيامَ!",
+    "pragmatic_intent": {
+      "speech_act": "exclamation_تعجب",
+      "discourse_markers": [
+        "ما التعجبية"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "الأيام",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "أسرع",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "شدة السرعة والفجأة",
+        "phonetic_marker": "فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "disc_06_restriction",
+    "raw_text": "إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر",
+      "discourse_markers": [
+        "إِنَّمَا"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "العلماء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "يخشى",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "اللَّهَ",
+        "phonetic_marker": "فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "مِنْ",
+        "target_element": "العلماء",
+        "linked_value": "عِبَادِهِ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "disc_07_supplication",
+    "raw_text": "رَبِّ اغْفِرْ لِي",
+    "pragmatic_intent": {
+      "speech_act": "supplication_دعاء",
+      "discourse_markers": [
+        "نداء مقدر أداؤه بالمنادى المضاف لياء المتكلم"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "رب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      "action_event": {
+        "lemma": "اغفر",
+        "temporal_state": "imperative_استشرافي"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "المغفرة والستر",
+        "phonetic_marker": "سكون"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "لـ",
+        "target_element": "اغفر",
+        "linked_value": "لي"
+      }
+    ]
+  },
+  {
+    "discourse_id": "disc_08_oath",
+    "raw_text": "وَاللَّهِ لَأَقُومَنَّ",
+    "pragmatic_intent": {
+      "speech_act": "oath_قسم",
+      "discourse_markers": [
+        "واو القسم"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "أقوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "قام",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "توكيد",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "و",
+        "target_element": "أقوم",
+        "linked_value": "الله"
+      }
+    ]
+  },
+  {
+    "discourse_id": "disc_09_directive",
+    "raw_text": "لَا تَكُنْ خَوَّاراً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": [
+        "لا الناهية"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "تكن",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "كان",
+        "temporal_state": "imperative_استشرافي"
+      },
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "نهي عن صفة الخور والضعف",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": null,
+        "target_element": "تكن",
+        "linked_value": "خواراً"
+      }
+    ]
+  },
+  {
+    "discourse_id": "disc_10_exclamation",
+    "raw_text": "مَا أَجْمَلَ البَدِيعَ",
+    "pragmatic_intent": {
+      "speech_act": "exclamation_تعجب",
+      "discourse_markers": [
+        "ما التعجبية"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "أجمل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "جمل",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "تعجب من الحسن والجمال",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": null,
+        "target_element": "أجمل",
+        "linked_value": "البديع"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_100",
+    "raw_text": "ما جاءني من أحدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "أحد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_1000",
+    "raw_text": "وهو الذي أرسل الرياح بشراً بين يدي رحمته وأنزلنا من السماء ماء طهورا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إرسال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_101",
+    "raw_text": "جلسَ زيدٌ أمامَ المنبرِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جلوس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_102",
+    "raw_text": "سافرْتُ يومَ الخميسِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سفر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_103",
+    "raw_text": "انتصرَ الحقُّ صراحةً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "انتصار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_104",
+    "raw_text": "طابَ المكانُ هواءً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "طيب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_105",
+    "raw_text": "اشتريتُ عشرينَ كتاباً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شراء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_106",
+    "raw_text": "في الحديقةِ مائةُ شجرةٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "شجرة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_107",
+    "raw_text": "جاءني رجُلانِ اثنانِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_108",
+    "raw_text": "رأيتُ امرأتينِ اثنتينِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_109",
+    "raw_text": "هذا كتابٌ مفيدٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "كتاب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "disc_11_restriction",
+    "raw_text": "إِنَّمَا الصَّبْرُ جَمِيلٌ",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر",
+      "discourse_markers": [
+        "إنما"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "صبر",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "حصر صفة الجميل في الصبر",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": null,
+        "target_element": "الصبر",
+        "linked_value": "جميل"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_110",
+    "raw_text": "مررتُ برجلٍ كريمٍ أصلُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "مرور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_111",
+    "raw_text": "أقبلَ المعلمُ البشوشُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إقبال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_112",
+    "raw_text": "قرأتُ كتاباً تاريخياً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_113",
+    "raw_text": "جاء الذي نجحَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_114",
+    "raw_text": "أعجبني ما صنعتَهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إعجاب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_115",
+    "raw_text": "هؤلاءِ رجالٌ أبطالٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "رجل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_116",
+    "raw_text": "تلكَ آياتُ الكتابِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "آية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_117",
+    "raw_text": "الذي فازَ مُكافَأٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فوز",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_118",
+    "raw_text": "استغفرْ ربَّكَ تَغْنَمْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استغفار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_119",
+    "raw_text": "لا تضجرْ فيصيبَكَ الهمُّ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ضجر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "disc_12_assertion",
+    "raw_text": "الْحَقُّ وَاضِحٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "حق",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "وضح",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "بيان ظهور الحق وثبوته",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": null,
+        "target_element": "الحق",
+        "linked_value": "واضح"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_120",
+    "raw_text": "متى سفرُكَ القادمُ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سفر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_121",
+    "raw_text": "كيفَ جئتَ سالماً؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_122",
+    "raw_text": "أينَ استقرَّ العصفورُ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استقرار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_123",
+    "raw_text": "كم طالباً حضرَ الدرسَ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حضور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_124",
+    "raw_text": "أيَّ كتابٍ قرأتَ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_125",
+    "raw_text": "هل تفهمُ القاعدةَ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فهم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_126",
+    "raw_text": "نعمْ لقد فهمتُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فهم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_127",
+    "raw_text": "بلى إن اللهَ غفورٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "غفران",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_128",
+    "raw_text": "كلا إنها كلمةٌ هو قائلُها",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_129",
+    "raw_text": "أجلْ سنلتقي غداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "لقاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_13",
+    "raw_text": "أَحَقّاً قَدِمَ الرَّكْبُ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "modality": "epistemic",
+      "illocutionary_force": "استعلام واستثبات عن وقوع الحدث"
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "رَكْب",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "قَدِمَ",
+        "temporal_state": "past_منقضٍ",
+        "valence": 1
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "حَقّاً",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "semantic_reinforcement_تأكيد_وترسيخ",
+        "target_element": "وقت الوصول",
+        "linked_value": "تحقق الحدث"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_130",
+    "raw_text": "إي وربِّ العرشِ إنه لَحَقٌ",
+    "pragmatic_intent": {
+      "speech_act": "oath_قسم"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_131",
+    "raw_text": "حضرَ الأستاذُ غيرَ واحدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حضور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_132",
+    "raw_text": "ما جاء سوى زيدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_133",
+    "raw_text": "قرأتُ الكتبَ خلا كتاباً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_134",
+    "raw_text": "تصدقْ عسى أن تُؤجرَ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تصدق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_135",
+    "raw_text": "أوشكَ الصبحُ أن يتبلجَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "صبح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_136",
+    "raw_text": "شرعَ الخطيبُ يخطبُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "خطبة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_137",
+    "raw_text": "أنشأَ المطرُ ينهمرُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مطر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_138",
+    "raw_text": "أخذَ الطالبُ يراجعُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مراجعة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_139",
+    "raw_text": "بئسَ العقبى النارُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "عقبى",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_14",
+    "raw_text": "أَعِلْمٌ هَذَا أَمْ ظَنٌّ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "modality": "epistemic",
+      "illocutionary_force": "استعلام واستثبات عن حقيقة المعرفة"
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "عِلْم",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "هَذَا",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "حقيقة المعرفة",
+        "linked_value": "ظَنٌّ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_140",
+    "raw_text": "نعمَ المأوى الجنةُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "مأوى",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_141",
+    "raw_text": "حبذا الصدقُ في القولِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "صدق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_142",
+    "raw_text": "لا حبذا الكذبُ أبداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "كذب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_143",
+    "raw_text": "يا ليْتني كنْتُ معهمْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ليت",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_144",
+    "raw_text": "لعلَّ الأيامَ تثمرُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "أيام",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_145",
+    "raw_text": "كأنَّ الوجهَ بدرٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "وجه",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_146",
+    "raw_text": "لكنَّ البابَ مفتوحٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "باب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_147",
+    "raw_text": "إنَّ العدلَ أساسٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "عدل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_148",
+    "raw_text": "ظننتُ الأمرَ سهلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ظن",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_149",
+    "raw_text": "حسبتُ البردَ شديداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حسبان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_15",
+    "raw_text": "أَتَعَارَضُ الدَّلِيلانِ أَمْ تَخَالَفَا؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "دَلِيلان",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "تَعَارَضَ",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "طبيعة العلاقة",
+        "linked_value": "تَخَالَفَا"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_150",
+    "raw_text": "وجدْتُ الصبرَ مفتاحاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "وجدان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_151",
+    "raw_text": "إنْ تَصْدُقْ تُنْجَ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "صدق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_152",
+    "raw_text": "مَنْ يَزرعْ يحصُدْ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "زرع",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_153",
+    "raw_text": "حيثما تستقيمْ يُقَدَّرْ لكَ النجاحُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استقامة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_154",
+    "raw_text": "إذا جاء نصرُ اللهِ والفتحُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_155",
+    "raw_text": "لو أنزلنا هذا القرآنَ على جبلٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إنزال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_156",
+    "raw_text": "لولا العلمُ لتهالكَتِ الأممُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "علم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_157",
+    "raw_text": "كلما دخل عليها زكريا المحرابَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دخول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_158",
+    "raw_text": "لما جاء أمرُنا نَجَّيْنَا هوداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_159",
+    "raw_text": "علمتُ الحقَّ منتصراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "علم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_16",
+    "raw_text": "أَحُجَّةٌ الإِجْمَاعُ القَطْعِيُّ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "إِجْمَاع",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "القَطْعِيُّ",
+        "phonetic_marker": "damma_ضمة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "target_element": "طبيعة الدليل",
+        "linked_value": "حُجَّةٌ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_160",
+    "raw_text": "رأيتُ الصدقَ منجياً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_161",
+    "raw_text": "ألفتُ الكتابَ تأليفاً بديعاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تأليف",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_162",
+    "raw_text": "جلسَ الجلسةَ الهادئةَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جلوس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_163",
+    "raw_text": "ضربَ اللصَّ ضربةً واحداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ضرب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_164",
+    "raw_text": "دارَ اللاعبُ حولَ الملعبِ دورةً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دوران",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_165",
+    "raw_text": "أكلتُ الخبزَ نصفَهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نصف",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_166",
+    "raw_text": "أعجبني الزيدانِ عِلْمُهُما",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "علم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_167",
+    "raw_text": "سألتُ الإمامَ علياً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "علي",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_168",
+    "raw_text": "ما حضرَ إلا أخوكَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حضور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_169",
+    "raw_text": "ما رأيتُ إلا زيداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_17",
+    "raw_text": "أَعِلَّةٌ هَذَا الحُكْمِ أَمْ حِكْمَتُهُ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "عِلَّة",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "هَذَا الحُكْمِ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "طبيعة الوصف",
+        "linked_value": "حِكْمَة"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_170",
+    "raw_text": "ما مررتُ إلا بزيدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "مرور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_171",
+    "raw_text": "قام القومُ حاشا عَمْراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قيام",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_172",
+    "raw_text": "جاء الطلابُ عدا زيداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_173",
+    "raw_text": "أقبلَ الرجلُ المسرعُ خطاه",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إقبال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_174",
+    "raw_text": "هذا بيتٌ واسعٌ فناؤُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "بيت",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_175",
+    "raw_text": "يا نائماً تنبَّهْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_176",
+    "raw_text": "يا مطراً أنزلْ بركاتِكَ",
+    "pragmatic_intent": {
+      "speech_act": "supplication_دعاء"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مطر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_177",
+    "raw_text": "لا طالباً علماً خائبٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "طلب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_178",
+    "raw_text": "إنما التوفيقُ من اللهِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "توفيق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_179",
+    "raw_text": "بلْ ركضَ الحصانُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ركض",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_18",
+    "raw_text": "أَقَطْعِيٌّ هَذَا البُرْهَانُ أَمْ ظَنِّيٌّ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "بُرْهَان",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "هَذَا",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "وصف البرهان",
+        "linked_value": "ظَنِّيّ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_180",
+    "raw_text": "ما جاءني من بشيرٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "بشير",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_181",
+    "raw_text": "أينَ المفرُّ واليومُ موعودٌ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فرار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_182",
+    "raw_text": "كيفَ يصحُّ البدنُ بلا رياضةٍ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "صحة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_183",
+    "raw_text": "متى ينقشعُ الظلامُ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "انقشاع",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_184",
+    "raw_text": "كمْ كتاباً قرأتَ في السنةِ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_185",
+    "raw_text": "أيَّ طريقٍ سلكْتَ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سلوك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_186",
+    "raw_text": "هل تدركُ أهميةَ الوقتِ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "إدراك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_187",
+    "raw_text": "أكلتُ السمكَةَ وماءَ البحرِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ماء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_188",
+    "raw_text": "سرْتُ وشاطئَ النيلِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شاطئ",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_189",
+    "raw_text": "جاءني الرجلُ نفسُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نفس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_19",
+    "raw_text": "أَمَفْهُومٌ هَذَا الحُكْمِ أَمْ مَنْطُوقُهُ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مَفْهُوم",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "هَذَا الحُكْمِ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "دلالة اللفظ",
+        "linked_value": "مَنْطُوق"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_190",
+    "raw_text": "رأيتُ الحاضرينَ كُلَّهُمْ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_191",
+    "raw_text": "مررتُ بالقريةِ أجمعَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "جمع",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_192",
+    "raw_text": "إنَّ معَ العسرِ يسراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "عسر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_193",
+    "raw_text": "كأنَّ النجومَ جواهرُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "نجوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_194",
+    "raw_text": "لكنَّ الميدانَ فسيحٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ميدان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_195",
+    "raw_text": "لعلَّ النصرَ قريبٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "نصر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_196",
+    "raw_text": "ليت الشبابَ يعودُ يوماً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شباب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_197",
+    "raw_text": "أوشكَ المطرُ أن ينزلَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مطر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_198",
+    "raw_text": "عسى الكربُ أن ينفرجَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كرب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_199",
+    "raw_text": "جعلَ البستانيُ يسقي الزهرَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "بستاني",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_20",
+    "raw_text": "أَقِيَاسٌ هَذَا الأَصْلِ أَمْ نَصٌّ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "قِيَاس",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "هَذَا الأَصْلِ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "مصدر الحكم",
+        "linked_value": "نَصّ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_200",
+    "raw_text": "طفقَ القومُ يتفاوضونَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_201",
+    "raw_text": "جاء هذا الرجلُ كريماً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_202",
+    "raw_text": "رأيتُ التي فازتْ بالمسابقةِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_203",
+    "raw_text": "انتظرتُكَ قبلَ صلاةِ العصرِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "انتظار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_204",
+    "raw_text": "جلستُ خلفَ الإمامِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جلوس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_205",
+    "raw_text": "سرتُ فرسخينِ كاملينِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سير",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_206",
+    "raw_text": "وقفتُ مبرزاً احترامي",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "وقوف",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_207",
+    "raw_text": "اشتعلَ البيتُ ناراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "اشتعال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_208",
+    "raw_text": "تكسرَ الزجاجُ قطعاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تكسر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_209",
+    "raw_text": "أنتِ أكرمُ الناسِ أخلاقاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "كرم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_21",
+    "raw_text": "أَمَفْهُومُ المُخَالَفَةِ حُجَّةٌ أَمْ دَلِيلُ خِطَابٍ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مَفْهُوم",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "المُخَالَفَةِ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "مصطلح أصولي",
+        "linked_value": "دَلِيل"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_210",
+    "raw_text": "امتلأ الإناءُ ماءً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "امتلاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_211",
+    "raw_text": "هذا الذي ننتظرُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "انتظار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_212",
+    "raw_text": "جاء اللذانِ شاركا في المسابقةِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_213",
+    "raw_text": "أعجبني هؤلاءِ الذينَ تفوقوا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إعجاب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_214",
+    "raw_text": "أقبلتِ اللاتي فُزْنَ بالجوائزِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إقبال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_215",
+    "raw_text": "نمتُ طوالَ الليلِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_216",
+    "raw_text": "سافرتُ ريثما تصفو السماءُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سفر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_217",
+    "raw_text": "جلستُ حيثُ استقرَّ الصديقُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جلوس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_218",
+    "raw_text": "ذهبتُ إلى حيثُ يعيشُ أهلي",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ذهاب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_219",
+    "raw_text": "أجرتُ العملَ إنجازاً تاماَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إجراء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_22",
+    "raw_text": "أَاْسْتِثْنَاءٌ مُتَّصِلٌ هَذَا أَمْ مُنْقَطِعٌ؟",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أَ",
+        "أَمْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "اْسْتِثْنَاء",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "هَذَا",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أَمْ",
+        "target_element": "نوع الاستثناء",
+        "linked_value": "مُنْقَطِع"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_220",
+    "raw_text": "سجدتُ لله شكراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سجود",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_221",
+    "raw_text": "ركضتُ ركضَ المتسابقِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ركض",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_222",
+    "raw_text": "ضربتُ اللصَّ ضربتينِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ضرب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_223",
+    "raw_text": "عاد الفائزُ جذلانَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "عودة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_224",
+    "raw_text": "شربتُ الماءَ مصفىً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شرب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_225",
+    "raw_text": "جاءني زيدٌ راكباً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_226",
+    "raw_text": "تصدقتُ بعشرينَ درهماً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تصدق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_227",
+    "raw_text": "اشتريتُ أوقيةً عسلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شراء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_228",
+    "raw_text": "زرعتُ الأرضَ شجراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "زراعة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_229",
+    "raw_text": "هذا بناءٌ أطولُ من غيرِهِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "بناء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_23",
+    "raw_text": "إِنْ تَجْتَهِدْ تَنْجَحْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": [
+        "إِنْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "اجتهاد",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      "action_event": null,
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "cause_purpose_العلة_والغاية",
+        "value": "تَجْتَهِدْ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "إِنْ",
+        "target_element": "جواب الشرط",
+        "linked_value": "تَنْجَحْ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_230",
+    "raw_text": "تأملتُ هاتينِ اللوحتينِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تأمل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_231",
+    "raw_text": "كرمتِ المدرسةُ اللذينِ فازا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تكريم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_232",
+    "raw_text": "جاءني ذو العلمِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_233",
+    "raw_text": "صمتُ يومَ الاثنينِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "صيام",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_234",
+    "raw_text": "سرتُ فرسخينِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سير",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_235",
+    "raw_text": "وقفتُ أمامَ الطابورِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "وقوف",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_236",
+    "raw_text": "استغفرتُ ربي إنابةً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استغفار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_237",
+    "raw_text": "أحببتُ الحقَّ حباً شديداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_238",
+    "raw_text": "هجمَ الجيُشُ هجمةَ الأسدِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "هجوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_239",
+    "raw_text": "أكلتُ التفاحةَ ثلثَها",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ثلث",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_24",
+    "raw_text": "مَا جَاءَ زَيْدٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "مَا"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "مَا",
+        "phonetic_marker": "implicit_مقدر"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "مَا",
+        "target_element": "الفعل المنفي",
+        "linked_value": "جَاءَ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_240",
+    "raw_text": "أعجبني الطالبُ فكرُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فكر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_241",
+    "raw_text": "زارني الصديقُ محمدٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "زيارة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_242",
+    "raw_text": "مررتُ بأخيكَ زيدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "مرور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_243",
+    "raw_text": "قرأتُ النصفَ من الكتابِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_244",
+    "raw_text": "ما نجحَ إلا المهملُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نجاح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_245",
+    "raw_text": "جاء الطلابُ خلا خالداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_246",
+    "raw_text": "يا راكباً إلى المجدِ أقبلْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ركوب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_247",
+    "raw_text": "ألا أيها الليلُ الطويلُ انجلِ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ليل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_248",
+    "raw_text": "إنما الحياةُ درسٌ بليغٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حياة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_249",
+    "raw_text": "لا شكَّ في صدقِ الخبرِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "شك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_25",
+    "raw_text": "إِنْ تَجْتَهِدْ تَنْجَحْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": [
+        "إِنْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "اجتهاد",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      "action_event": null,
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "cause_purpose_العلة_والغاية",
+        "value": "تَجْتَهِدْ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "إِنْ",
+        "target_element": "جواب الشرط",
+        "linked_value": "تَنْجَحْ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_250",
+    "raw_text": "عسى اللهُ أن يأتِيَ بالفتحِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إتيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_251",
+    "raw_text": "من ذا الذي يشفعُ عنده إلا بإذنِهِ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شفاعة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_252",
+    "raw_text": "ما للظالمينَ من حميمٍ ولا شفيعٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ظلم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_253",
+    "raw_text": "أينَ مفرُّ العاصي يومَ القيامةِ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فرار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_254",
+    "raw_text": "كيفَ يرتقي العقلُ بلا قراءةٍ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ارتقاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_255",
+    "raw_text": "متى يُنجِزُ الوعدُ الحقُّ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إنجاز",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_256",
+    "raw_text": "كمْ كتاباً درستَ في النحوِ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دراسة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_257",
+    "raw_text": "أيَّ طالبٍ أكرمتَ اليومَ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إكرام",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_258",
+    "raw_text": "هل أتاكَ حديثُ الغاشيةِ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إتيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_259",
+    "raw_text": "قرأتُ ثلاثةَ كتبٍ مفيدةٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_26",
+    "raw_text": "مَا جَاءَ زَيْدٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "مَا"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "مَا",
+        "phonetic_marker": "implicit_مقدر"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "مَا",
+        "target_element": "الفعل المنفي",
+        "linked_value": "جَاءَ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_260",
+    "raw_text": "حضرَ المعرضَ خمسةَ عشرَ طالباً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حضور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_261",
+    "raw_text": "في المكتبةِ مئتا مجلدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "مجلد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_262",
+    "raw_text": "شارك في الندوةِ ألفُ باحثٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مشاركة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_263",
+    "raw_text": "جاء زيدٌ فعمروٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_264",
+    "raw_text": "دخلَ المديرُ ثمَّ المعلمونَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دخول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_265",
+    "raw_text": "أترغبُ في الشايِ أم القهوةِ؟",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "رغبة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_266",
+    "raw_text": "سافرَ أخوكَ أو أبوكَ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سفر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_267",
+    "raw_text": "ما حضرَ زيدٌ بلْ بكرٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حضور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_268",
+    "raw_text": "لا تصاحبِ الكسولَ لكنِ المجدَّ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "صاحب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_269",
+    "raw_text": "يا محمدُ أقبلْ نحوَنَا",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "محمد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_27",
+    "raw_text": "إِنْ تَجْتَهِدْ تَنْجَحْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": [
+        "إِنْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "اجتهاد",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      "action_event": null,
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "cause_purpose_العلة_والغاية",
+        "value": "تَجْتَهِدْ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "إِنْ",
+        "target_element": "جواب الشرط",
+        "linked_value": "تَنْجَحْ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_270",
+    "raw_text": "يا رجلاً خذْ بيدِ الضالِّ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رجل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_271",
+    "raw_text": "أكلتُ الرغيفَ ثلثَهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ثلث",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_272",
+    "raw_text": "أعجبني البستانُ أزهارُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "زهر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_273",
+    "raw_text": "زارني الخليفةُ عمرُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "زيارة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_274",
+    "raw_text": "رأيتُ الحديقةَ سورَها",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_275",
+    "raw_text": "إنَّ العدلَ أساسُ الملكِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "عدل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_276",
+    "raw_text": "لعلي أصيبُ خيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إصابة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_277",
+    "raw_text": "ليت الشبابَ يعودُ يوماً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "شباب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_278",
+    "raw_text": "كأنَّ الحقَّ شمسٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_279",
+    "raw_text": "ما زالَ المطرُ ينهمرُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مطر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_28",
+    "raw_text": "مَا جَاءَ زَيْدٌ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "مَا"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "مَا",
+        "phonetic_marker": "implicit_مقدر"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "مَا",
+        "target_element": "الفعل المنفي",
+        "linked_value": "جَاءَ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_280",
+    "raw_text": "باتَ الساهرُ يترقبُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سهر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_281",
+    "raw_text": "أضحى العلمُ نوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "علم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_282",
+    "raw_text": "أمسى الجوُّ معتدلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "جو",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_283",
+    "raw_text": "صار الحلمُ حقيقةً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حلم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_284",
+    "raw_text": "ليس الكذبُ من شيمِ الأحرارِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "كذب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_285",
+    "raw_text": "ما انفكَّ الحقُّ عالياً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_286",
+    "raw_text": "ما برحَ الصديقُ مخلصاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "صديق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_287",
+    "raw_text": "ما فتئَ المعلمُ ناصحاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "معلم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_288",
+    "raw_text": "ما دامَ العزمُ قوياً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "عزم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_289",
+    "raw_text": "أفادني الكتابُ علماً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إفادة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_29",
+    "raw_text": "هَذَا كِتَابُ زَيْدٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "هَذَا"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "كتاب",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "زَيْدٍ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "attribute_specification_وصف_وتخصيص",
+        "connector_particle": "الضمة",
+        "target_element": "المضاف إليه",
+        "linked_value": "زَيْدٍ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_290",
+    "raw_text": "منحَ الغنيُ الفقيرَ ثوباً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "منح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_291",
+    "raw_text": "كسوتُ المحتاجَ جبةً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كسوة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_292",
+    "raw_text": "ألفتُ الصدقَ منقذاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ألفة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_293",
+    "raw_text": "وجدتُ الاجتهادَ سبيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "وجد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_294",
+    "raw_text": "حسبتُ الأمرَ سهلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حسبان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_295",
+    "raw_text": "ظننتُ الكسلَ خاسراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ظن",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_296",
+    "raw_text": "زعمَ الجاهلُ العلمَ سهلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "زعم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_297",
+    "raw_text": "رأيتُ الصديقَ محباً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_298",
+    "raw_text": "علمتُ الحقَّ منتصراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "علم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_299",
+    "raw_text": "اتخذَ اللهُ إبراهيمَ خليلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "اتخاذ",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_30",
+    "raw_text": "ذَهَبَ عَلِيٌّ إِلَى المَدْرَسَةِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "إِلَى"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "ذهاب",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": null,
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "spatial_coord_الإحداثي_المكاني",
+        "value": "المَدْرَسَةِ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "إِلَى",
+        "target_element": "جار ومجرور",
+        "linked_value": "المَدْرَسَةِ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_300",
+    "raw_text": "جعلَ ربُّكَ كيدَهم في تضليلٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جعل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_301",
+    "raw_text": "إنْ تتقِ اللهَ يجعَلْ لكَ مخرجاً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تقوى",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_302",
+    "raw_text": "مَنْ يَسْعَ في الخيرِ يَجِدْ ثمرتَهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سعي",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_303",
+    "raw_text": "مهما تقرأْ تزدْدْ معرفةً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_304",
+    "raw_text": "حيثما توجّهْ ركابَكَ تجدْ ترحيباً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "توجيه",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_305",
+    "raw_text": "جلسْتُ استراحةً من التعبِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جلوس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_306",
+    "raw_text": "زرتُ الصديقَ ابتغاءَ المودةِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "زيارة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_307",
+    "raw_text": "سرتُ وطلوعَ الفجرِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "سير",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_308",
+    "raw_text": "استيقظتُ ونزولَ المطرِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استيقاظ",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_309",
+    "raw_text": "نجحَ الطلابُ خلا زيداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نجاح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_31",
+    "raw_text": "إِنْ تَجْتَهِدْ تَنْجَحْ",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": [
+        "إِنْ"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "اجتهاد",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      "action_event": null,
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "cause_purpose_العلة_والغاية",
+        "value": "تَجْتَهِدْ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "إِنْ",
+        "target_element": "جواب الشرط",
+        "linked_value": "تَنْجَحْ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_310",
+    "raw_text": "حضرَ الضيوفُ عدا خالداً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حضور",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_311",
+    "raw_text": "فازَ المتسابقون حاشا عمراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "فوز",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_312",
+    "raw_text": "زيداً أكرمتُهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إكرام",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_313",
+    "raw_text": "الكتابَ قرأتُهُ بتأملٍ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قراءة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_314",
+    "raw_text": "الضيفَ أكرمتُ أخاهُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إكرام",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_315",
+    "raw_text": "حبذا الصدقُ في الأقوالِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "صدق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_316",
+    "raw_text": "لا حبذا الكذبُ في المعاملاتِ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "كذب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_317",
+    "raw_text": "نعمَ الرَّجُلُ الصادقُ",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "رجل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  }
+]

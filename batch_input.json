@@ -1,0 +1,1502 @@
+[
+  {
+    "discourse_id": "DISC_GOLD_901",
+    "raw_text": "والطير صافات كل قد علم صلاته وتسبيحه والله عليم بما يفعلون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "علم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_902",
+    "raw_text": "ولله ملك السماوات والأرض وإلى الله المصير",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ملك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_903",
+    "raw_text": "ألم تر أن الله يزجي سحاباً ثم يؤلف بينه ثم يجعله ركاماً فترى الودق يخرج من خلاله",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_904",
+    "raw_text": "وينزل من السماء من جبال فيها من برد فيصيب به من يشاء ويصرفه عن من يشاء",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إنزال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_905",
+    "raw_text": "يكاد سنا برقه يذهب بالأبصار",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كاد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_906",
+    "raw_text": "يقلب الله الليل والنهار إن في ذلك عبرة لأولي الأبصار",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قلب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_907",
+    "raw_text": "والله خلق كل دابة من ماء فمنهم من يمشي على بطنه ومنهم من يمشي على رجلين",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "خلق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_908",
+    "raw_text": "ومنهم من يمشي على أربع يخلق الله ما يشاء إن الله على كل شيء قدير",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مشْي",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_909",
+    "raw_text": "لقد أنزلنا آيات مبينات والله يهدي من يشاء إلى صراط مستقيم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إنزال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_910",
+    "raw_text": "ويقولون آمنا بالله وبالرسول وأطعنا ثم يتولى فريق منهم من بعد ذلك وما أولئك بالمؤمنين",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_911",
+    "raw_text": "وإذا دعوا إلى الله ورسوله ليحكم بينهم إذا فريق منهم معرضون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دعاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_912",
+    "raw_text": "وإن يكن لهم الحق يأتوا إليه مذعنين",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كون",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_913",
+    "raw_text": "أفي قلوبهم مرض أم ارتابوا أم يخافون أن يحيف الله عليهم ورسوله بل أولئك هم الظالمون",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "قلب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_914",
+    "raw_text": "إنما كان قول المؤمنين إذا دعوا إلى الله ورسوله ليحكم بينهم أن يقولوا سمعنا وأطعنا",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "كون",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_915",
+    "raw_text": "وأولئك هم المفلحون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "فلاح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_916",
+    "raw_text": "ومن يطع الله ورسوله ويخش الله ويتقه فأولئك هم الفائزون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "طاعة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_917",
+    "raw_text": "وأقسموا بالله جهد أيمانهم لئن أمرتهم ليخرجن قل لا تقسموا طاعة معروفة",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قسْم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_918",
+    "raw_text": "إن الله خبير بما تعملون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "خبرة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_919",
+    "raw_text": "قل أطيعوا الله وأطيعوا الرسول فإن تولوا فإنما عليه ما حمل وعليكم ما حملتم",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "directive_طلب",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_920",
+    "raw_text": "وإن تطيعوه تهتدوا وما على الرسول إلا البلاغ المبين",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "طاعة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_921",
+    "raw_text": "وعد الله الذين آمنوا منكم وعملوا الصالحات ليستخلفنهم في الأرض كما استخلف الذين من قبلهم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "وعد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_922",
+    "raw_text": "وليمكنن لهم دينهم الذي ارتضى لهم وليبدلنهم من بعد خوفهم أمنة يعبدونني لا يشركون بي شيئاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تمكين",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_923",
+    "raw_text": "ومن كفر بعد ذلك فأولئك هم الفاسقون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كفر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_924",
+    "raw_text": "وأقيموا الصلاة وآتوا الزكاة وأطيعوا الرسول لعلكم ترحمون",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إقامة",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_925",
+    "raw_text": "لا تحسبن الذين كفروا معجزين في الأرض ومأواهم النار ولبئس المصير",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حسبان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_926",
+    "raw_text": "يا أيها الذين آمنوا ليستركم الذين ملكت أيمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استئذان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_927",
+    "raw_text": "من قبل صلاة الفجر حين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "وضع",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_928",
+    "raw_text": "ليس عليكم ولا عليهم جناح بعدهن طوافون عليكم بعضكم على بعض",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "جناح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_929",
+    "raw_text": "كذلك يبين الله لكم الآيات والله عليم حكيم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "بيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_930",
+    "raw_text": "وإذا بلغ الأطفال منكم الحلم فليستئذنوا كما استئذن الذين من قبلهم",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "بلوغ",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_931",
+    "raw_text": "كذلك يبين الله لكم آياته والله عليم حكيم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "بيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_932",
+    "raw_text": "والقواعد من النساء اللاتي لا يرجون نكاحاً فليس عليهن جناح أن يضعن ثيابهن غير متبرجات بزينة",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "قواعد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_933",
+    "raw_text": "وأن يستعففن خير لهن والله سميع عليم",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "استعفاف",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_934",
+    "raw_text": "ليس على الأعمى حرج ولا على الأعرج حرج ولا على المرضى حرج ولا على أنفسكم أن تأكلوا من بيوتكم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حرج",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_935",
+    "raw_text": "أو بيوت آبائكم أو بيوت أمهاتكم أو بيوت إخوانكم أو بيوت أخواتكم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "بيت",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_936",
+    "raw_text": "أو بيوت أعمامكم أو بيوت عماتكم أو بيوت أخوالكم أو بيوت خالاتكم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "بيت",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_937",
+    "raw_text": "أو ما ملكتم مفاتحه أو صديقكم ليس عليكم جناح أن تأكلوا جميعاً أو أشتاتاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ملك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_938",
+    "raw_text": "فإذا دخلتم بيوتاً فسلموا على أنفسكم تحية من عند الله مباركة طيبة",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دخول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_939",
+    "raw_text": "كذلك يبين الله لكم الآيات لعلكم تعقلون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "بيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_940",
+    "raw_text": "إنما المؤمنون الذين آمنوا بالله ورسوله وإذا كانوا معه على أمر جامع لم يذهبوا حتى يستأذنوه",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "إيمان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_941",
+    "raw_text": "إن الذين يستأذنونك أولئك الذين يؤمنون بالله ورسوله",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استئذان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_942",
+    "raw_text": "فإذا استأذنوك لبعض شأنهم فأذن لمن شئت منهم واستغفر لهم الله إن الله غفور رحيم",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استئذان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_943",
+    "raw_text": "لا تجعلوا دعاء الرسول بينكم كدعاء بعضكم بعضاً قد يعلم الله الذين يتسللون منكم لواذاً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جعل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_944",
+    "raw_text": "فليحذر الذين يخالفون عن أمره أن تصيبهم فتنة أو يصيبهم عذاب أليم",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حذر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_945",
+    "raw_text": "ألا إن لله ما في السماوات والأرض قد يعلم ما أنتم عليه",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ملك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_946",
+    "raw_text": "ويوم يرجعون إليه فينبئهم بما عملوا والله بكل شيء عليم",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رجوع",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_947",
+    "raw_text": "تبارك الذي نزّل الفرقان على عبده لييكون للعالمين نذيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تبرك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_948",
+    "raw_text": "الذي له ملك السماوات والأرض ولم يتخذ ولداً ولم يكن له شريك في الملك",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ملك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_949",
+    "raw_text": "وخلق كل شيء فقدره تقديراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "خلق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_950",
+    "raw_text": "واتخذوا من دونه آلهة لا يخلقون شيئاً وهم يخلقون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "اتخاذ",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_951",
+    "raw_text": "ولا يملكون لأنفسهم ضراً ولا نفعاً ولا يملكون موتاً ولا حياة ولا نشوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ملك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_952",
+    "raw_text": "وقال الذين كفروا إن هذا إلا إفك افتراه وأعانه عليه قوم آخرون",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_953",
+    "raw_text": "فققد جاءوا ظلماً وزوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "مجيء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_954",
+    "raw_text": "وقالوا أساطير الأولين اكتتبها فهي تملى عليه بكرة وأصيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_955",
+    "raw_text": "قل أنزله الذي يعلم السر في السماوات والأرض إنه كان غفوراً رحيماً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_956",
+    "raw_text": "وقالوا مال هذا الرسول يأكل الطعام ويمشي في الأسواق لولا أنزل إليه ملك فيكون معه نذيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_957",
+    "raw_text": "أو يلقى إليه كنز أو تكون له جنة يأكل منها وقال الظالمون إن تتبعون إلا رجلاً مسحوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إلقاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_958",
+    "raw_text": "انظر كيف ضربوا لك الأمثال فضلوا فلا يستطيعون سبيلا",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "نظر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_959",
+    "raw_text": "تبارك الذي إن شاء جعل لك خيراً من ذلك جنات تجري من تحتها الأنهار ويجعل لك قصوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تبرك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_960",
+    "raw_text": "بل كذبوا بالساعة وأعتدنا لمن كذب بالساعة سعيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تكذيب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_961",
+    "raw_text": "إذا رأتهم من مكان بعيد سمعوا لها تغيظاً وزفيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_962",
+    "raw_text": "وإذا ألقوا منها مكاناً ضيقاً مقرنين دعوا هنالك ثبوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إلقاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_963",
+    "raw_text": "لا تدعوا اليوم ثبوراً واحداً وادعوا ثبوراً كثيراً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "دعاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_964",
+    "raw_text": "قل أذلك خير أم جنة الخلد التي وعد المتقون كانت لهم جزاء ومصيراً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_965",
+    "raw_text": "لهم فيها ما يشاؤون خالدين فيه كان على ربك وعداً مسئولا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "مشياء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_966",
+    "raw_text": "ويوم يحشرهم وما يعبدون من دون الله فيقول أأنتم أضللتم عبادي هؤلاء أم هم ضلوا السبيل",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حشر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_967",
+    "raw_text": "قالوا سبحانك ما كان ينبغي لنا أن نتخذ من دونك من أولياء ولكن متعتهم وآباءهم حتى نسوا الذكر وكانوا قوماً بوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_968",
+    "raw_text": "فقد كذبوكم بما تقولون فما تستطيعون صرفاً ولا نصراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تكذيب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_969",
+    "raw_text": "ومن يظلم منكم نذقه عذاباً كبيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ظلم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_970",
+    "raw_text": "وما أرسلنا قبلك من المرسلين إلا إنهم ليأكلون الطعام ويمشون في الأسواق",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إرسال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_971",
+    "raw_text": "وجعلنا بعضكم لبعض فتنة أتصبرون وكان ربك بصيراً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جعل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_972",
+    "raw_text": "وقال الذين لا يرجون لقاءنا لولا أنزل علينا الملائكة أو نرى ربنا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_973",
+    "raw_text": "لقد استكبروا في أنفسهم وعتوا عتوّاً كبيرا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "استكبار",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_974",
+    "raw_text": "يوم يرون الملائكة لا بشرى يومئذ للمجرمين ويقولون حجراً محجوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_975",
+    "raw_text": "وقدمنا إلى ما عملوا من عمل فجعلناه هباء منثوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قدوم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_976",
+    "raw_text": "أصحاب الجنة يومئذ خير مستقراً وأحسن مقيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "صاحب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_977",
+    "raw_text": "ويوم تشقق السماء بالغمام ونزل الملائكة تنزيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تشقق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_978",
+    "raw_text": "الملك يومئذ الحق للرحمن وكان يوماً على الكافرين عسيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "ملك",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_979",
+    "raw_text": "ويوم يعض الظالم على يديه يقول يا ليتني اتخذت مع الرسول سبيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "عضّ",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_980",
+    "raw_text": "يا ويلتا ليتني لم أتخذ فلاناً صديقاً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ويل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_981",
+    "raw_text": "لقد أضلني عن الذكر بعد إذ جاءني وكان الشيطان للإنسان خذولاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إضلال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_982",
+    "raw_text": "وقال الرسول يا رب إن قومي اتخذوا هذا القرآن مهجوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_983",
+    "raw_text": "وكذلك جعلنا لكل نبي عدواً من المجرمين وكفى بربك هادياً ونصيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جعل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_984",
+    "raw_text": "وقال الذين كفروا لولا نزل عليه القرآن جملة واحدة كذلك لنثبت به فؤادك ورتلناه ترتيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_985",
+    "raw_text": "ولا يأتونك بمثل إلا جئناك بالحق وأحسن تفسيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إتيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_986",
+    "raw_text": "الذين يحشرون على وجوههم إلى جهنم أولئك شر مكاناً وأضل سبيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "حشر",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_987",
+    "raw_text": "ولقد آتينا موسى الكتاب وجعلنا معه أخاه هارون وزيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إيتاء",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_988",
+    "raw_text": "فقلنا اذهبا إلى القوم الذين كذبوا بآياتنا فدمّرناها تدميراً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قول",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_989",
+    "raw_text": "وقوم نوح لما كذبوا الرسل أغرقناهم وجعلناهم للناس آية وأعتدنا للظالمين عذاباً أليماً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "تدمير",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_990",
+    "raw_text": "وعاداً وثمود وأصحاب الرس وقروناً بين ذلك كثيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "عطف",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_991",
+    "raw_text": "وكلا ضربنا له الأمثال وكلاً تبرنا تتبيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "ضرب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_992",
+    "raw_text": "ولقد أتوا على القرية التي أمطرت مطر السوء أفلم تكونوا يرونها بل كانوا لا يرجون نشوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إتيان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_993",
+    "raw_text": "وإذا رأوك إن يتخذونك إلا هزواً أهذا الذي بعث الله رسولاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_994",
+    "raw_text": "إن كاد ليضلنا عن آلتنا لولا أن صبرنا عليها وسوف يعلمون حين يرون العذاب من أضل سبيلاً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "كاد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_995",
+    "raw_text": "أرأيت من اتخذ إلهه هواه أفأنت تكون عليه وكيلًا",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_996",
+    "raw_text": "أم تحسب أن أكثرهم يسمعون أو يعقلون إن هم إلا كالأنعام بل هم أضل سبيلاً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+      "topic_axis": {
+        "lemma": "حسبان",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_997",
+    "raw_text": "ألم تر إلى ربك كيف مد الظل ولو شاء لجعله ساكناً ثم جعلنا الشمس عليه دليلاً",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "رؤية",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_998",
+    "raw_text": "ثم قبضناه إلينا قبضاً يسيراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "قبض",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_999",
+    "raw_text": "وهو الذي جعل لكم الليل لباساً والنام سباتاً وجعل النهار نشوراً",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "جعل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  },
+  {
+    "discourse_id": "DISC_GOLD_1000",
+    "raw_text": "وهو الذي أرسل الرياح بشراً بين يدي رحمته وأنزلنا من السماء ماء طهورا",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار"
+    },
+    "predication_core": {
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+      "topic_axis": {
+        "lemma": "إرسال",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      }
+    }
+  }
+]
