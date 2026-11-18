@@ -5,7 +5,7 @@
     "speech_act": "directive_طلب"
   },
   "predication_core": {
-    "semantic_aspect": "directive_طلب",
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
       "lemma": "قول",
       "role": "initiator_مُحدِث",

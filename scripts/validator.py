@@ -25,9 +25,9 @@ def validate_corpus():
     if not schema:
         return False
 
-    # البحث عن جميع ملفات JSON داخل مجلدات المدونة
-    corpus_pattern = os.path.join("corpus", "**", "*.json")
-    json_files = glob.glob(corpus_pattern, recursive=True)
+    # فحص العينات المفردة فقط، واستبعاد ملفات التجميع ذات البنية المختلفة
+    corpus_pattern = os.path.join("corpus", "seed_gold", "sample_*.json")
+    json_files = glob.glob(corpus_pattern)
 
     if not json_files:
         print("[تنبيه] لم يتم العثور على أي ملفات JSON داخل مجلد corpus حتى الآن.")
