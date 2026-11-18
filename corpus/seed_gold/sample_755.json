@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_755",
+  "raw_text": "كذلك فعل الذين من قبلهم وما ظلمهم الله ولكن كانوا أنفسهم يظلمون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "فعل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

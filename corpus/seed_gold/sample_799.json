@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_799",
+  "raw_text": "وإن لكم في الأنعام لعبرة نسقيكم مما في بطونه من بين فرث ودم لبناً خالصاً سائغاً للشاربين",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "عبرة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

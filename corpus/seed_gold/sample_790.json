@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_790",
+  "raw_text": "ولو يؤاخذ الله الناس بظلمهم ما ترك عليها من دابة ولكن يؤخرهم إلى أجل مسمى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "مؤاخذة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

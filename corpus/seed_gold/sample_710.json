@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_710",
+  "raw_text": "الذين يجعلون مع الله إلهاً آخر فسوف يعلمون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "جعل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

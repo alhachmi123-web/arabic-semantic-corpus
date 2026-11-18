@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_777",
+  "raw_text": "ولله يسجد ما في السماوات وما في الأرض من دابة والملائكة وهم لا يستكبرون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "سجود",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

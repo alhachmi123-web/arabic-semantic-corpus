@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_796",
+  "raw_text": "وما أنزلنا عليك الكتاب إلا لتبيّن لهم الذي اختلفوا فيه وهدى ورحمة لقوم يؤمنون",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إنزال",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

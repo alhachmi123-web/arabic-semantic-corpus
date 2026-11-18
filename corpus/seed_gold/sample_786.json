@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_786",
+  "raw_text": "وإذا بشر أحدهم بالأنثى ظل وجهه مسودا وهو كظيم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "بشارة",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

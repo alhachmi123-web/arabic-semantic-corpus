@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_740",
+  "raw_text": "ليحملوا أوزارهم كاملة يوم القيامة ومن أوزار الذين يضلونهم بغير علم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "حمل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

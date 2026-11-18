@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_753",
+  "raw_text": "الذين تتوفاهم الملائكة طيبين يقولون سلام عليكم ادخلوا الجنة بما كنتم تعملون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "توفي",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

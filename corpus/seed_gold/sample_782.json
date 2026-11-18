@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_782",
+  "raw_text": "ثم إذا كشف الضر عنكم إذا فريق منكم بربهم يشركون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "كشف",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

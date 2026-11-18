@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_714",
+  "raw_text": "أتى أمر الله فلا تستعجلونه سبحانه وتعالى عما يشركون",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إتيان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
