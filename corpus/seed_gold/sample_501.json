@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_501",
+  "raw_text": "وما أرسلناك إلا رحمةً للعالمين",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إرسال",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

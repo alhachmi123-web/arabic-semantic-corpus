@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_573",
+  "raw_text": "قد خلت من قبلكم سنن فسيروا في الأرض فانظروا كيف كان عاقبة المكذبين",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "خلُوّ",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

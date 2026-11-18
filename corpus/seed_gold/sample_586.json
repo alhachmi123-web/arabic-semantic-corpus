@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_586",
+  "raw_text": "وما كان لنفسٍ أن تموت إلا بإذن الله كتاباً مؤجلاً",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "كون",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

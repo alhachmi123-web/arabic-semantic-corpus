@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_551",
+  "raw_text": "وعلى الله فليتوكل المؤمنون",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "توكل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

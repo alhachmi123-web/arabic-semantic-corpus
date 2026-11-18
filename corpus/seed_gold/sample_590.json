@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_590",
+  "raw_text": "فما وهنوا لما أصابهم في سبيل الله وما ضعفوا وما استكانوا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "وهن",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

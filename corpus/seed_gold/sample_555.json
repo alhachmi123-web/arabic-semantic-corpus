@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_555",
+  "raw_text": "بلى إن تصبروا وتتقوا ويأتوكم من فورهم هذا يمددكم ربكم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "صبر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}
