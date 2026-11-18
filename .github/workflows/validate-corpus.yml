@@ -27,4 +27,4 @@ jobs:
 
       - name: تشغيل الفحص الدلالي والقياسي للمدونة
         run: |
-          python scripts/validator.py
+          python validator.py
