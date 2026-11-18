@@ -46,11 +46,11 @@ def validate_corpus():
         try:
             # عملية التحقق الأساسية ضد الـ Schema المعيارية
             validate(instance=instance, schema=schema)
-            print(f"[صحيح ✓] {file_path}")
+            print(f"[صحيح] {file_path}")
         except ValidationError as e:
             has_errors = True
-            print(f"[خطأ دلالي ✗] الملف غير مطابق للمعيار: {file_path}")
-            print(f"   └── السبب: {e.message}")
+            print(f"[خطأ دلالي] الملف غير مطابق للمعيار: {file_path}")
+            print(f"   السبب: {e.message}")
 
     if has_errors:
         print("\n[نتيجة الفحص] فشل الاختبار: وُجدت أخطاء برمجية أو دلالية في بعض الملفات.")
