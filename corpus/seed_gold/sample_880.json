@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_880",
+  "raw_text": "قال كذلك أتتك آياتنا فنسيتها وكذلك اليوم تنسى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_853",
+  "raw_text": "كذلك نقص عليك من أنباء ما قد سبق وقد آتيناك من لدنا ذكراً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "قصص",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

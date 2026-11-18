@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_824",
+  "raw_text": "جنات عدن تجري من تحتها الأنهار خالدين فيها وذلك جزاء من تزكى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "جنان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

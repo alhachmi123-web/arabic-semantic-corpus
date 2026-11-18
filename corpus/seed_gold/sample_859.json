@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_859",
+  "raw_text": "ويسألونك عن الجبال فقل ينسفها ربي نسفاً",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "سؤال",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

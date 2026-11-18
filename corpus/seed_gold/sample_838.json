@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_838",
+  "raw_text": "قالوا ما أخلفنا موعدكم بمملكتنا ولكنا حملنا أوزاراً من زينة القوم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

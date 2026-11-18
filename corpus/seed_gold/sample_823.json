@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_823",
+  "raw_text": "ومن يأته مؤمناً قد عمل الصالحات فأولئك لهم الدرجات العلى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "إتيان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
