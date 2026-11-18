@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_938",
+  "raw_text": "فإذا دخلتم بيوتاً فسلموا على أنفسكم تحية من عند الله مباركة طيبة",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "دخول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

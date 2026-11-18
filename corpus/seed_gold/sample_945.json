@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_945",
+  "raw_text": "ألا إن لله ما في السماوات والأرض قد يعلم ما أنتم عليه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "ملك",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

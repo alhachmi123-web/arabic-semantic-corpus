@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_983",
+  "raw_text": "وكذلك جعلنا لكل نبي عدواً من المجرمين وكفى بربك هادياً ونصيراً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "جعل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

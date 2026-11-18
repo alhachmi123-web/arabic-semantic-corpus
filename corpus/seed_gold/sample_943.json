@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_943",
+  "raw_text": "لا تجعلوا دعاء الرسول بينكم كدعاء بعضكم بعضاً قد يعلم الله الذين يتسللون منكم لواذاً",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "جعل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_925",
+  "raw_text": "لا تحسبن الذين كفروا معجزين في الأرض ومأواهم النار ولبئس المصير",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب"
+  },
+  "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
+    "topic_axis": {
+      "lemma": "حسبان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
+}

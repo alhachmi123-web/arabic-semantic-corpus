@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_989",
+  "raw_text": "وقوم نوح لما كذبوا الرسل أغرقناهم وجعلناهم للناس آية وأعتدنا للظالمين عذاباً أليماً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "تدمير",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}

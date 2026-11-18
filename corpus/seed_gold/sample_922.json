@@ -1,0 +1,15 @@
+{
+  "discourse_id": "DISC_GOLD_922",
+  "raw_text": "وليمكنن لهم دينهم الذي ارتضى لهم وليبدلنهم من بعد خوفهم أمنة يعبدونني لا يشركون بي شيئاً",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار"
+  },
+  "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
+    "topic_axis": {
+      "lemma": "تمكين",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
+}
