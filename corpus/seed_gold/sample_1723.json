@@ -1,0 +1,24 @@
+{
+  "discourse_id": "DISC_GOLD_1723",
+  "raw_text": "سلم المسافرون خلا مسافرا تأخر قليلا",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "خلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مسافر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "سلم",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}
