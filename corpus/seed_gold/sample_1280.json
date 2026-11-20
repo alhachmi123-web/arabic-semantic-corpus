@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1280",
+  "raw_text": "لعل التراحم ينتشر بين الجيران في الحي",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "لعل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "تراحم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "انتشر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "بين الجيران في الحي",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

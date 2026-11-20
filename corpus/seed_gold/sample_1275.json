@@ -1,0 +1,38 @@
+{
+  "discourse_id": "DISC_GOLD_1275",
+  "raw_text": "كيف يرتقي الإنسان بغير أدب وحياء",
+  "pragmatic_intent": {
+    "speech_act": "interrogative_استفهام",
+    "discourse_markers": [
+      "كيف",
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "إنسان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ارتقى",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بغير أدب",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "أدب",
+      "linked_value": "وحياء"
+    }
+  ]
+}

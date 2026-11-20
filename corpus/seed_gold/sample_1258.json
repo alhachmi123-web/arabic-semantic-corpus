@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1258",
+  "raw_text": "كلما أقبل الربيع تفتحت الأزهار عطرة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "كلما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "ربيع",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أقبل",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "أقبل الربيع",
+      "linked_value": "تفتحت الأزهار عطرة"
+    }
+  ]
+}

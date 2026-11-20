@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1204",
+  "raw_text": "إذا صدق القول أثمر الثقة في النفوس",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إذا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "صدق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في النفوس",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "صدق القول",
+      "linked_value": "أثمر الثقة"
+    }
+  ]
+}

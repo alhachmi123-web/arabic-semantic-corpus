@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1262",
+  "raw_text": "لما أشرقت الشمس تبدد ظلام الليل",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "شمس",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أشرق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "أشرقت الشمس",
+      "linked_value": "تبدد ظلام الليل"
+    }
+  ]
+}

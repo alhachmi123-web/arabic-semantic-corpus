@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1213",
+  "raw_text": "متى يدرك الكسول قيمة الوقت الضائع",
+  "pragmatic_intent": {
+    "speech_act": "interrogative_استفهام",
+    "discourse_markers": [
+      "متى"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "كسول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أدرك",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "قيمة الوقت الضائع",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

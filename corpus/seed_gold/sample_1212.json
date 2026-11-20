@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1212",
+  "raw_text": "لما هطل الغيث ارتوت الأرض العطشى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "غيث",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "هطل",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "هطل الغيث",
+      "linked_value": "ارتوت الأرض"
+    }
+  ]
+}
