@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1163",
+  "raw_text": "اقتد بذوي الرأي السديد في الأمور",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "اقتدى",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "بذوي الرأي السديد",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في الأمور",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

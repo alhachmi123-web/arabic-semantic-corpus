@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1183",
+  "raw_text": "بئس عادة التسويف في إنجاز الواجب",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "بئس"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "تسويف",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "في إنجاز الواجب",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

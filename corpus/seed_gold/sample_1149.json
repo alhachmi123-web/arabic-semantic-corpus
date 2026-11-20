@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1149",
+  "raw_text": "مهما تكثر التحديات يثبت أهل العزم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "مهما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "تحد",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "كثر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "تكثر التحديات",
+      "linked_value": "يثبت أهل العزم"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1132",
+  "raw_text": "جاء الطالب ثم تبعه زميله إلى القاعة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ثم"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "طالب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "جاء",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "إلى القاعة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "ثم",
+      "target_element": "جاء الطالب",
+      "linked_value": "ثم تبعه زميله"
+    }
+  ]
+}

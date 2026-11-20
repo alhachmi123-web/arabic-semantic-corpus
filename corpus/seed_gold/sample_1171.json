@@ -1,0 +1,42 @@
+{
+  "discourse_id": "DISC_GOLD_1171",
+  "raw_text": "قمت احتراما لأهل العلم والفضل",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "قام",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "احتراما",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "لأهل العلم",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "العلم",
+      "linked_value": "والفضل"
+    }
+  ]
+}

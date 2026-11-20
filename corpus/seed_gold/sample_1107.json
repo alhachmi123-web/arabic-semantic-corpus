@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1107",
+  "raw_text": "الصدق الصدق فإنه طريق النجاة",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "ف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "لزم",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الصدق",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "semantic_reinforcement_تأكيد_وترسيخ",
+      "connector_particle": null,
+      "target_element": "الصدق",
+      "linked_value": "الصدق"
+    }
+  ]
+}

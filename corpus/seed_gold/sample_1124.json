@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1124",
+  "raw_text": "لو تأنى المرء في قراره لقل خطؤه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لو",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مرء",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "تأنى",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في قراره",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}
