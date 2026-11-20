@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1028",
+  "raw_text": "أشرق الفجر فاستيقظ العابدون للذكر",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "فجر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أشرق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "ف",
+      "target_element": "أشرق الفجر",
+      "linked_value": "فاستيقظ العابدون"
+    }
+  ]
+}

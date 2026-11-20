@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1088",
+  "raw_text": "أطلع الفجر فقام المصلي إلى محرابه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "فجر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أطلع",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "ف",
+      "target_element": "أطلع الفجر",
+      "linked_value": "فقام المصلي"
+    }
+  ]
+}

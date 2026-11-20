@@ -1,0 +1,36 @@
+{
+  "discourse_id": "DISC_GOLD_1067",
+  "raw_text": "تالله لأدافعن عن المظلوم بكل قوة",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "تالله",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "دافع",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "عن المظلوم",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "بكل قوة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

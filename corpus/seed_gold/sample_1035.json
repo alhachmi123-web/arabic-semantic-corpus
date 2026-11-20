@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1035",
+  "raw_text": "إنما يزكو المال بالإنفاق في سبيل الخير",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إنما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مال",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "زكا",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بالإنفاق",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "في سبيل الخير",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

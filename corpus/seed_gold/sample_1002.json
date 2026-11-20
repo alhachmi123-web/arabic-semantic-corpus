@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1002",
+  "raw_text": "إن الله بالناس لرءوف رحيم",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إن",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "الله",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "بالناس",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "لرءوف رحيم",
+      "phonetic_marker": "damma_ضمة"
+    }
+  ],
+  "contextual_links": []
+}
