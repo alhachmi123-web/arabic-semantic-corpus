@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1329",
+  "raw_text": "ليس الجهل عذرا لمن يملك القدرة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ليس"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "جهل",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "لمن يملك القدرة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1309",
+  "raw_text": "لن ينال الكسلان بغيته بغير سعي جاد",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "كسلان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "نال",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "بغيته",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بغير سعي جاد",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

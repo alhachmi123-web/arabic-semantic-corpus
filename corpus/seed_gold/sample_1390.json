@@ -1,0 +1,36 @@
+{
+  "discourse_id": "DISC_GOLD_1390",
+  "raw_text": "ما أقرأ المتون إلا للتعمق في المعنى",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "ما",
+      "إلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "قرأ",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "المتون",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "للتعمق في المعنى",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

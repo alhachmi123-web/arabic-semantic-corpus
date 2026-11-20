@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1382",
+  "raw_text": "ما تبنى الأوطان إلا بسواعد المخلصين",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "ما",
+      "إلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "وطن",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "بنى",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بسواعد المخلصين",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

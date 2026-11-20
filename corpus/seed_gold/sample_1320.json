@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1320",
+  "raw_text": "ما أوسع رحمة الله على عباده المؤمنين",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رحمة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "على عباده المؤمنين",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

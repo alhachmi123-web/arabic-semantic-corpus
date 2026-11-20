@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1315",
+  "raw_text": "يا حارس الأمانة لا تخن عهد من ائتمنك",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "يا",
+      "لا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "خان",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "عهد من ائتمنك",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,22 @@
+{
+  "discourse_id": "DISC_GOLD_1346",
+  "raw_text": "أقبل الضيوف غير متأخر حضر لاحقا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "ضيف",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أقبل",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

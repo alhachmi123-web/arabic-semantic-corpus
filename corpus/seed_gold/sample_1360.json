@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1360",
+  "raw_text": "ما أنبل الوفاء في زمن تتبدل فيه العهود",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "وفاء",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "في زمن تتبدل فيه العهود",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}
