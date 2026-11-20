@@ -1,0 +1,28 @@
+{
+  "discourse_id": "DISC_GOLD_1785",
+  "raw_text": "نعم الغاية صلاح النفس واستقامة السلوك",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "صلاح",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "صلاح النفس",
+      "linked_value": "واستقامة السلوك"
+    }
+  ]
+}

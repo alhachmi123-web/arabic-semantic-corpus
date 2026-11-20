@@ -1,22 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1855",
-  "raw_text": "أمسى الصمت أبلغ من الكلام الفارغ",
+  "discourse_id": "DISC_GOLD_988",
+  "raw_text": "فقلنا اذهبا إلى القوم الذين كذبوا بآياتنا فدمّرناها تدميراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صمت",
-      "role": "subject_محور_ثابت",
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أمسى",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+    }
+  }
 }

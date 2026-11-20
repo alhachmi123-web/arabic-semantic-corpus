@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1574",
+  "raw_text": "إن الإتقان نفسه يميز العمل المتقن",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "إتقان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "ميز",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "العمل المتقن",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1232",
+  "raw_text": "كلما ازداد المرء علما ازداد تواضعا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "كلما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مرء",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ازداد",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "علما",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "ازداد المرء علما",
+      "linked_value": "ازداد تواضعا"
+    }
+  ]
+}

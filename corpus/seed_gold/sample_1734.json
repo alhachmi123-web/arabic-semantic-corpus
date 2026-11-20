@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1734",
-  "raw_text": "ما أسمى الوفاء بين الأصدقاء الكرام",
+  "discourse_id": "DISC_GOLD_878",
+  "raw_text": "ومن أعرض عن ذكري فإن له معيشة ضنكاً ونحشره يوم القيامة أعمى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "وفاء",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "بين الأصدقاء الكرام",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "إعراض",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

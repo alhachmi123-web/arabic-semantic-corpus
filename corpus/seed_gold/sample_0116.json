@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1095",
+  "raw_text": "إنما ينتفع بالذكر أولو الألباب",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إنما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أولو ألباب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "انتفع",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "بالذكر",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

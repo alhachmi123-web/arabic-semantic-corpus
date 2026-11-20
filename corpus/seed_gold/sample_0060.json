@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1044",
+  "raw_text": "ما أنبل العفو عند المقدرة على الانتقام",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عفو",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "عند المقدرة على الانتقام",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

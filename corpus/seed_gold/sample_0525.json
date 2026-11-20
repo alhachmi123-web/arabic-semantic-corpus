@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1522",
+  "raw_text": "إن العلم نوره يهدي السالكين في الظلمات",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "علم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في الظلمات",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

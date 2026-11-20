@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1208",
+  "raw_text": "كلما أشرق الفجر تجدد الأمل في الصدور",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "كلما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "فجر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أشرق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في الصدور",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "أشرق الفجر",
+      "linked_value": "تجدد الأمل"
+    }
+  ]
+}

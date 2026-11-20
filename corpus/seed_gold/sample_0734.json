@@ -1,0 +1,25 @@
+{
+  "discourse_id": "DISC_GOLD_1751",
+  "raw_text": "أعظم بالوفاء رابطة تجمع القلوب",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "وفاء",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "رابطة تجمع القلوب",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

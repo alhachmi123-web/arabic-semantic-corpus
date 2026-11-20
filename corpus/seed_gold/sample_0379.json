@@ -1,0 +1,24 @@
+{
+  "discourse_id": "DISC_GOLD_1381",
+  "raw_text": "لا يضيع حق وراءه طالب مجتهد",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ضاع",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

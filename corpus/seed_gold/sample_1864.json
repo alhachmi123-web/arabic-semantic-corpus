@@ -1,22 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1864",
-  "raw_text": "ظل الحق ثابتا رغم كثرة الشبهات",
+  "discourse_id": "DISC_GOLD_996",
+  "raw_text": "أم تحسب أن أكثرهم يسمعون أو يعقلون إن هم إلا كالأنعام بل هم أضل سبيلاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "حق",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "ظل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+      "lemma": "حسبان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
 }

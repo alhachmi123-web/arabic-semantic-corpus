@@ -1,6 +1,12 @@
 import os
 import json
+import re
 from pathlib import Path
+
+
+def natural_sort_key(path):
+    return [int(text) if text.isdigit() else text.lower()
+            for text in re.split(r"(\d+)", path.name)]
 
 def build_corpus_bundles():
     seed_gold_dir = Path("corpus/seed_gold")
@@ -12,7 +18,7 @@ def build_corpus_bundles():
         return
 
     # العثور على كافة ملفات العينات بصيغة JSON ديناميكياً مهما بلغ عددها
-    sample_files = sorted(seed_gold_dir.glob("sample_*.json"))
+    sample_files = sorted(seed_gold_dir.glob("sample_*.json"), key=natural_sort_key)
     total_samples = len(sample_files)
     print(f"🔍 تم اكتشاف {total_samples} عينة في المدونة.")
 

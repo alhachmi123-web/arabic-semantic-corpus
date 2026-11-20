@@ -1,0 +1,25 @@
+{
+  "discourse_id": "DISC_GOLD_1771",
+  "raw_text": "ما أروع التواضع حين يعلو قدر صاحبه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "تواضع",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "حين يعلو قدر صاحبه",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1499",
+  "raw_text": "بالعلم والعمل تزدهر الأوطان وتعلو",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "وطن",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ازدهر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بالعلم",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "بالعلم",
+      "linked_value": "والعمل"
+    }
+  ]
+}

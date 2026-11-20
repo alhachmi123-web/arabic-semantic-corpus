@@ -1,37 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1830",
-  "raw_text": "عسى الخير يعم البلاد والعباد",
+  "discourse_id": "DISC_GOLD_965",
+  "raw_text": "لهم فيها ما يشاؤون خالدين فيه كان على ربك وعداً مسئولا",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "خير",
+      "lemma": "مشياء",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "عم",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "البلاد",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "البلاد",
-      "linked_value": "والعباد"
-    }
-  ]
+  }
 }

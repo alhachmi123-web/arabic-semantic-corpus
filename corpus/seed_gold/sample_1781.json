@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1781",
-  "raw_text": "لا حبذا النفاق في القول أو العمل",
+  "discourse_id": "DISC_GOLD_920",
+  "raw_text": "وإن تطيعوه تهتدوا وما على الرسول إلا البلاغ المبين",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لا"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "نفاق",
-      "role": "subject_محور_ثابت",
+      "lemma": "طاعة",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "في القول",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

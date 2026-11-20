@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1731",
-  "raw_text": "أكرم بالصدق ميزانا في كل قول",
+  "discourse_id": "DISC_GOLD_875",
+  "raw_text": "فأكلا منها فبدت لهما سوآتهما وطفقا يخصفان عليهما من ورق الجنة وعصى آدم ربه فغوى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صدق",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "ميزانا في كل قول",
+      "lemma": "أكل",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

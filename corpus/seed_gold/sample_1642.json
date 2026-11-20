@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1642",
-  "raw_text": "فحصت المدونة عيناتها بدقة بالغة",
+  "discourse_id": "DISC_GOLD_794",
+  "raw_text": "تالله لقد أرسلنا إلى أمم من قبلك فزين لهم الشيطان أعمالهم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "إرسال",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "فحص",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "المدونة عيناتها",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بدقة بالغة",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

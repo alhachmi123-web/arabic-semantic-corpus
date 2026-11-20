@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1617",
-  "raw_text": "قضيت أسبوعا كاملا لدى أهل العلم",
+  "discourse_id": "DISC_GOLD_771",
+  "raw_text": "وما أرسلنا من قبلك إلا رجالاً نؤحي إليهم فسألوا أهل الذكر إن كنتم لا تعلمون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "إرسال",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "قضى",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "أسبوعا كاملا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "لدى أهل العلم",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,42 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1623",
-  "raw_text": "أكثر المتعلم قراءة وتأملا في المتون",
+  "discourse_id": "DISC_GOLD_777",
+  "raw_text": "ولله يسجد ما في السماوات وما في الأرض من دابة والملائكة وهم لا يستكبرون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "متعلم",
+      "lemma": "سجود",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أكثر",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "قراءة",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في المتون",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "قراءة",
-      "linked_value": "وتأملا"
-    }
-  ]
+  }
 }

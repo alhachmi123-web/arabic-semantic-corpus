@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1250",
+  "raw_text": "لعل الفلاح يلازم حليفه في السعي",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "لعل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "فلاح",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "لازم",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "حليفه",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "في السعي",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

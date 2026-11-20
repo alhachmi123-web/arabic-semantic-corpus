@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1639",
+  "raw_text": "جلست والنسيم العليل بعد الغروب",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "جلس",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "والنسيم العليل",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "بعد الغروب",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

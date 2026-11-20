@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1237",
+  "raw_text": "أين المفر من عواقب التفريط بالواجب",
+  "pragmatic_intent": {
+    "speech_act": "interrogative_استفهام",
+    "discourse_markers": [
+      "أين"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مفر",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "من عواقب التفريط",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

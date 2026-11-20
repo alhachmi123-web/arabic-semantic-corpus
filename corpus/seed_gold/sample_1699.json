@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1699",
-  "raw_text": "زرت المدينة المنورة معالمها المباركة",
+  "discourse_id": "DISC_GOLD_846",
+  "raw_text": "ألا تتبعني أفعصيت أمري",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "اتباع",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "زار",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "المدينة المنورة معالمها المباركة",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

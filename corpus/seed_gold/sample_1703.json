@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1703",
-  "raw_text": "ما أجمل الصبر عند اشتداد المحن",
+  "discourse_id": "DISC_GOLD_85",
+  "raw_text": "ما أجمالَ السماءَ!",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "exclamation_تعجب"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "صبر",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "عند اشتداد المحن",
+      "lemma": "جمال",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

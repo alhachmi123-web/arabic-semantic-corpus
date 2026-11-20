@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1647",
-  "raw_text": "أتممت قراءة الكتاب ثلثه ليلا",
+  "discourse_id": "DISC_GOLD_799",
+  "raw_text": "وإن لكم في الأنعام لعبرة نسقيكم مما في بطونه من بين فرث ودم لبناً خالصاً سائغاً للشاربين",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "عبرة",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أتم",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "قراءة الكتاب ثلثه",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "ليلا",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1337",
+  "raw_text": "لم يترك الصادق عهدا قطعه بيده",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لم"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "صادق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ترك",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "عهدا",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

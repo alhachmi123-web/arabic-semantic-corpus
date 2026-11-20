@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1168",
+  "raw_text": "ازداد المؤمن إيمانا مع تدبر الآيات",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مؤمن",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ازداد",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "إيمانا",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "مع تدبر الآيات",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

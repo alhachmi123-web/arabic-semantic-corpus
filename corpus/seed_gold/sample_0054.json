@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_1039",
+  "raw_text": "القناعة كنز لا يفنى أبدا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "قناعة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "أبدا",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": null,
+      "target_element": "كنز",
+      "linked_value": "لا يفنى أبدا"
+    }
+  ]
+}

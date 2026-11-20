@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1648",
+  "raw_text": "تصدقت إشفاقا على المحتاج في الحاجة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "تصدق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "إشفاقا على المحتاج",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "في الحاجة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1850",
+  "raw_text": "لكن الحلم يضبط النفس عند الغضب",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لكن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حلم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "عند الغضب",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1118",
+  "raw_text": "اشتد العزم ثباتا عند الملمات",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عزم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "اشتد",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "ثباتا",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "عند الملمات",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

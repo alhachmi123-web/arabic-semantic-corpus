@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1190",
+  "raw_text": "يا لله للغريب في ديار النأي",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "يا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "الله",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": {
+      "lemma": "أغاث",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "للغريب",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في ديار النأي",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

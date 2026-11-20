@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1736",
+  "raw_text": "لا حبذا التسرع في اتخاذ القرار",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "تسرع",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "في اتخاذ القرار",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

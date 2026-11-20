@@ -1,0 +1,25 @@
+{
+  "discourse_id": "DISC_GOLD_1715",
+  "raw_text": "أكرم بالعلم نورا يبدد الظلمات",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "علم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "نورا يبدد الظلمات",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

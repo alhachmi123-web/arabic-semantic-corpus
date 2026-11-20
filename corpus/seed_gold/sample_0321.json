@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1326",
+  "raw_text": "ما سمعت في المجلس إلا قولا سديدا",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "ما",
+      "إلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "قول",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "سمع",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في المجلس",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

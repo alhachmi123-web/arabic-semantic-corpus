@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1457",
+  "raw_text": "الكريم يعطي بسخاء دون من أو أذى",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "كريم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أعطى",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بسخاء",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

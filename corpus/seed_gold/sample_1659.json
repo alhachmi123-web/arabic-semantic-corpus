@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1659",
-  "raw_text": "قضيت ساعة كاملة خلف مكتبي صباحا",
+  "discourse_id": "DISC_GOLD_81",
+  "raw_text": "مررتُ بزيدٍ أخيكَ",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "أخ",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "قضى",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "ساعة كاملة",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "خلف مكتبي",
-      "phonetic_marker": "fatha_فتحة"
+      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

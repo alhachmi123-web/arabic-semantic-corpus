@@ -1,0 +1,28 @@
+{
+  "discourse_id": "DISC_GOLD_1870",
+  "raw_text": "صار الجهد ثمرا يانعا في الميدان",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "جهد",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "صار",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في الميدان",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

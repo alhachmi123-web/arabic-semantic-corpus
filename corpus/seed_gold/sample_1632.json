@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1632",
-  "raw_text": "زرت المدينة المنورة معالمها التاريخية",
+  "discourse_id": "DISC_GOLD_785",
+  "raw_text": "ويجعلون لله البنات سبحانه ولهم ما يشتهون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "جعل",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "زار",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "المدينة المنورة معالمها التاريخية",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

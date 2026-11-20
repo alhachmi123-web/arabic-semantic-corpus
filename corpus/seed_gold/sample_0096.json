@@ -1,0 +1,36 @@
+{
+  "discourse_id": "DISC_GOLD_1077",
+  "raw_text": "لعمرك لأعينن الضعيف على نيل حقه",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "لعمرك",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "أعان",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الضعيف",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "على نيل حقه",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1852",
-  "raw_text": "بات الطالب ساهرا في طلب العلم",
+  "discourse_id": "DISC_GOLD_985",
+  "raw_text": "ولا يأتونك بمثل إلا جئناك بالحق وأحسن تفسيراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "طالب",
-      "role": "subject_محور_ثابت",
+      "lemma": "إتيان",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "بات",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "في طلب العلم",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

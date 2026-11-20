@@ -1,30 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1708",
-  "raw_text": "ما نجح في الاختبار غير المثابر",
+  "discourse_id": "DISC_GOLD_854",
+  "raw_text": "من أعرض عنه فإنهم يحملون يوم القيامة وزراً",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "غير"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "مثابر",
+      "lemma": "إعراض",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": {
-      "lemma": "نجح",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في الاختبار",
-      "phonetic_marker": "kasra_كسرة"
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

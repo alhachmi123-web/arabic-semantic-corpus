@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1835",
-  "raw_text": "لعل العلم يهدي إلى الرشاد",
+  "discourse_id": "DISC_GOLD_97",
+  "raw_text": "حضر القاضي نفسه",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لعل"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "علم",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "إلى الرشاد",
-      "phonetic_marker": "kasra_كسرة"
+      "lemma": "نفس",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

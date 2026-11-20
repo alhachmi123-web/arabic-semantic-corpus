@@ -1,0 +1,21 @@
+{
+  "discourse_id": "DISC_GOLD_1847",
+  "raw_text": "لعل التوفيق حليف من يخلص العمل",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لعل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "توفيق",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

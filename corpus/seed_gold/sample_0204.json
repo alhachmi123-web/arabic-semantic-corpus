@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1174",
+  "raw_text": "القصيدة قرأت أبياتها بصوت عذب",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "قصيدة",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "قرأ",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بصوت عذب",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": null,
+      "target_element": "القصيدة",
+      "linked_value": "أبياتها"
+    }
+  ]
+}

@@ -1,24 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1825",
-  "raw_text": "ما دام الحق واضحا فلن يضيع",
+  "discourse_id": "DISC_GOLD_960",
+  "raw_text": "بل كذبوا بالساعة وأعتدنا لمن كذب بالساعة سعيراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "ف"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "حق",
-      "role": "subject_محور_ثابت",
+      "lemma": "تكذيب",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "دام",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+    }
+  }
 }

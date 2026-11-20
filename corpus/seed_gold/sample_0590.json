@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1611",
+  "raw_text": "طاب المجلس هواءه وحسن حديثه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مجلس",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "طاب",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "هواءه",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "هواءه",
+      "linked_value": "وحسن حديثه"
+    }
+  ]
+}

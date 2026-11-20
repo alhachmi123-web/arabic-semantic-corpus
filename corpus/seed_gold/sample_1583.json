@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1583",
+  "raw_text": "والله لن نغفل عن متابعة التفاصيل",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و",
+      "لن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "نحن",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "غفل",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "عن متابعة التفاصيل",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

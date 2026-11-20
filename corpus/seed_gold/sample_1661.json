@@ -1,42 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1661",
-  "raw_text": "قرأت خمسة عشر كتابا في النحو والصرف",
+  "discourse_id": "DISC_GOLD_811",
+  "raw_text": "قال بل ألقوا فإذا حبالهم وعصيهم يخيل إليه من سحرهم أنها تسعى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "قول",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "قرأ",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "خمسة عشر كتابا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في النحو",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "النحو",
-      "linked_value": "والصرف"
-    }
-  ]
+  }
 }

@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1671",
-  "raw_text": "زرت العالم أبا زيد في مجلسه",
+  "discourse_id": "DISC_GOLD_820",
+  "raw_text": "إنما تقضي هذه الحياة الدنيا",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "قضاء",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "زار",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "العالم أبا زيد",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في مجلسه",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

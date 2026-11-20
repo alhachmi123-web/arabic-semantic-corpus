@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1635",
-  "raw_text": "قرأت أربعين مسألة نحوية يوم الخميس",
+  "discourse_id": "DISC_GOLD_788",
+  "raw_text": "ألا ساء ما يحكمون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "سُوء",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "قرأ",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "أربعين مسألة نحوية",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "يوم الخميس",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

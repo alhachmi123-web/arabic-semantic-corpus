@@ -1,30 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1823",
-  "raw_text": "ليت الزمن يقف عند لحظة الصفاء",
+  "discourse_id": "DISC_GOLD_959",
+  "raw_text": "تبارك الذي إن شاء جعل لك خيراً من ذلك جنات تجري من تحتها الأنهار ويجعل لك قصوراً",
   "pragmatic_intent": {
-    "speech_act": "directive_طلب",
-    "discourse_markers": [
-      "ليت"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "زمن",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": {
-      "lemma": "وقف",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "عند لحظة الصفاء",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "تبرك",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

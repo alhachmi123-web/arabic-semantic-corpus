@@ -1,34 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1721",
-  "raw_text": "حبذا الأمانة في السر والعلن",
+  "discourse_id": "DISC_GOLD_866",
+  "raw_text": "ومن يعمل من الصالحات وهو مؤمن فلا يخاف ظُلماً ولا هضماً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أمانة",
-      "role": "subject_محور_ثابت",
+      "lemma": "عمل",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "في السر",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "السر",
-      "linked_value": "والعلن"
-    }
-  ]
+  }
 }

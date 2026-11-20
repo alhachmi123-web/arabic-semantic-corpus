@@ -1,37 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1600",
-  "raw_text": "وصلت المسيرة إلى ألف وستمائة عينة متماسكة",
+  "discourse_id": "DISC_GOLD_756",
+  "raw_text": "فأصابهم سيئات ما عملوا وحاق بهم ما كانوا به يستهزئون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "مسيرة",
+      "lemma": "إصابة",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "وصل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "إلى ألف وستمائة عينة متماسكة",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "ألف",
-      "linked_value": "وستمائة"
-    }
-  ]
+  }
 }

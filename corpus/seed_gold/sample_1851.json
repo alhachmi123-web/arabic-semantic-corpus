@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1851",
-  "raw_text": "شرع الكاتب يوثق الشواهد بدقة",
+  "discourse_id": "DISC_GOLD_984",
+  "raw_text": "وقال الذين كفروا لولا نزل عليه القرآن جملة واحدة كذلك لنثبت به فؤادك ورتلناه ترتيلاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "كاتب",
+      "lemma": "قول",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "وثق",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بدقة",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

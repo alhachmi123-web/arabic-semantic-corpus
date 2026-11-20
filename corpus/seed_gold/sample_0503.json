@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1494",
+  "raw_text": "بالحكمة يبنى الرأي وتستقر القرارات",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رأي",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "بنى",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بالحكمة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "يبنى الرأي",
+      "linked_value": "وتستقر القرارات"
+    }
+  ]
+}

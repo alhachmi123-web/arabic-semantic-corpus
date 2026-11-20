@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1745",
-  "raw_text": "حبذا الإتقان في كل عمل نافع",
+  "discourse_id": "DISC_GOLD_888",
+  "raw_text": "وقالوا لولا يأتينا بآية من ربه أولم تأتهم بينة ما في الصحف الأولى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "إتقان",
-      "role": "subject_محور_ثابت",
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في كل عمل نافع",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

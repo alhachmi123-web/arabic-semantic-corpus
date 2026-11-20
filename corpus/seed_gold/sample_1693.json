@@ -1,38 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1693",
-  "raw_text": "بذلت الجهد بذلا متواصلا حرصا على الإتقان",
+  "discourse_id": "DISC_GOLD_840",
+  "raw_text": "فأخرج لهم عجلاً جسداً له خوار فقالوا هذا إلهكم وإله موسى فنسي",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "إخراج",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "بذل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "الجهد",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بذلا متواصلا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "حرصا على الإتقان",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

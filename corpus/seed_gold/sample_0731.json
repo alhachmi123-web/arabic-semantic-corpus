@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1748",
+  "raw_text": "ما أفلح في السعي إلا الصادقون",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "صادق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أفلح",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في السعي",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

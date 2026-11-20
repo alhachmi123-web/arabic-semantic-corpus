@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1840",
-  "raw_text": "صار الرأي واضحا بعد النقاش",
+  "discourse_id": "DISC_GOLD_974",
+  "raw_text": "يوم يرون الملائكة لا بشرى يومئذ للمجرمين ويقولون حجراً محجوراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "رأي",
-      "role": "subject_محور_ثابت",
+      "lemma": "رؤية",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "صار",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "بعد النقاش",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

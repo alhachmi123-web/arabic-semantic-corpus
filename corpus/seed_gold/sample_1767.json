@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1767",
-  "raw_text": "أعظم بالبصيرة نورا يكشف الحقائق",
+  "discourse_id": "DISC_GOLD_908",
+  "raw_text": "ومنهم من يمشي على أربع يخلق الله ما يشاء إن الله على كل شيء قدير",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "بصيرة",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "نورا يكشف الحقائق",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "مشْي",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

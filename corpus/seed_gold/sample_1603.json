@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1603",
-  "raw_text": "قرأت ثلاثين صفحة من الكتاب قبل الغروب",
+  "discourse_id": "DISC_GOLD_759",
+  "raw_text": "فهل على الرسل إلا البلاغ المبين",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "بلاغ",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "قرأ",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "ثلاثين صفحة",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "قبل الغروب",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

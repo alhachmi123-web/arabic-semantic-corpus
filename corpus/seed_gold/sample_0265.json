@@ -1,0 +1,38 @@
+{
+  "discourse_id": "DISC_GOLD_1252",
+  "raw_text": "لعل الله يرزقنا السكينة والوقار",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "لعل",
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "الله",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "رزق",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "السكينة",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "السكينة",
+      "linked_value": "والوقار"
+    }
+  ]
+}

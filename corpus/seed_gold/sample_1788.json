@@ -1,34 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1788",
-  "raw_text": "بئس الطبع الجفاء مع الأقارب والأهل",
+  "discourse_id": "DISC_GOLD_927",
+  "raw_text": "من قبل صلاة الفجر حين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "جفاء",
-      "role": "subject_محور_ثابت",
+      "lemma": "وضع",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "مع الأقارب",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "الأقارب",
-      "linked_value": "والأهل"
-    }
-  ]
+  }
 }

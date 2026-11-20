@@ -1,0 +1,28 @@
+{
+  "discourse_id": "DISC_GOLD_1876",
+  "raw_text": "كان البحث دقيقا في كل تفاصيله",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "بحث",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "كان",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في كل تفاصيله",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

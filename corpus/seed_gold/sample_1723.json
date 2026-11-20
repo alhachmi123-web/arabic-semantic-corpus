@@ -1,24 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1723",
-  "raw_text": "سلم المسافرون خلا مسافرا تأخر قليلا",
+  "discourse_id": "DISC_GOLD_868",
+  "raw_text": "فتعالى الله الملك الحق ولا تعجل بالقرآن من قبل أن يقضى إليك وحيه وقل رب زدني علماً",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "خلا"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "مسافر",
+      "lemma": "تعالي",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "سلم",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+    }
+  }
 }

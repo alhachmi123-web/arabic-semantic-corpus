@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1730",
+  "raw_text": "يا مثابرا واصل السعي نحو هدفك",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "يا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "واصل",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "السعي",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "نحو هدفك",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

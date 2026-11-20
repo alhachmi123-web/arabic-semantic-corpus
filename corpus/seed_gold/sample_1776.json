@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1776",
-  "raw_text": "بئس الصاحب من يزين لك الباطل",
+  "discourse_id": "DISC_GOLD_916",
+  "raw_text": "ومن يطع الله ورسوله ويخش الله ويتقه فأولئك هم الفائزون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "من",
-      "role": "subject_محور_ثابت",
+      "lemma": "طاعة",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "الباطل",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

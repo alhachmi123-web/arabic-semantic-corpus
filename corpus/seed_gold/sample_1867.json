@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1867",
-  "raw_text": "ليس التسرع من صفات الحكماء",
+  "discourse_id": "DISC_GOLD_999",
+  "raw_text": "وهو الذي جعل لكم الليل لباساً والنام سباتاً وجعل النهار نشوراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "تسرع",
-      "role": "subject_محور_ثابت",
+      "lemma": "جعل",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "ليس",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "من صفات الحكماء",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

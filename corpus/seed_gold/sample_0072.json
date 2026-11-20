@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1055",
+  "raw_text": "إنما يسعد الإنسان بصفاء السريرة",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إنما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "إنسان",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أسعد",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بصفاء السريرة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

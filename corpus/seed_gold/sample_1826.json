@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1826",
-  "raw_text": "كأن النجوم مصابيح في السماء",
+  "discourse_id": "DISC_GOLD_961",
+  "raw_text": "إذا رأتهم من مكان بعيد سمعوا لها تغيظاً وزفيراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "كأن"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "نجم",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في السماء",
-      "phonetic_marker": "kasra_كسرة"
+      "lemma": "رؤية",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,42 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1637",
-  "raw_text": "صافحت الصديق كفه بحرارة ومودة",
+  "discourse_id": "DISC_GOLD_79",
+  "raw_text": "الصبرَ الصبرَ يا فتى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "صبر",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "صافح",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "الصديق كفه",
       "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بحرارة",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "بحرارة",
-      "linked_value": "ومودة"
-    }
-  ]
+  }
 }

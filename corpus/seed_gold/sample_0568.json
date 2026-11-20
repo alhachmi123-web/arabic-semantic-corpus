@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1588",
+  "raw_text": "نهض المتعلم نشيطا في طلب المعرفة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "متعلم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "نهض",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "نشيطا",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "في طلب المعرفة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

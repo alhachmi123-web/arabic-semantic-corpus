@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1844",
-  "raw_text": "إن الأمانة أساس الثقة بين الناس",
+  "discourse_id": "DISC_GOLD_978",
+  "raw_text": "الملك يومئذ الحق للرحمن وكان يوماً على الكافرين عسيراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "إن"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أمانة",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "بين الناس",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "ملك",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

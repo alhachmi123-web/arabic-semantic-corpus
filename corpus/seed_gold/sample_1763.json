@@ -1,34 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1763",
-  "raw_text": "ما أحسن الثبات عند الفتن والشبهات",
+  "discourse_id": "DISC_GOLD_904",
+  "raw_text": "وينزل من السماء من جبال فيها من برد فيصيب به من يشاء ويصرفه عن من يشاء",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "ثبات",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "عند الفتن",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "إنزال",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "الفتن",
-      "linked_value": "والشبهات"
-    }
-  ]
+  }
 }

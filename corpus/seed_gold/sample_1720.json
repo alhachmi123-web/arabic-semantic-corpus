@@ -1,0 +1,43 @@
+{
+  "discourse_id": "DISC_GOLD_1720",
+  "raw_text": "يا محسن اخدم الناس بإخلاص ووفاء",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "يا",
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "خدم",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الناس",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بإخلاص",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "بإخلاص",
+      "linked_value": "ووفاء"
+    }
+  ]
+}

@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1621",
-  "raw_text": "غرس البستاني أرضا أشجارا مثمرة",
+  "discourse_id": "DISC_GOLD_775",
+  "raw_text": "أو يأخذهم على تخوف فإن ربكم لرءوف رحيم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "بستاني",
+      "lemma": "أخذ",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "غرس",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "أرضا أشجارا مثمرة",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

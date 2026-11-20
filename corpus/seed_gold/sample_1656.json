@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1656",
-  "raw_text": "حلم الرجل حلمه المشهور عند الغضب",
+  "discourse_id": "DISC_GOLD_807",
+  "raw_text": "فتنازعوا أمرهم بينهم وأسروا النجوى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "رجل",
+      "lemma": "تنازع",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "حلم",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "عند الغضب",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

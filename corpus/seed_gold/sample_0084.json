@@ -1,0 +1,38 @@
+{
+  "discourse_id": "DISC_GOLD_1066",
+  "raw_text": "رب اغفر لي ولوالدي وللمؤمنين",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "رب",
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "غفر",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "لي",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "لي",
+      "linked_value": "ولوالمؤمنين"
+    }
+  ]
+}

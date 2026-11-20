@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1636",
-  "raw_text": "ثابرت مثابرة الصادقين في طلب المعالي",
+  "discourse_id": "DISC_GOLD_789",
+  "raw_text": "للذين لا يؤمنون بالآخرة مثل السوء ولله المثل الأعلى وهو العزيز الحكيم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "مثل",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "ثابر",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "مثابرة الصادقين",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "في طلب المعالي",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

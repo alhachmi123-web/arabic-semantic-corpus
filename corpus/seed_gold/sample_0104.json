@@ -1,0 +1,34 @@
+{
+  "discourse_id": "DISC_GOLD_1084",
+  "raw_text": "ما أرق النسيم العليل عند السحر",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "نسيم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "عند السحر",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": null,
+      "target_element": "النسيم",
+      "linked_value": "العليل"
+    }
+  ]
+}

@@ -1,30 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1777",
-  "raw_text": "ما قام في المجلس غير الحكماء",
+  "discourse_id": "DISC_GOLD_917",
+  "raw_text": "وأقسموا بالله جهد أيمانهم لئن أمرتهم ليخرجن قل لا تقسموا طاعة معروفة",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "غير"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "حكيم",
+      "lemma": "قسْم",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": {
-      "lemma": "قام",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في المجلس",
-      "phonetic_marker": "kasra_كسرة"
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

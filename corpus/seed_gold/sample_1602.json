@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1602",
-  "raw_text": "أعجبني العالم علمه الواسع عند المناظرة",
+  "discourse_id": "DISC_GOLD_758",
+  "raw_text": "ولا حرمنا من دونه من شيء كذلك فعل الذين من قبلهم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "عالم",
+      "lemma": "تحريم",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أعجب",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "عند المناظرة",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

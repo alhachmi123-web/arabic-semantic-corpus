@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1634",
-  "raw_text": "أقبلت إلى المكتبة رغبة في المطالعة",
+  "discourse_id": "DISC_GOLD_787",
+  "raw_text": "يتوارى من القوم من سوء ما بشر به أيمسكه على هون أم يدسه في التراب",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "تواري",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أقبل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "إلى المكتبة",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "رغبة في المطالعة",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1809",
-  "raw_text": "شرع المتعلم يراجع المتون بحرص",
+  "discourse_id": "DISC_GOLD_946",
+  "raw_text": "ويوم يرجعون إليه فينبئهم بما عملوا والله بكل شيء عليم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "متعلم",
+      "lemma": "رجوع",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "راجع",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بحرص",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

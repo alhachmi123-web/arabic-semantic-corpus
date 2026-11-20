@@ -1,24 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1761",
-  "raw_text": "نجح الباحثون عدا باحثا لم يتم عمله",
+  "discourse_id": "DISC_GOLD_902",
+  "raw_text": "ولله ملك السماوات والأرض وإلى الله المصير",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "عدا"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "باحث",
+      "lemma": "ملك",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "نجح",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+    }
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1247",
+  "raw_text": "ليت الأمانة تصان في كل تعامل",
+  "pragmatic_intent": {
+    "speech_act": "wish_تمن",
+    "discourse_markers": [
+      "ليت"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أمانة",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "صان",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في كل تعامل",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

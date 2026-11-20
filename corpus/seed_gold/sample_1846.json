@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1846",
-  "raw_text": "كان الحق واضحا في كل عصر",
+  "discourse_id": "DISC_GOLD_98",
+  "raw_text": "رأيتُ الحديقةَ أزهارَها",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "حق",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "كان",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "في كل عصر",
-      "phonetic_marker": "kasra_كسرة"
+      "lemma": "زهر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

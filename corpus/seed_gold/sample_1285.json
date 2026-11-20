@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1285",
+  "raw_text": "ليت العقول تتآلف على خدمة الخير",
+  "pragmatic_intent": {
+    "speech_act": "wish_تمن",
+    "discourse_markers": [
+      "ليت"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عقل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "تآلف",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "على خدمة الخير",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,38 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1601",
-  "raw_text": "حفظ الطالب المتن حفظا متقنا حرصا على التفوق",
+  "discourse_id": "DISC_GOLD_757",
+  "raw_text": "وقال الذين أشركوا لو شاء الله ما عبدنا من دونه من شيء نحن ولا آباؤنا",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "طالب",
+      "lemma": "قول",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "حفظ",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "المتن",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "حفظا متقنا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "حرصا على التفوق",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

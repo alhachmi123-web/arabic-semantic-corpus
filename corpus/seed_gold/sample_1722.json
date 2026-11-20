@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1722",
-  "raw_text": "لا حبذا الغضب عند نزول الشدائد",
+  "discourse_id": "DISC_GOLD_867",
+  "raw_text": "وكذلك أنزلناه قرآناً عربياً وصرّفنا فيه من الوعيد لعلهم يتقون أو يحدث لهم ذكراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لا"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "غضب",
-      "role": "subject_محور_ثابت",
+      "lemma": "إنزال",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "عند نزول الشدائد",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

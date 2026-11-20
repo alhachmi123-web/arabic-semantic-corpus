@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1341",
+  "raw_text": "لن يبلغ المتهاون منزلة المجتهدين",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "لن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "متهاون",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "بلغ",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "منزلة المجتهدين",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

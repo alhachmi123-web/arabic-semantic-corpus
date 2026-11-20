@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1836",
-  "raw_text": "كادت المشكلة تنحل بالحوار الهادئ",
+  "discourse_id": "DISC_GOLD_970",
+  "raw_text": "وما أرسلنا قبلك من المرسلين إلا إنهم ليأكلون الطعام ويمشون في الأسواق",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "مشكلة",
+      "lemma": "إرسال",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "انحل",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بالحوار الهادئ",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

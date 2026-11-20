@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1578",
+  "raw_text": "إن المخلصين جميعهم يبنون المجد بالعمل",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مخلص",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "بنى",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "المجد",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بالعمل",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

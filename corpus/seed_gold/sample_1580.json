@@ -1,37 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1580",
-  "raw_text": "أقبل الوفد حاملا بشائر الخير والوفاق",
+  "discourse_id": "DISC_GOLD_738",
+  "raw_text": "لا جرم أن الله يعلم ما يسرون وما يعلنون إنه لا يحب المستكبرين",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "وفد",
+      "lemma": "علم",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أقبل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "حاملا بشائر الخير",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "الخير",
-      "linked_value": "والوفاق"
-    }
-  ]
+  }
 }

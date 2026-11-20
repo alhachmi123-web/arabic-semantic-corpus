@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1525",
+  "raw_text": "ما تقدم من خير تجد أثره في الغد",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "وجد",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "أثره",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "في الغد",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

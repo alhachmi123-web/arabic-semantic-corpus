@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1777",
+  "raw_text": "ما قام في المجلس غير الحكماء",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "غير"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حكيم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": {
+      "lemma": "قام",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في المجلس",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

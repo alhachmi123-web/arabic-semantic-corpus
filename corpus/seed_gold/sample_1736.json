@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1736",
-  "raw_text": "لا حبذا التسرع في اتخاذ القرار",
+  "discourse_id": "DISC_GOLD_88",
+  "raw_text": "يا أيها الرجلُ دافعْ",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لا"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "تسرع",
-      "role": "subject_محور_ثابت",
+      "lemma": "رجل",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "في اتخاذ القرار",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

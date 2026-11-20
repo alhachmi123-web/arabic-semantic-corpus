@@ -1,0 +1,26 @@
+{
+  "discourse_id": "DISC_GOLD_1089",
+  "raw_text": "العقل السليم أساس الفهم الرشيد",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عقل",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": [
+    {
+      "link_type": "attribute_specification_وصف_وتخصيص",
+      "connector_particle": null,
+      "target_element": "العقل",
+      "linked_value": "السليم"
+    }
+  ]
+}

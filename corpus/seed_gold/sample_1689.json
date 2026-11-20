@@ -1,35 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1689",
-  "raw_text": "سرت والفجر ابتغاء بركة البكور",
+  "discourse_id": "DISC_GOLD_837",
+  "raw_text": "أطال عليكم العهد أم أردتم أن يحل عليكم غضب من ربكم فأخلفتم موعدي",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "طول",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "سار",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "والفجر",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "ابتغاء بركة البكور",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

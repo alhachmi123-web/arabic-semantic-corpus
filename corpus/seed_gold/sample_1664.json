@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1664",
-  "raw_text": "تصفحت المنظومة أبياتها المختارة مساء",
+  "discourse_id": "DISC_GOLD_814",
+  "raw_text": "وألق ما في يمينك تلقف ما صنعوا إنما صنعوا كيد ساحر",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "إلقاء",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "تصفح",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "المنظومة أبياتها المختارة",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "مساء",
       "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

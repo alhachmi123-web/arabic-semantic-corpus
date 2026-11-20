@@ -1,6 +1,16 @@
 import os
 import json
+import re
 import subprocess
+
+
+def get_next_sample_index(target_dir):
+    highest_index = 0
+    for filename in os.listdir(target_dir):
+        match = re.fullmatch(r"sample_(\d+)\.json", filename)
+        if match:
+            highest_index = max(highest_index, int(match.group(1)))
+    return highest_index + 1
 
 def process_batch():
     input_file = "batch_input.json"
@@ -18,19 +28,16 @@ def process_batch():
         print("[خطأ] يجب أن يكون محتوى ملف المدخلات عبارة عن مصفوفة [...] تحتوي على عينات متعددة.")
         return
 
-    # تحديد رقم أول عينة جديدة بناءً على الملفات الموجودة حالياً
-    existing_files = os.listdir(target_dir)
-    json_files = [f for f in existing_files if f.startswith("sample_") and f.endswith(".json")]
-    
-    next_index = len(json_files) + 1
-    print(f"=== بدء حفظ وتوليد {len(batch_data)} عينات جديدة بدءاً من sample_{next_index:02d} ===")
+    # اعتمد على أعلى رقم موجود لا على عدد الملفات؛ حذوف عينة لا يجب أن يعاد الاستخدام كرقم جديد.
+    next_index = get_next_sample_index(target_dir)
+    print(f"=== بدء حفظ وتوليد {len(batch_data)} عينات جديدة بدءاً من sample_{next_index:04d} ===")
 
     for item in batch_data:
-        filename = f"sample_{next_index:02d}.json"
+        filename = f"sample_{next_index:04d}.json"
         filepath = os.path.join(target_dir, filename)
         
         # تحديث معرف الدلالة تلقائياً ليتوافق مع اسم الملف
-        item["discourse_id"] = f"DISC_GOLD_{next_index:02d}"
+        item["discourse_id"] = f"DISC_GOLD_{next_index:04d}"
         
         # كتابة الملف الجديد
         with open(filepath, "w", encoding="utf-8") as out_f:

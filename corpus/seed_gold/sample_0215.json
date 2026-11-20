@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1184",
+  "raw_text": "حبذا الصدق سبيلا إلى نيل الثقة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "حبذا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "صدق",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "سبيلا إلى نيل الثقة",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

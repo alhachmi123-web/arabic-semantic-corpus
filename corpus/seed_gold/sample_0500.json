@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1491",
+  "raw_text": "في العلم رفعة لا يدركها إلا الجادون",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رفعة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في العلم",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

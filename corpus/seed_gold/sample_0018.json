@@ -1,0 +1,42 @@
+{
+  "discourse_id": "DISC_GOLD_1006",
+  "raw_text": "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "ربنا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "آتى",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في الدنيا",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "حسنة",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "في الدنيا حسنة",
+      "linked_value": "وفي الآخرة حسنة"
+    }
+  ]
+}

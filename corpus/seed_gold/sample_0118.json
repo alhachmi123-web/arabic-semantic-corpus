@@ -1,0 +1,36 @@
+{
+  "discourse_id": "DISC_GOLD_1097",
+  "raw_text": "تالله لأطلبن العلم من مهده إلى لحده",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "تالله",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "طلب",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "العلم",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "من مهده إلى لحده",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

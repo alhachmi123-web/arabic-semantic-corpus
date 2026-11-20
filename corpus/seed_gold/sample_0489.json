@@ -1,0 +1,39 @@
+{
+  "discourse_id": "DISC_GOLD_1481",
+  "raw_text": "في العدل استقرار للمجتمع واطمئنان",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "و"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "استقرار",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "في العدل",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "للمجتمع",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "joint_association_مشاركة_وجمع",
+      "connector_particle": "و",
+      "target_element": "استقرار",
+      "linked_value": "واطمئنان"
+    }
+  ]
+}

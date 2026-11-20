@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1654",
-  "raw_text": "حفظت تسعين قاعدة نحوية بإمعان",
+  "discourse_id": "DISC_GOLD_805",
+  "raw_text": "فتولى فرعون فجمع كيده ثم أتى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "تولي",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "حفظ",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "تسعين قاعدة نحوية",
       "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بإمعان",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

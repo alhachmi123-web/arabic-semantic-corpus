@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1086",
+  "raw_text": "رب أوزعني أن أشكر نعمتك التي أنعمت علي",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "رب"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "رب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "أوزع",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "أن أشكر نعمتك",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

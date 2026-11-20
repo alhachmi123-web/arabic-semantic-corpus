@@ -1,42 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1633",
-  "raw_text": "ارتفع الصادق قدرا ووجاهة بالوفاء",
+  "discourse_id": "DISC_GOLD_786",
+  "raw_text": "وإذا بشر أحدهم بالأنثى ظل وجهه مسودا وهو كظيم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صادق",
+      "lemma": "بشارة",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "ارتفع",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "قدرا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "بالوفاء",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "قدرا",
-      "linked_value": "ووجاهة"
-    }
-  ]
+  }
 }

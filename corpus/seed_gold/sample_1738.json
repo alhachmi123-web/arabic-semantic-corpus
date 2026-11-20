@@ -1,24 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1738",
-  "raw_text": "أقبل الحضور غير متأخر واحد",
+  "discourse_id": "DISC_GOLD_881",
+  "raw_text": "وكذلك نجزي من أسرف ولم يؤمن بآيات ربه ولعذاب الآخرة أشد وأبقى",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "غير"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "حضور",
+      "lemma": "جزاء",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "أقبل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+    }
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1367",
+  "raw_text": "أي مسافر عاد إلى وطنه سالما",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مسافر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "عاد",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "إلى وطنه",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "سالما",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1461",
+  "raw_text": "في العمل الجاد ثمرة تبقى للأجيال",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "ثمرة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "في العمل الجاد",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "للأجيال",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

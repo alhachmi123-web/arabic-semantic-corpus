@@ -1,37 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1854",
-  "raw_text": "عسى الفهم يرسخ بالتكرار والمراجعة",
+  "discourse_id": "DISC_GOLD_987",
+  "raw_text": "ولقد آتينا موسى الكتاب وجعلنا معه أخاه هارون وزيراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "فهم",
+      "lemma": "إيتاء",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "رسخ",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بالتكرار",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "بالتكرار",
-      "linked_value": "والمراجعة"
-    }
-  ]
+  }
 }

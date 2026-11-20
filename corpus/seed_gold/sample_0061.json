@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1045",
+  "raw_text": "إنما يعرف فضل أهل العلم منصفو الناس",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إنما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "منصف",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "عرف",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "فضل أهل العلم",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

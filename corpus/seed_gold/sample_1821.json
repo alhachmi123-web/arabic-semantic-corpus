@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1821",
-  "raw_text": "كاد الشك يزول بظهور الدليل",
+  "discourse_id": "DISC_GOLD_957",
+  "raw_text": "أو يلقى إليه كنز أو تكون له جنة يأكل منها وقال الظالمون إن تتبعون إلا رجلاً مسحوراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "شك",
+      "lemma": "إلقاء",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "زال",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "بظهور الدليل",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

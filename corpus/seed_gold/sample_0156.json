@@ -1,0 +1,42 @@
+{
+  "discourse_id": "DISC_GOLD_1130",
+  "raw_text": "اطلب العلم بل الحكمة في مطلع العمر",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "بل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "طلب",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "العلم",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "في مطلع العمر",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "بل",
+      "target_element": "العلم",
+      "linked_value": "بل الحكمة"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_1312",
+  "raw_text": "ما أروع الصبر حين يلاقي العواصف بثبات",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "صبر",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "حين يلاقي العواصف",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بثبات",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

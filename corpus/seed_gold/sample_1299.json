@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1299",
+  "raw_text": "كيف يصبر الحليم على جفاء الجاهل",
+  "pragmatic_intent": {
+    "speech_act": "interrogative_استفهام",
+    "discourse_markers": [
+      "كيف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حليم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "صبر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "على جفاء الجاهل",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

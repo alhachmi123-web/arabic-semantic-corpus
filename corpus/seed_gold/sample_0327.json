@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1331",
+  "raw_text": "أيا غافلا عن الغاية انتبه قبل الرحيل",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "أيا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنت",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "انتبه",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "temporal_coord_الإحداثي_الزماني",
+      "value": "قبل الرحيل",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

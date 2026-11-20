@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1726",
-  "raw_text": "نعم الغاية إصلاح ذات البين بالحكمة",
+  "discourse_id": "DISC_GOLD_870",
+  "raw_text": "وإذ قلنا للملائكة اسجدوا لآدم فسجدوا إلا إبليس أبى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "إصلاح",
-      "role": "subject_محور_ثابت",
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "بالحكمة",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1711",
-  "raw_text": "ما أروع الإخلاص حين يقترن بالعمل",
+  "discourse_id": "DISC_GOLD_857",
+  "raw_text": "يتخافتون بينهم إن لبثتم إلا عشراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "إخلاص",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "حين يقترن بالعمل",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "تخافت",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

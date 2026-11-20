@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1672",
-  "raw_text": "حصد الفلاح عشرين هكتارا قمحا صيفا",
+  "discourse_id": "DISC_GOLD_821",
+  "raw_text": "إنا آمنا بربنا ليغفر لنا خطايانا وما أكرهتنا عليه من السحر والله خير وأبقى",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "فلاح",
+      "lemma": "إيمان",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "حصد",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "عشرين هكتارا قمحا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "صيفا",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

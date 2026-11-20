@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1790",
-  "raw_text": "حبذا الشورى منهجا في إدارة الأمور",
+  "discourse_id": "DISC_GOLD_929",
+  "raw_text": "كذلك يبين الله لكم الآيات والله عليم حكيم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "شورى",
-      "role": "subject_محور_ثابت",
+      "lemma": "بيان",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "منهجا في إدارة الأمور",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

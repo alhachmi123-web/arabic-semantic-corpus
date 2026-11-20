@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1815",
-  "raw_text": "أخذ الناس يتدبرون معاني الكتاب",
+  "discourse_id": "DISC_GOLD_951",
+  "raw_text": "ولا يملكون لأنفسهم ضراً ولا نفعاً ولا يملكون موتاً ولا حياة ولا نشوراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "ناس",
+      "lemma": "ملك",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "تدبر",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "معاني الكتاب",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

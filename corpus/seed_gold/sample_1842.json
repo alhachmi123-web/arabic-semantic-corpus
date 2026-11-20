@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1842",
-  "raw_text": "أخذ العالم يراجع أصول المسألة",
+  "discourse_id": "DISC_GOLD_976",
+  "raw_text": "أصحاب الجنة يومئذ خير مستقراً وأحسن مقيلاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "عالم",
+      "lemma": "صاحب",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "راجع",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "أصول المسألة",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

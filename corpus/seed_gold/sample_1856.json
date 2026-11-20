@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1856",
-  "raw_text": "كأن العلم نور يضيء الطريق",
+  "discourse_id": "DISC_GOLD_989",
+  "raw_text": "وقوم نوح لما كذبوا الرسل أغرقناهم وجعلناهم للناس آية وأعتدنا للظالمين عذاباً أليماً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "كأن"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "علم",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "الطريق",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "تدمير",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

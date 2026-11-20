@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1747",
-  "raw_text": "لا حبذا الجهل بالأساسيات في العلم",
+  "discourse_id": "DISC_GOLD_89",
+  "raw_text": "إنما أنتَ منذرٌ",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لا"
-    ]
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "جهل",
-      "role": "subject_محور_ثابت",
+      "lemma": "إنذار",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في العلم",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

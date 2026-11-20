@@ -1,0 +1,22 @@
+{
+  "discourse_id": "DISC_GOLD_1370",
+  "raw_text": "حضر الحضور غير ضيف اعتذر مسبقا",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حضور",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "حضر",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1848",
-  "raw_text": "كاد الوقت ينقضي دون مراجعة",
+  "discourse_id": "DISC_GOLD_981",
+  "raw_text": "لقد أضلني عن الذكر بعد إذ جاءني وكان الشيطان للإنسان خذولاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "وقت",
+      "lemma": "إضلال",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "انقضى",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "دون مراجعة",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

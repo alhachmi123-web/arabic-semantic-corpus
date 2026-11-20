@@ -1,21 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1859",
-  "raw_text": "إن الصبر مفتاح كل أمر عسير",
+  "discourse_id": "DISC_GOLD_991",
+  "raw_text": "وكلا ضربنا له الأمثال وكلاً تبرنا تتبيراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "إن"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صبر",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+      "lemma": "ضرب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    }
+  }
 }

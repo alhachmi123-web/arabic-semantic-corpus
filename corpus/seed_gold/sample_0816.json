@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1838",
+  "raw_text": "ليت الناس يقدرون قيمة الوقت",
+  "pragmatic_intent": {
+    "speech_act": "directive_طلب",
+    "discourse_markers": [
+      "ليت"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "ناس",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "قدر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "قيمة الوقت",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

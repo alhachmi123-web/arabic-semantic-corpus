@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1293",
+  "raw_text": "ليت العلم ينير دروب كل مجتهد",
+  "pragmatic_intent": {
+    "speech_act": "wish_تمن",
+    "discourse_markers": [
+      "ليت"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "علم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "أنار",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "دروب كل مجتهد",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

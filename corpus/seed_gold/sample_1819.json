@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1819",
-  "raw_text": "بات الحارس يقظا طوال الليل",
+  "discourse_id": "DISC_GOLD_955",
+  "raw_text": "قل أنزله الذي يعلم السر في السماوات والأرض إنه كان غفوراً رحيماً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "حارس",
-      "role": "subject_محور_ثابت",
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "بات",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "طوال الليل",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

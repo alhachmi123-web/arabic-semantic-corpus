@@ -1,31 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1681",
-  "raw_text": "راقني النص بلاغته ودقة تراكيبه",
+  "discourse_id": "DISC_GOLD_83",
+  "raw_text": "دخل الأميرُ فالعساكرُ",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "نص",
+      "lemma": "عسكر",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "راق",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "بلاغته",
-      "linked_value": "ودقة تراكيبه"
     }
-  ]
+  }
 }

@@ -1,34 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1755",
-  "raw_text": "ما أجمل الإنصاف في القضاء والحكم",
+  "discourse_id": "DISC_GOLD_897",
+  "raw_text": "خشعاً أبصارهم يخرجون من الأجداث كأنهم جراد منتشر",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "إنصاف",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "في القضاء",
-      "phonetic_marker": "kasra_كسرة"
+      "lemma": "خسوع",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "القضاء",
-      "linked_value": "والحكم"
-    }
-  ]
+  }
 }

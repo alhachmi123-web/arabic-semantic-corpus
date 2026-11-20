@@ -1,0 +1,25 @@
+{
+  "discourse_id": "DISC_GOLD_1364",
+  "raw_text": "أجمل بسكينة تسكن قلب المؤمن الراضي",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "سكينة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "قلب المؤمن الراضي",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

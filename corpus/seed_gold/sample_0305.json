@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1310",
+  "raw_text": "ما أنفقت في سبيل الخير سوى البركة",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "ما",
+      "سوى"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "بركة",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": {
+      "lemma": "أنفق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "في سبيل الخير",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

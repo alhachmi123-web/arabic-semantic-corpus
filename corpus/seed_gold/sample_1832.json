@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1832",
-  "raw_text": "لكن التروي يجنب الإنسان الزلل",
+  "discourse_id": "DISC_GOLD_967",
+  "raw_text": "قالوا سبحانك ما كان ينبغي لنا أن نتخذ من دونك من أولياء ولكن متعتهم وآباءهم حتى نسوا الذكر وكانوا قوماً بوراً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لكن"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "تروي",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "الزلل",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

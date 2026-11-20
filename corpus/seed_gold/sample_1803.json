@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1803",
-  "raw_text": "كاد الفجر يطلع على الوادي",
+  "discourse_id": "DISC_GOLD_940",
+  "raw_text": "إنما المؤمنون الذين آمنوا بالله ورسوله وإذا كانوا معه على أمر جامع لم يذهبوا حتى يستأذنوه",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "فجر",
+      "lemma": "إيمان",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "طلع",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "على الوادي",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1768",
-  "raw_text": "حبذا الصدق منهجا في كل شأن",
+  "discourse_id": "DISC_GOLD_909",
+  "raw_text": "لقد أنزلنا آيات مبينات والله يهدي من يشاء إلى صراط مستقيم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صدق",
-      "role": "subject_محور_ثابت",
+      "lemma": "إنزال",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "منهجا في كل شأن",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

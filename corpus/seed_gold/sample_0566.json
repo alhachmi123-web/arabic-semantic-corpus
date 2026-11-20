@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1584",
+  "raw_text": "سار القارئ متمعنا في دقة العبارة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "قارئ",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "سار",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "متمعنا",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في دقة العبارة",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

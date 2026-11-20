@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1807",
-  "raw_text": "ظل الباحث مواظبا على القراءة",
+  "discourse_id": "DISC_GOLD_944",
+  "raw_text": "فليحذر الذين يخالفون عن أمره أن تصيبهم فتنة أو يصيبهم عذاب أليم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "باحث",
-      "role": "subject_محور_ثابت",
+      "lemma": "حذر",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "ظل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "على القراءة",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,22 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1581",
-  "raw_text": "إذا صدق العزم تذللت الصعاب",
+  "discourse_id": "DISC_GOLD_739",
+  "raw_text": "وإذا قيل لهم ماذا أنزل ربكم قالوا أساطير الأولين",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صعوبة",
+      "lemma": "قول",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "تذلل",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+      "phonetic_marker": "fatha_فتحة"
+    }
+  }
 }

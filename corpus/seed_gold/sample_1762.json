@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1762",
-  "raw_text": "نعم الصديق من ينصحك في الغيب",
+  "discourse_id": "DISC_GOLD_903",
+  "raw_text": "ألم تر أن الله يزجي سحاباً ثم يؤلف بينه ثم يجعله ركاماً فترى الودق يخرج من خلاله",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "من",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "spatial_coord_الإحداثي_المكاني",
-      "value": "في الغيب",
-      "phonetic_marker": "kasra_كسرة"
+      "lemma": "رؤية",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

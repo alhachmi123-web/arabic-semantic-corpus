@@ -1,30 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1797",
-  "raw_text": "ما يدرك الغاية غير الصابر المثابر",
+  "discourse_id": "DISC_GOLD_935",
+  "raw_text": "أو بيوت آبائكم أو بيوت أمهاتكم أو بيوت إخوانكم أو بيوت أخواتكم",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "غير"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "صابر",
+      "lemma": "بيت",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": {
-      "lemma": "أدرك",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "الغاية",
-      "phonetic_marker": "fatha_فتحة"
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

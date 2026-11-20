@@ -1,0 +1,35 @@
+{
+  "discourse_id": "DISC_GOLD_1005",
+  "raw_text": "إنما يخشى الله من عباده العلماء",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إنما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عالم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "خشي",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الله",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "من عباده",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

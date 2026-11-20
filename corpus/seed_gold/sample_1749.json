@@ -1,28 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1749",
-  "raw_text": "نعم الرجل من يحفظ العهد ويصونه",
+  "discourse_id": "DISC_GOLD_891",
+  "raw_text": "اقتربت الساعة وانشق القمر",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "من",
-      "role": "subject_محور_ثابت",
+      "lemma": "اقتراب",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "يحفظ العهد",
-      "linked_value": "ويصونه"
     }
-  ]
+  }
 }

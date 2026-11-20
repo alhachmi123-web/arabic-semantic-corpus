@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_1294",
+  "raw_text": "إذا شكر المرء النعمة ازدادت بركتها",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إذا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مرء",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "شكر",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "النعمة",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": null,
+      "target_element": "شكر المرء النعمة",
+      "linked_value": "ازدادت بركتها"
+    }
+  ]
+}

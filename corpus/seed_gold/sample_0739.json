@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_1757",
+  "raw_text": "ما أدرك السر غير أهل التدبر",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "غير"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أهل",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    "action_event": {
+      "lemma": "أدرك",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "السر",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

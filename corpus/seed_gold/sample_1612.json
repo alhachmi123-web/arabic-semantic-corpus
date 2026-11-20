@@ -1,42 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1612",
-  "raw_text": "مشيت والفجر طلبا للسكينة والصفاء",
+  "discourse_id": "DISC_GOLD_767",
+  "raw_text": "إنما قولنا لشياء إذا أردناه أن نقول له كن فيكون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "و"
-    ]
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "قول",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "مشى",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "والفجر",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "طلبا للسكينة",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": [
-    {
-      "link_type": "joint_association_مشاركة_وجمع",
-      "connector_particle": "و",
-      "target_element": "للسكينة",
-      "linked_value": "والصفاء"
-    }
-  ]
+  }
 }

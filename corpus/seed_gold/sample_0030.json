@@ -1,0 +1,31 @@
+{
+  "discourse_id": "DISC_GOLD_1017",
+  "raw_text": "تالله لأصلن رحمي مهما باعدت المسافات",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "تالله",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "وصل",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "رحمي",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

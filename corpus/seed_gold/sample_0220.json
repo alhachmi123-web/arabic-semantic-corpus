@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1189",
+  "raw_text": "واشباباه على زمن مضى في الجد",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "وا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "شباب",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "في الجد",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_1434",
+  "raw_text": "بالصدق يثبت المرء في مواطن الاختبار",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مرء",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ثبت",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "بالصدق",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في مواطن الاختبار",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

@@ -1,0 +1,36 @@
+{
+  "discourse_id": "DISC_GOLD_1047",
+  "raw_text": "تالله لأصبرن على المكاره احتسابا للأجر",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "تالله",
+      "ل"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أنا",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "صبر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "على المكاره",
+      "phonetic_marker": "kasra_كسرة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "احتسابا للأجر",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

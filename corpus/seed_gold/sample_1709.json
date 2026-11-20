@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1709",
-  "raw_text": "حبذا الوفاء بالعهد في كل زمان",
+  "discourse_id": "DISC_GOLD_855",
+  "raw_text": "خالدين فيه وساء لهم يوم القيامة حملاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "وفاء",
-      "role": "subject_محور_ثابت",
+      "lemma": "خلود",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "في كل زمان",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

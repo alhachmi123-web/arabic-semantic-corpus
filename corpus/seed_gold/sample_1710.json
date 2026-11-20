@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1710",
-  "raw_text": "لا حبذا العجلة في إصدار الأحكام",
+  "discourse_id": "DISC_GOLD_856",
+  "raw_text": "يوم ينفخ في الصور ونحشر المجرمين يومئذ زرقاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لا"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "عجلة",
-      "role": "subject_محور_ثابت",
+      "lemma": "نفخ",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "في إصدار الأحكام",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

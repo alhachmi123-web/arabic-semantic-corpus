@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1770",
-  "raw_text": "لا حبذا الغفلة عن شكر النعم",
+  "discourse_id": "DISC_GOLD_910",
+  "raw_text": "ويقولون آمنا بالله وبالرسول وأطعنا ثم يتولى فريق منهم من بعد ذلك وما أولئك بالمؤمنين",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لا"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "غفلة",
-      "role": "subject_محور_ثابت",
+      "lemma": "قول",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "عن شكر النعم",
-      "phonetic_marker": "kasra_كسرة"
     }
-  ],
-  "contextual_links": []
+  }
 }

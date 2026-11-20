@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1826",
+  "raw_text": "كأن النجوم مصابيح في السماء",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "كأن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "نجم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "في السماء",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}

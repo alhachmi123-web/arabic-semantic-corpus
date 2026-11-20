@@ -1,33 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1644",
-  "raw_text": "صبرت صبرا جميلا ابتغاء الثواب",
+  "discourse_id": "DISC_GOLD_796",
+  "raw_text": "وما أنزلنا عليك الكتاب إلا لتبيّن لهم الذي اختلفوا فيه وهدى ورحمة لقوم يؤمنون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "restriction_قصر_وحصر"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أنا",
+      "lemma": "إنزال",
       "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": {
-      "lemma": "صبر",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "صبرا جميلا",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    {
-      "modifier_type": "cause_purpose_العلة_والغاية",
-      "value": "ابتغاء الثواب",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

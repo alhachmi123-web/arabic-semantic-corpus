@@ -1,31 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1808",
-  "raw_text": "ليت الشباب يعود يوما فأخبره",
+  "discourse_id": "DISC_GOLD_945",
+  "raw_text": "ألا إن لله ما في السماوات والأرض قد يعلم ما أنتم عليه",
   "pragmatic_intent": {
-    "speech_act": "directive_طلب",
-    "discourse_markers": [
-      "ليت",
-      "ف"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "شباب",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": {
-      "lemma": "عاد",
-      "temporal_state": "ongoing_متجدد"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "يوما",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "ملك",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

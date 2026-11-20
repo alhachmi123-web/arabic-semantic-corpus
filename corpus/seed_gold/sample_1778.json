@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1778",
-  "raw_text": "حبذا الإخلاص أساسا لكل عمل صالح",
+  "discourse_id": "DISC_GOLD_918",
+  "raw_text": "إن الله خبير بما تعملون",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة",
     "topic_axis": {
-      "lemma": "إخلاص",
-      "role": "subject_محور_ثابت",
+      "lemma": "خبرة",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "damma_ضمة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "أساسا لكل عمل صالح",
-      "phonetic_marker": "fatha_فتحة"
     }
-  ],
-  "contextual_links": []
+  }
 }

@@ -1,25 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1791",
-  "raw_text": "أجمل بالصبر مفتاحا لكل خير مرتجى",
+  "discourse_id": "DISC_GOLD_93",
+  "raw_text": "يا مصريُّ اتحدوا",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": []
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "صبر",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "manner_state_الهيئة_والكيفية",
-      "value": "مفتاحا لكل خير مرتجى",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "مصر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

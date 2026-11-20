@@ -1,27 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1805",
-  "raw_text": "لعل الفرج قريب بعد الصبر",
+  "discourse_id": "DISC_GOLD_942",
+  "raw_text": "فإذا استأذنوك لبعض شأنهم فأذن لمن شئت منهم واستغفر لهم الله إن الله غفور رحيم",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لعل"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "فرج",
-      "role": "subject_محور_ثابت",
-      "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "temporal_coord_الإحداثي_الزماني",
-      "value": "بعد الصبر",
-      "phonetic_marker": "fatha_فتحة"
+      "lemma": "استئذان",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

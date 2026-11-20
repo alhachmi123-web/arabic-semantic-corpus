@@ -1,21 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1847",
-  "raw_text": "لعل التوفيق حليف من يخلص العمل",
+  "discourse_id": "DISC_GOLD_980",
+  "raw_text": "يا ويلتا ليتني لم أتخذ فلاناً صديقاً",
   "pragmatic_intent": {
-    "speech_act": "assertion_إخبار",
-    "discourse_markers": [
-      "لعل"
-    ]
+    "speech_act": "directive_طلب"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "توفيق",
-      "role": "subject_محور_ثابت",
+      "lemma": "ويل",
+      "role": "initiator_مُحدِث",
       "phonetic_marker": "fatha_فتحة"
-    },
-    "action_event": null,
-    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
-  },
-  "event_modifiers": [],
-  "contextual_links": []
+    }
+  }
 }

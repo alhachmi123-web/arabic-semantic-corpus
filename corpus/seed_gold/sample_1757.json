@@ -1,30 +1,15 @@
 {
-  "discourse_id": "DISC_GOLD_1757",
-  "raw_text": "ما أدرك السر غير أهل التدبر",
+  "discourse_id": "DISC_GOLD_899",
+  "raw_text": "كذبت قبلهم قوم نوح فكذبوا عبدنا وقالوا مجنون وازدجر",
   "pragmatic_intent": {
-    "speech_act": "restriction_قصر_وحصر",
-    "discourse_markers": [
-      "غير"
-    ]
+    "speech_act": "assertion_إخبار"
   },
   "predication_core": {
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث",
     "topic_axis": {
-      "lemma": "أهل",
+      "lemma": "تكذيب",
       "role": "initiator_مُحدِث",
-      "phonetic_marker": "kasra_كسرة"
-    },
-    "action_event": {
-      "lemma": "أدرك",
-      "temporal_state": "past_منقضٍ"
-    },
-    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
-  },
-  "event_modifiers": [
-    {
-      "modifier_type": "target_scope_نطاق_الوقوع",
-      "value": "السر",
-      "phonetic_marker": "fatha_فتحة"
+      "phonetic_marker": "damma_ضمة"
     }
-  ],
-  "contextual_links": []
+  }
 }

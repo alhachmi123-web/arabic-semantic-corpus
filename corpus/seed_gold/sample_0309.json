@@ -1,0 +1,24 @@
+{
+  "discourse_id": "DISC_GOLD_1314",
+  "raw_text": "نجح الطلاب إلا متقاعسا أهمل دروسه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إلا"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "طالب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "نجح",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}
