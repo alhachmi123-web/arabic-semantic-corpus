@@ -1,0 +1,24 @@
+{
+  "discourse_id": "DISC_GOLD_1825",
+  "raw_text": "ما دام الحق واضحا فلن يضيع",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حق",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "دام",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

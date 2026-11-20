@@ -1,0 +1,22 @@
+{
+  "discourse_id": "DISC_GOLD_1879",
+  "raw_text": "بات العزم قويا رغم صعوبة الطريق",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عزم",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "بات",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

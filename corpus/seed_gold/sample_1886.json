@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1886",
+  "raw_text": "كأن القاعدة مفتاح لفهم المسائل",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "كأن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "قاعدة",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "لفهم المسائل",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}
