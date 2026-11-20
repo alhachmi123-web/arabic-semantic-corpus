@@ -1,0 +1,22 @@
+{
+  "discourse_id": "DISC_GOLD_1561",
+  "raw_text": "إذا تواضع العالم أحبه طلابه",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عالم",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": {
+      "lemma": "أحب",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

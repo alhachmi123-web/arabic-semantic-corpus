@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_1502",
+  "raw_text": "إن الحق نفسه واضح أمام البصائر",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "إن"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حق",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "أمام البصائر",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

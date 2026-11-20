@@ -1,0 +1,19 @@
+{
+  "discourse_id": "DISC_GOLD_1582",
+  "raw_text": "العدل العدل أساس كل نهضة راسخة",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "عدل",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}
