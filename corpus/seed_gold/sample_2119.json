@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_2119",
+  "raw_text": "وثّقَ الكاتبُ الشاهدَ أيِ النصَّ المعتمدَ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "أي"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "كاتب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "وثق",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الشاهدَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أيِ",
+      "target_element": "الشاهدَ",
+      "linked_value": "النصَّ المعتمدَ"
+    }
+  ]
+}
