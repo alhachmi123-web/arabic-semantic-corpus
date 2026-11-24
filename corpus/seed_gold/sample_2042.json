@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_2042",
+  "raw_text": "اللهمَّ ارزقنا بصيرةً في الدينِ.",
+  "pragmatic_intent": {
+    "speech_act": "supplication_دعاء",
+    "discourse_markers": [
+      "اللهم"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مخاطب",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "رزق",
+      "temporal_state": "imperative_استشرافي"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "بصيرةً",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

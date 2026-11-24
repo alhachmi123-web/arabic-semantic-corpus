@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_2029",
+  "raw_text": "أينَ يقعُ المرجعُ الأساسيُّ؟",
+  "pragmatic_intent": {
+    "speech_act": "interrogative_استفهام",
+    "discourse_markers": [
+      "أين"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "مرجع",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "وقع",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "spatial_coord_الإحداثي_المكاني",
+      "value": "أينَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

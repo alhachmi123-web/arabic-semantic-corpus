@@ -1,0 +1,40 @@
+{
+  "discourse_id": "DISC_GOLD_2018",
+  "raw_text": "فهمتُ المسألةَ فهماً راسخاً.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "متكلم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "فهم",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "المسألةَ",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "فهماً راسخاً",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "semantic_reinforcement_تأكيد_وترسيخ",
+      "connector_particle": null,
+      "target_element": "فهمتُ",
+      "linked_value": "فهماً راسخاً"
+    }
+  ]
+}

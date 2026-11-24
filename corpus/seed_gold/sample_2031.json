@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_2031",
+  "raw_text": "تأمّلَ المحققُ النصَّ فدوّنَ ملاحظاتِهِ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "محقق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "تأمل",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "النصَّ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "فـ",
+      "target_element": "تأمّلَ",
+      "linked_value": "دوّنَ ملاحظاتِهِ"
+    }
+  ]
+}

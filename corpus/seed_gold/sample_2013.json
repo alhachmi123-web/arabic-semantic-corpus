@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_2013",
+  "raw_text": "واللهِ ليظهرنَّ الحقُّ.",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "والله",
+      "اللام",
+      "نون التوكيد"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "حق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ظهر",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "ليظهرنَّ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}
