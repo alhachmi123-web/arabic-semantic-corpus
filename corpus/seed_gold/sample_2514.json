@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_2514",
+  "raw_text": "أثبتَ المحققُ الضابطَ أيِ القيدَ المعتبرَ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "أي"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "محقق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "أثبت",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الضابطَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أيِ",
+      "target_element": "الضابطَ",
+      "linked_value": "القيدَ المعتبرَ"
+    }
+  ]
+}
