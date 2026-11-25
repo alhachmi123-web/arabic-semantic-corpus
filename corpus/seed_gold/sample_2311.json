@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_2311",
+  "raw_text": "جمعَ الباحثُ الأدلةَ ثمَّ بوّبَها.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "ثم"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "باحث",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "جمع",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "الأدلةَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "sequential_flow_تدفق_وتعقيب",
+      "connector_particle": "ثمَّ",
+      "target_element": "جمعَ",
+      "linked_value": "بوّبَها"
+    }
+  ]
+}

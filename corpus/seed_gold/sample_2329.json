@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_2329",
+  "raw_text": "اعتمدَ المحققُ القراءةَ أيِ الوجهَ الأرجحَ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "أي"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "محقق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "اعتمد",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "القراءةَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أيِ",
+      "target_element": "القراءةَ",
+      "linked_value": "الوجهَ الأرجحَ"
+    }
+  ]
+}
