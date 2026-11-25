@@ -1,0 +1,26 @@
+{
+  "discourse_id": "DISC_GOLD_2383",
+  "raw_text": "واللهِ ليُحفظنَّ هذا التراثُ العلميُّ.",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "والله",
+      "اللام",
+      "نون التوكيد"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "تراث",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "حفظ",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

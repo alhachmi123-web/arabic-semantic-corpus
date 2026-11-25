@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_2385",
+  "raw_text": "ليتَ الوضوحَ يغمرُ كلَّ مبحثٍ.",
+  "pragmatic_intent": {
+    "speech_act": "wish_تمن",
+    "discourse_markers": [
+      "ليت"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "وضوح",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "غمر",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "كلَّ مبحثٍ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

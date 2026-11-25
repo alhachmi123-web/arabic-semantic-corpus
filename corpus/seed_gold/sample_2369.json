@@ -1,0 +1,37 @@
+{
+  "discourse_id": "DISC_GOLD_2369",
+  "raw_text": "قرّرَ الباحثُ المبدأَ أيِ المعيارَ المعتمدَ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": [
+      "أي"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "باحث",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "قرر",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "المبدأَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "clarifying_substitution_إبدال_وإيضاح",
+      "connector_particle": "أيِ",
+      "target_element": "المبدأَ",
+      "linked_value": "المعيارَ المعتمدَ"
+    }
+  ]
+}
