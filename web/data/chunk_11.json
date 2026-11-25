@@ -1,0 +1,789 @@
+[
+  {
+    "discourse_id": "DISC_GOLD_2501",
+    "raw_text": "يُحقّقُ العالمُ المسألةَ صباحاً بإتقانٍ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "عالم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "حقق",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "المسألةَ",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "temporal_coord_الإحداثي_الزماني",
+        "value": "صباحاً",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "بإتقانٍ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2502",
+    "raw_text": "تأمّلَ الدارسُ الفروعَ طلباً للتمكنِ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "دارس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "تأمل",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الفروعَ",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "cause_purpose_العلة_والغاية",
+        "value": "طلباً",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2503",
+    "raw_text": "الثباتُ عمادُ البناءِ الراسخِ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "ثبات",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2504",
+    "raw_text": "رتّبْ الشواهدَ في المدونةِ بإحكامٍ.",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مخاطب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "implicit_مقدر"
+      },
+      "action_event": {
+        "lemma": "رتب",
+        "temporal_state": "imperative_استشرافي"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الشواهدَ",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "spatial_coord_الإحداثي_المكاني",
+        "value": "في المدونةِ",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "بإحكامٍ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2505",
+    "raw_text": "ما أمتنَ هذا الضبطَ الدلاليَّ!",
+    "pragmatic_intent": {
+      "speech_act": "exclamation_تعجب",
+      "discourse_markers": [
+        "ما"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "ضبط",
+        "role": "recipient_مُستقبِل_للحدث",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "أمتنَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2506",
+    "raw_text": "إنما يضبطُ القرائنَ المحققُ.",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر",
+      "discourse_markers": [
+        "إنما"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "محقق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "ضبط",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "القرائنَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2507",
+    "raw_text": "اللهمَّ افتحْ لنا أبوابَ الفهمِ والرشادِ.",
+    "pragmatic_intent": {
+      "speech_act": "supplication_دعاء",
+      "discourse_markers": [
+        "اللهم"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مخاطب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "implicit_مقدر"
+      },
+      "action_event": {
+        "lemma": "فتح",
+        "temporal_state": "imperative_استشرافي"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "أبوابَ الفهمِ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "joint_association_مشاركة_وجمع",
+        "connector_particle": "و",
+        "target_element": "أبوابَ الفهمِ",
+        "linked_value": "والرشادِ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_2508",
+    "raw_text": "واللهِ ليُثمرنَّ هذا الجهدُ العلميُّ.",
+    "pragmatic_intent": {
+      "speech_act": "oath_قسم",
+      "discourse_markers": [
+        "والله",
+        "اللام",
+        "نون التوكيد"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "جهد",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "أثمر",
+        "temporal_state": "future_منتظر"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2509",
+    "raw_text": "متى تُراجعُ النصوصُ المدخلةُ؟",
+    "pragmatic_intent": {
+      "speech_act": "interrogative_استفهام",
+      "discourse_markers": [
+        "متى"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "نصوص",
+        "role": "recipient_مُستقبِل_للحدث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "راجع",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "temporal_coord_الإحداثي_الزماني",
+        "value": "متى",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2510",
+    "raw_text": "ليتَ الدقةَ تلازمُ كلَّ عينةٍ.",
+    "pragmatic_intent": {
+      "speech_act": "wish_تمن",
+      "discourse_markers": [
+        "ليت"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "دقة",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "لازم",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "كلَّ عينةٍ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2511",
+    "raw_text": "حرّرَ الباحثُ الفروعَ ثمَّ ضبطَها.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "ثم"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "باحث",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "حرر",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الفروعَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "sequential_flow_تدفق_وتعقيب",
+        "connector_particle": "ثمَّ",
+        "target_element": "حرّرَ",
+        "linked_value": "ضبطَها"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_2512",
+    "raw_text": "تداولَ الشارحُ والمحققُ المسألةَ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "و"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "شارح",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "تداول",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "المسألةَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "joint_association_مشاركة_وجمع",
+        "connector_particle": "و",
+        "target_element": "الشارحُ",
+        "linked_value": "والمحققُ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_2513",
+    "raw_text": "وثّقتُ القرائنَ توثيقاً دقيقاً.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "متكلم",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "implicit_مقدر"
+      },
+      "action_event": {
+        "lemma": "وثق",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "القرائنَ",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "توثيقاً دقيقاً",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "semantic_reinforcement_تأكيد_وترسيخ",
+        "connector_particle": null,
+        "target_element": "وثّقتُ",
+        "linked_value": "توثيقاً دقيقاً"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_2514",
+    "raw_text": "أثبتَ المحققُ الضابطَ أيِ القيدَ المعتبرَ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": [
+        "أي"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "محقق",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "أثبت",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الضابطَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "clarifying_substitution_إبدال_وإيضاح",
+        "connector_particle": "أيِ",
+        "target_element": "الضابطَ",
+        "linked_value": "القيدَ المعتبرَ"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_2515",
+    "raw_text": "الأناةُ مفتاحُ التثبتِ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "أناة",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2516",
+    "raw_text": "يُقابلُ الباحثُ الفروعَ بدقةٍ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "باحث",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "قابل",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الفروعَ",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "بدقةٍ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2517",
+    "raw_text": "سافرَ الدارسُ صباحاً طلباً للعلمِ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "دارس",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "سافر",
+        "temporal_state": "past_منقضٍ"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "temporal_coord_الإحداثي_الزماني",
+        "value": "صباحاً",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "cause_purpose_العلة_والغاية",
+        "value": "طلباً",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2518",
+    "raw_text": "البيانُ ميزانُ الشرحِ.",
+    "pragmatic_intent": {
+      "speech_act": "assertion_إخبار",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "بيان",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2519",
+    "raw_text": "حرّرْ الشواهدَ بدقةٍ قبلَ الرفعِ.",
+    "pragmatic_intent": {
+      "speech_act": "directive_طلب",
+      "discourse_markers": []
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مخاطب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "implicit_مقدر"
+      },
+      "action_event": {
+        "lemma": "حرر",
+        "temporal_state": "imperative_استشرافي"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "الشواهدَ",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "بدقةٍ",
+        "phonetic_marker": "kasra_كسرة"
+      },
+      {
+        "modifier_type": "temporal_coord_الإحداثي_الزماني",
+        "value": "قبلَ الرفعِ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2520",
+    "raw_text": "ما أبدعَ هذا النسقَ النحويَّ!",
+    "pragmatic_intent": {
+      "speech_act": "exclamation_تعجب",
+      "discourse_markers": [
+        "ما"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "نسق",
+        "role": "recipient_مُستقبِل_للحدث",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": null,
+      "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "intensity_measure_المقدار_والتأكيد",
+        "value": "أبدعَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2521",
+    "raw_text": "إنما يحققُ القرائنَ المتقنُ.",
+    "pragmatic_intent": {
+      "speech_act": "restriction_قصر_وحصر",
+      "discourse_markers": [
+        "إنما"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "متقن",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "حقق",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "القرائنَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2522",
+    "raw_text": "اللهمَّ اجعلْ سعيَنا مأجوراً ومباركاً.",
+    "pragmatic_intent": {
+      "speech_act": "supplication_دعاء",
+      "discourse_markers": [
+        "اللهم"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "مخاطب",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "implicit_مقدر"
+      },
+      "action_event": {
+        "lemma": "جعل",
+        "temporal_state": "imperative_استشرافي"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "سعيَنا",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": [
+      {
+        "link_type": "joint_association_مشاركة_وجمع",
+        "connector_particle": "و",
+        "target_element": "مأجوراً",
+        "linked_value": "ومباركاً"
+      }
+    ]
+  },
+  {
+    "discourse_id": "DISC_GOLD_2523",
+    "raw_text": "واللهِ ليكتملنَّ هذا العملُ بنجاحٍ.",
+    "pragmatic_intent": {
+      "speech_act": "oath_قسم",
+      "discourse_markers": [
+        "والله",
+        "اللام",
+        "نون التوكيد"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "عمل",
+        "role": "initiator_مُحدِث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "اكتمل",
+        "temporal_state": "future_منتظر"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "manner_state_الهيئة_والكيفية",
+        "value": "بنجاحٍ",
+        "phonetic_marker": "kasra_كسرة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2524",
+    "raw_text": "أينَ تُحفظُ النسخُ المعتمدةُ؟",
+    "pragmatic_intent": {
+      "speech_act": "interrogative_استفهام",
+      "discourse_markers": [
+        "أين"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "نسخ",
+        "role": "recipient_مُستقبِل_للحدث",
+        "phonetic_marker": "damma_ضمة"
+      },
+      "action_event": {
+        "lemma": "حفظ",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "spatial_coord_الإحداثي_المكاني",
+        "value": "أينَ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  },
+  {
+    "discourse_id": "DISC_GOLD_2525",
+    "raw_text": "ليتَ التنظيمَ يعمُّ كلَّ مدونةٍ.",
+    "pragmatic_intent": {
+      "speech_act": "wish_تمن",
+      "discourse_markers": [
+        "ليت"
+      ]
+    },
+    "predication_core": {
+      "topic_axis": {
+        "lemma": "تنظيم",
+        "role": "subject_محور_ثابت",
+        "phonetic_marker": "fatha_فتحة"
+      },
+      "action_event": {
+        "lemma": "عم",
+        "temporal_state": "ongoing_متجدد"
+      },
+      "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+    },
+    "event_modifiers": [
+      {
+        "modifier_type": "target_scope_نطاق_الوقوع",
+        "value": "كلَّ مدونةٍ",
+        "phonetic_marker": "fatha_فتحة"
+      }
+    ],
+    "contextual_links": []
+  }
+]

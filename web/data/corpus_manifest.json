@@ -1,6 +1,6 @@
 {
-  "total": 2000,
-  "chunks_count": 8,
+  "total": 2525,
+  "chunks_count": 11,
   "entries": [
     {
       "id": "TC-001-2026",
@@ -16001,6 +16001,4206 @@
       "speech_act": "assertion_إخبار",
       "lemma": "مدونة",
       "raw_text": "بلغت المدونة ألفين من العينات المكتملة"
+    },
+    {
+      "id": "DISC_GOLD_2001",
+      "file_index": 2001,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُراجع الباحثُ المخططَ صباحاً بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2002",
+      "file_index": 2002,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "أنت",
+      "raw_text": "احفظْ النسخةَ في المجلدِ فوراً."
+    },
+    {
+      "id": "DISC_GOLD_2003",
+      "file_index": 2003,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "طالب",
+      "raw_text": "هلْ أتمَّ الطالبُ قراءةَ الفصولِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2004",
+      "file_index": 2004,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "مدونة",
+      "raw_text": "ليتَ المدونةَ تكتملُ غداً بلا أخطاءَ."
+    },
+    {
+      "id": "DISC_GOLD_2005",
+      "file_index": 2005,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "صدق",
+      "raw_text": "إنّما الصدقُ أساسُ الثقةِ."
+    },
+    {
+      "id": "DISC_GOLD_2006",
+      "file_index": 2006,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُراجع الباحثُ المخططَ صباحاً بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2007",
+      "file_index": 2007,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "حفظَ الطالبُ المتنَ إتقاناً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2008",
+      "file_index": 2008,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "علم",
+      "raw_text": "العلمُ نورٌ يهدي السالكَ."
+    },
+    {
+      "id": "DISC_GOLD_2009",
+      "file_index": 2009,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "اكتبْ الخلاصةَ بوضوحٍ في الدفترِ."
+    },
+    {
+      "id": "DISC_GOLD_2010",
+      "file_index": 2010,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "أثر",
+      "raw_text": "ما أعمقَ أثرَ التدبرِ!"
+    },
+    {
+      "id": "DISC_GOLD_2011",
+      "file_index": 2011,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "عالم",
+      "raw_text": "إنما يخشى اللهَ العلماءُ."
+    },
+    {
+      "id": "DISC_GOLD_2012",
+      "file_index": 2012,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ وفّقْ طلابَ العلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2013",
+      "file_index": 2013,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "حق",
+      "raw_text": "واللهِ ليظهرنَّ الحقُّ."
+    },
+    {
+      "id": "DISC_GOLD_2014",
+      "file_index": 2014,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شاهد",
+      "raw_text": "كيفَ تُضبطُ الشواهدُ النحويةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2015",
+      "file_index": 2015,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "وقت",
+      "raw_text": "ليتَ الوقتَ يتسعُ للقراءةِ."
+    },
+    {
+      "id": "DISC_GOLD_2016",
+      "file_index": 2016,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "قارئ",
+      "raw_text": "قرأَ القارئُ الفصلَ ثمَّ لخّصَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2017",
+      "file_index": 2017,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أستاذ",
+      "raw_text": "حضرَ الأستاذُ والتلميذُ معاً."
+    },
+    {
+      "id": "DISC_GOLD_2018",
+      "file_index": 2018,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "فهمتُ المسألةَ فهماً راسخاً."
+    },
+    {
+      "id": "DISC_GOLD_2019",
+      "file_index": 2019,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "زائر",
+      "raw_text": "زارَ الزائرُ المكتبةَ أيِ الخزانةَ العلميةَ."
+    },
+    {
+      "id": "DISC_GOLD_2020",
+      "file_index": 2020,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عدل",
+      "raw_text": "العدلُ أساسُ العمرانِ."
+    },
+    {
+      "id": "DISC_GOLD_2021",
+      "file_index": 2021,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مستمع",
+      "raw_text": "يُصغي المستمعُ إلى الشرحِ بانتباهٍ."
+    },
+    {
+      "id": "DISC_GOLD_2022",
+      "file_index": 2022,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مسافر",
+      "raw_text": "سافرَ المسافرُ فجراً طلباً للرزقِ."
+    },
+    {
+      "id": "DISC_GOLD_2023",
+      "file_index": 2023,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صبر",
+      "raw_text": "الصبرُ مفتاحُ الفرجِ."
+    },
+    {
+      "id": "DISC_GOLD_2024",
+      "file_index": 2024,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "رتّبْ الأدلةَ ترتيباً منطقياً."
+    },
+    {
+      "id": "DISC_GOLD_2025",
+      "file_index": 2025,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نظام",
+      "raw_text": "ما أروعَ نظامَ اللغةِ العربيةِ!"
+    },
+    {
+      "id": "DISC_GOLD_2026",
+      "file_index": 2026,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "متأمل",
+      "raw_text": "إنما يُدركُ المعنى المتأملُ."
+    },
+    {
+      "id": "DISC_GOLD_2027",
+      "file_index": 2027,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "رب",
+      "raw_text": "ربِّ زدني علماً نافعاً."
+    },
+    {
+      "id": "DISC_GOLD_2028",
+      "file_index": 2028,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "هدف",
+      "raw_text": "تاللهِ ليتحققنَّ الهدفُ المنشودُ."
+    },
+    {
+      "id": "DISC_GOLD_2029",
+      "file_index": 2029,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مرجع",
+      "raw_text": "أينَ يقعُ المرجعُ الأساسيُّ؟"
+    },
+    {
+      "id": "DISC_GOLD_2030",
+      "file_index": 2030,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "فهم",
+      "raw_text": "ليتَ الفهمَ يعمُّ الجميعَ."
+    },
+    {
+      "id": "DISC_GOLD_2031",
+      "file_index": 2031,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تأمّلَ المحققُ النصَّ فدوّنَ ملاحظاتِهِ."
+    },
+    {
+      "id": "DISC_GOLD_2032",
+      "file_index": 2032,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "نحوي",
+      "raw_text": "اجتمعَ النحويُّ واللغويُّ في الندوةِ."
+    },
+    {
+      "id": "DISC_GOLD_2033",
+      "file_index": 2033,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حفظتُ القاعدةَ حفظاً متقناً."
+    },
+    {
+      "id": "DISC_GOLD_2034",
+      "file_index": 2034,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "فتحَ الكاتبُ البابَ أيِ المدخلَ الرئيسيَّ."
+    },
+    {
+      "id": "DISC_GOLD_2035",
+      "file_index": 2035,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أمانة",
+      "raw_text": "الأمانةُ خلقٌ رفيعٌ."
+    },
+    {
+      "id": "DISC_GOLD_2036",
+      "file_index": 2036,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مراجع",
+      "raw_text": "يُدقّقُ المراجعُ البياناتِ مساءً بعنايةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2037",
+      "file_index": 2037,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "جلسَ الدارسُ أمامَ المنصةِ احتراماً للدرسِ."
+    },
+    {
+      "id": "DISC_GOLD_2038",
+      "file_index": 2038,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صدق",
+      "raw_text": "الصدقُ طريقُ النجاةِ."
+    },
+    {
+      "id": "DISC_GOLD_2039",
+      "file_index": 2039,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "احفظْ العهدَ في السرِّ والعلنِ."
+    },
+    {
+      "id": "DISC_GOLD_2040",
+      "file_index": 2040,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تنظيم",
+      "raw_text": "ما أجملَ التنظيمَ المحكمَ!"
+    },
+    {
+      "id": "DISC_GOLD_2041",
+      "file_index": 2041,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "مثابر",
+      "raw_text": "إنما يُتقنُ العملَ المثابرُ."
+    },
+    {
+      "id": "DISC_GOLD_2042",
+      "file_index": 2042,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ارزقنا بصيرةً في الدينِ."
+    },
+    {
+      "id": "DISC_GOLD_2043",
+      "file_index": 2043,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "مشروع",
+      "raw_text": "واللهِ ليكتملنَّ المشروعُ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2044",
+      "file_index": 2044,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "درس",
+      "raw_text": "متى يبدأُ الدرسُ اليومَ؟"
+    },
+    {
+      "id": "DISC_GOLD_2045",
+      "file_index": 2045,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "شباب",
+      "raw_text": "ليتَ الشبابَ يعودُ يوماً."
+    },
+    {
+      "id": "DISC_GOLD_2046",
+      "file_index": 2046,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "درسَ الباحثُ المصدرَ ثمَّ قارنَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2047",
+      "file_index": 2047,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "زميل",
+      "raw_text": "تعاونَ الزميلُ والباحثُ في التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2048",
+      "file_index": 2048,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "معلم",
+      "raw_text": "شرحَ المعلمُ القاعدةَ شرحاً وافياً."
+    },
+    {
+      "id": "DISC_GOLD_2049",
+      "file_index": 2049,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "راجعَ الكاتبُ المسودةَ أيِ النسخةَ الأوليةَ."
+    },
+    {
+      "id": "DISC_GOLD_2050",
+      "file_index": 2050,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "حكمة",
+      "raw_text": "الحكمةُ ضالةُ المؤمنِ."
+    },
+    {
+      "id": "DISC_GOLD_2051",
+      "file_index": 2051,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مجتهد",
+      "raw_text": "يُحقّقُ المجتهدُ هدفَهُ بثباتٍ."
+    },
+    {
+      "id": "DISC_GOLD_2052",
+      "file_index": 2052,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "توقفَ الكاتبُ ليلاً طلباً للراحةِ."
+    },
+    {
+      "id": "DISC_GOLD_2053",
+      "file_index": 2053,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ جلاءُ الفكرِ."
+    },
+    {
+      "id": "DISC_GOLD_2054",
+      "file_index": 2054,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "دقّقْ المصطلحاتِ بدقةٍ بالغةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2055",
+      "file_index": 2055,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "آفاق",
+      "raw_text": "ما أوسعَ آفاقَ البحثِ العلميِّ!"
+    },
+    {
+      "id": "DISC_GOLD_2056",
+      "file_index": 2056,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحقّقُ الباحثُ النتيجةَ صباحاً بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2057",
+      "file_index": 2057,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "راجعَ الطالبُ البابَ طلباً للرسوخِ."
+    },
+    {
+      "id": "DISC_GOLD_2058",
+      "file_index": 2058,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بصيرة",
+      "raw_text": "البصيرةُ نورُ القلبِ."
+    },
+    {
+      "id": "DISC_GOLD_2059",
+      "file_index": 2059,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "حرّرْ الشواهدَ بوضوحٍ في الملفِّ."
+    },
+    {
+      "id": "DISC_GOLD_2060",
+      "file_index": 2060,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبدعَ هذا النسقَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2061",
+      "file_index": 2061,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "مدقق",
+      "raw_text": "إنما يضبطُ النصَّ المدققُ."
+    },
+    {
+      "id": "DISC_GOLD_2062",
+      "file_index": 2062,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ باركْ في الجهدِ والعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2063",
+      "file_index": 2063,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليتممنَّ العملُ على خيرٍ."
+    },
+    {
+      "id": "DISC_GOLD_2064",
+      "file_index": 2064,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "تقدير",
+      "raw_text": "لماذا يختلفُ التقديرُ أحياناً؟"
+    },
+    {
+      "id": "DISC_GOLD_2065",
+      "file_index": 2065,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "فائدة",
+      "raw_text": "ليتَ الفائدةَ تبلغُ كلَّ قارئٍ."
+    },
+    {
+      "id": "DISC_GOLD_2066",
+      "file_index": 2066,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "جمعَ المحققُ الشواهدَ ثمَّ بوبَها."
+    },
+    {
+      "id": "DISC_GOLD_2067",
+      "file_index": 2067,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "تناقشَ الباحثُ والمحققُ في المسألةِ."
+    },
+    {
+      "id": "DISC_GOLD_2068",
+      "file_index": 2068,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حققتُ الغايةَ تحقيقاً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2069",
+      "file_index": 2069,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "أعدّ الكاتبُ الفهرسَ أيِ الدليلَ الشاملَ."
+    },
+    {
+      "id": "DISC_GOLD_2070",
+      "file_index": 2070,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "إنصاف",
+      "raw_text": "الإنصافُ ميزانُ العلماءِ."
+    },
+    {
+      "id": "DISC_GOLD_2071",
+      "file_index": 2071,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "يُحررُ الكاتبُ الفقرةَ بهدوءٍ."
+    },
+    {
+      "id": "DISC_GOLD_2072",
+      "file_index": 2072,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "غدا الدارسُ إلى الدرسِ مبكراً."
+    },
+    {
+      "id": "DISC_GOLD_2073",
+      "file_index": 2073,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ثبات",
+      "raw_text": "الثباتُ أساسُ الإنجازِ."
+    },
+    {
+      "id": "DISC_GOLD_2074",
+      "file_index": 2074,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "قارنْ بينَ الشواهدِ بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2075",
+      "file_index": 2075,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "قواعد",
+      "raw_text": "ما أرسخَ قواعدَ هذا العلمِ!"
+    },
+    {
+      "id": "DISC_GOLD_2076",
+      "file_index": 2076,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "خبير",
+      "raw_text": "إنما يميّزُ العللَ الخبيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2077",
+      "file_index": 2077,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اجعلْ عملَنا خالصاً."
+    },
+    {
+      "id": "DISC_GOLD_2078",
+      "file_index": 2078,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "صبر",
+      "raw_text": "واللهِ ليؤتينَّ الصبرُ ثمارَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2079",
+      "file_index": 2079,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نسخ",
+      "raw_text": "أينَ تُحفظُ النسخُ المعتمدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2080",
+      "file_index": 2080,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "وقت",
+      "raw_text": "ليتَ الوقتَ يبارَكُ فيهِ."
+    },
+    {
+      "id": "DISC_GOLD_2081",
+      "file_index": 2081,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محرر",
+      "raw_text": "نقّحَ المحررُ المتنَ ثمَّ اعتمدَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2082",
+      "file_index": 2082,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "اشتركَ الباحثُ والدارسُ في المراجعةِ."
+    },
+    {
+      "id": "DISC_GOLD_2083",
+      "file_index": 2083,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "وضّحتُ المعنى توضيحاً جلياً."
+    },
+    {
+      "id": "DISC_GOLD_2084",
+      "file_index": 2084,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "حدّدَ الكاتبُ النطاقَ أيِ المجالَ الدلاليَّ."
+    },
+    {
+      "id": "DISC_GOLD_2085",
+      "file_index": 2085,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أناة",
+      "raw_text": "الأناةُ صفةُ الراسخينَ."
+    },
+    {
+      "id": "DISC_GOLD_2086",
+      "file_index": 2086,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُصنّفُ الباحثُ الشواهدَ بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2087",
+      "file_index": 2087,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "أقبلَ الطالبُ ظهراً حرصاً على الفهمِ."
+    },
+    {
+      "id": "DISC_GOLD_2088",
+      "file_index": 2088,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تحقيق",
+      "raw_text": "التحقيقُ أساسُ الثقةِ العلميةِ."
+    },
+    {
+      "id": "DISC_GOLD_2089",
+      "file_index": 2089,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "أحكمْ صياغةَ العبارةِ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2090",
+      "file_index": 2090,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "بيان",
+      "raw_text": "ما أصفى هذا البيانَ اللغويَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2091",
+      "file_index": 2091,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "متدبر",
+      "raw_text": "إنما يدركُ السرَّ المتدبرُ."
+    },
+    {
+      "id": "DISC_GOLD_2092",
+      "file_index": 2092,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ يسّرْ لنا سبلَ الرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2093",
+      "file_index": 2093,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "منهج",
+      "raw_text": "واللهِ ليثبتنَّ هذا المنهجُ."
+    },
+    {
+      "id": "DISC_GOLD_2094",
+      "file_index": 2094,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مصادر",
+      "raw_text": "كيفَ تُوثّقُ المصادرُ بدقةٍ؟"
+    },
+    {
+      "id": "DISC_GOLD_2095",
+      "file_index": 2095,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "إتقان",
+      "raw_text": "ليتَ الإتقانَ يكونُ شعارَ الجميعِ."
+    },
+    {
+      "id": "DISC_GOLD_2096",
+      "file_index": 2096,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مدقق",
+      "raw_text": "فحصَ المدققُ الملفاتِ ثمَّ رتبَها."
+    },
+    {
+      "id": "DISC_GOLD_2097",
+      "file_index": 2097,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أستاذ",
+      "raw_text": "تشاركَ الأستاذُ والباحثُ في التحريرِ."
+    },
+    {
+      "id": "DISC_GOLD_2098",
+      "file_index": 2098,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "ضبطتُ الشاهدَ ضبطاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2099",
+      "file_index": 2099,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "حصرَ الكاتبُ الألفاظَ أيِ الجذورَ المعتمدةَ."
+    },
+    {
+      "id": "DISC_GOLD_2100",
+      "file_index": 2100,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تأمل",
+      "raw_text": "التأملُ مفتاحُ الاستنباطِ."
+    },
+    {
+      "id": "DISC_GOLD_2101",
+      "file_index": 2101,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "يُتقنُ الدارسُ القواعدَ بتدرجٍ."
+    },
+    {
+      "id": "DISC_GOLD_2102",
+      "file_index": 2102,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "سعى الباحثُ طويلاً طلباً للإحاطةِ."
+    },
+    {
+      "id": "DISC_GOLD_2103",
+      "file_index": 2103,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وضوح",
+      "raw_text": "الوضوحُ سمةُ البحثِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2104",
+      "file_index": 2104,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "راجعْ النسخةَ قبلَ الاعتمادِ."
+    },
+    {
+      "id": "DISC_GOLD_2105",
+      "file_index": 2105,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "أثر",
+      "raw_text": "ما أعمقَ أثرَ الإتقانِ في المدونةِ!"
+    },
+    {
+      "id": "DISC_GOLD_2106",
+      "file_index": 2106,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "يُدقّقُ المحققُ المخطوطَ فجراً بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2107",
+      "file_index": 2107,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "ضبطَ الدارسُ المتنَ طلباً للضبطِ."
+    },
+    {
+      "id": "DISC_GOLD_2108",
+      "file_index": 2108,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ أساسُ المنهجِ العلميِّ."
+    },
+    {
+      "id": "DISC_GOLD_2109",
+      "file_index": 2109,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "قيدْ الفوائدَ في السجلِّ بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2110",
+      "file_index": 2110,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تناسق",
+      "raw_text": "ما أروعَ تناسقَ الأبوابِ النحويةِ!"
+    },
+    {
+      "id": "DISC_GOLD_2111",
+      "file_index": 2111,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "راسخ",
+      "raw_text": "إنما يستنبطُ الأحكامَ الراسخُ."
+    },
+    {
+      "id": "DISC_GOLD_2112",
+      "file_index": 2112,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ انفعْ بالعلمِ أهلَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2113",
+      "file_index": 2113,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "بحث",
+      "raw_text": "واللهِ ليبلغنَّ البحثُ غايتَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2114",
+      "file_index": 2114,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شواهد",
+      "raw_text": "كيفَ تُصنّفُ الشواهدُ في المدونةِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2115",
+      "file_index": 2115,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "وقت",
+      "raw_text": "ليتَ الوقتَ يتسعُ لمزيدٍ من البحثِ."
+    },
+    {
+      "id": "DISC_GOLD_2116",
+      "file_index": 2116,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "استقرأَ الباحثُ النصوصَ ثمَّ استنتجَ."
+    },
+    {
+      "id": "DISC_GOLD_2117",
+      "file_index": 2117,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تحاورَ العالمُ والتلميذُ في القاعدةِ."
+    },
+    {
+      "id": "DISC_GOLD_2118",
+      "file_index": 2118,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حرّرتُ المسألةَ تحريراً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2119",
+      "file_index": 2119,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "وثّقَ الكاتبُ الشاهدَ أيِ النصَّ المعتمدَ."
+    },
+    {
+      "id": "DISC_GOLD_2120",
+      "file_index": 2120,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "حزم",
+      "raw_text": "الحزمُ سبيلُ الفلاحِ."
+    },
+    {
+      "id": "DISC_GOLD_2121",
+      "file_index": 2121,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "قارئ",
+      "raw_text": "يُراجِعُ القارئُ الحاشيةَ بتأنٍ."
+    },
+    {
+      "id": "DISC_GOLD_2122",
+      "file_index": 2122,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "رحلَ الباحثُ سَحَراً طلباً للمعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2123",
+      "file_index": 2123,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وقار",
+      "raw_text": "الوقارُ زينةُ العالمِ."
+    },
+    {
+      "id": "DISC_GOLD_2124",
+      "file_index": 2124,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "أحصرْ المسائلَ بدقةٍ قبلَ العرضِ."
+    },
+    {
+      "id": "DISC_GOLD_2125",
+      "file_index": 2125,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "بناء",
+      "raw_text": "ما أبهى هذا البناءَ المعرفيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2126",
+      "file_index": 2126,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "متخصص",
+      "raw_text": "إنما يدركُ الفروقَ الدقيقةَ المتخصصُ."
+    },
+    {
+      "id": "DISC_GOLD_2127",
+      "file_index": 2127,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ وفّقنا للثباتِ والإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2128",
+      "file_index": 2128,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "مسار",
+      "raw_text": "واللهِ ليكتملنَّ هذا المسارُ بنجاحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2129",
+      "file_index": 2129,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "دفعات",
+      "raw_text": "أينَ تُحفظُ الدفعاتُ الجديدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2130",
+      "file_index": 2130,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "إتقان",
+      "raw_text": "ليتَ الإتقانَ يلازمُ كلَّ خطوةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2131",
+      "file_index": 2131,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحرّرُ الباحثُ المسألةَ صباحاً بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2132",
+      "file_index": 2132,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "راجعَ العالمُ الشواهدَ طلباً للتحققِ."
+    },
+    {
+      "id": "DISC_GOLD_2133",
+      "file_index": 2133,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أمانة",
+      "raw_text": "الأمانةُ ركنُ البحثِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2134",
+      "file_index": 2134,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "رتّبْ الشواهدَ في المدونةِ بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2135",
+      "file_index": 2135,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "انضباط",
+      "raw_text": "ما أجملَ انضباطَ التصنيفِ الدلاليِّ!"
+    },
+    {
+      "id": "DISC_GOLD_2136",
+      "file_index": 2136,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "نحوي",
+      "raw_text": "إنما يميّزُ العللَ الدقيقةَ النحويُّ."
+    },
+    {
+      "id": "DISC_GOLD_2137",
+      "file_index": 2137,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ارزقنا البصيرةَ والرشادَ."
+    },
+    {
+      "id": "DISC_GOLD_2138",
+      "file_index": 2138,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "جهد",
+      "raw_text": "واللهِ ليُثمرنَّ هذا الجهدُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2139",
+      "file_index": 2139,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "عينات",
+      "raw_text": "متى تُعتمدُ العيناتُ الجديدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2140",
+      "file_index": 2140,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "دقة",
+      "raw_text": "ليتَ الدقةَ تلازمُ كلَّ قيدٍ."
+    },
+    {
+      "id": "DISC_GOLD_2141",
+      "file_index": 2141,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "جمعَ الدارسُ النصوصَ ثمَّ بوّبَها."
+    },
+    {
+      "id": "DISC_GOLD_2142",
+      "file_index": 2142,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "تداولَ الباحثُ والمراجعُ المسألةَ."
+    },
+    {
+      "id": "DISC_GOLD_2143",
+      "file_index": 2143,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حقّقتُ الشاهدَ تحقيقاً وافياً."
+    },
+    {
+      "id": "DISC_GOLD_2144",
+      "file_index": 2144,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مؤلف",
+      "raw_text": "أثبتَ المؤلفُ القاعدةَ أيِ الضابطَ المقررَ."
+    },
+    {
+      "id": "DISC_GOLD_2145",
+      "file_index": 2145,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صبر",
+      "raw_text": "الصبرُ مفتاحُ الإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2146",
+      "file_index": 2146,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُقابلُ الناسخُ النسخةَ بعنايةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2147",
+      "file_index": 2147,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "سافرَ الطالبُ مساءً طلباً للإفادةِ."
+    },
+    {
+      "id": "DISC_GOLD_2148",
+      "file_index": 2148,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "إنصاف",
+      "raw_text": "الإنصافُ ميزانُ العلماءِ."
+    },
+    {
+      "id": "DISC_GOLD_2149",
+      "file_index": 2149,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "اضبطْ الشواهدَ بدقةٍ قبلَ الرفعِ."
+    },
+    {
+      "id": "DISC_GOLD_2150",
+      "file_index": 2150,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبدعَ هذا النسقَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2151",
+      "file_index": 2151,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "خبير",
+      "raw_text": "إنما يحللُ القرائنَ الخبيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2152",
+      "file_index": 2152,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اجعلْ عملَنا خالصاً ومقبولاً."
+    },
+    {
+      "id": "DISC_GOLD_2153",
+      "file_index": 2153,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "مشروع",
+      "raw_text": "واللهِ ليكتملنَّ هذا المشروعُ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2154",
+      "file_index": 2154,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نسخ",
+      "raw_text": "أينَ تُحفظُ النسخُ الاحتياطيةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2155",
+      "file_index": 2155,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "فهم",
+      "raw_text": "ليتَ الفهمَ يعمّقُ كلَّ دراسةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2156",
+      "file_index": 2156,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قارنَ الباحثُ الرواياتِ ثمَّ رجّحَ."
+    },
+    {
+      "id": "DISC_GOLD_2157",
+      "file_index": 2157,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أستاذ",
+      "raw_text": "تناقشَ الأستاذُ والباحثُ في المنهجِ."
+    },
+    {
+      "id": "DISC_GOLD_2158",
+      "file_index": 2158,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "نقّحتُ الفصولَ تنقيحاً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2159",
+      "file_index": 2159,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "اعتمدَ المحققُ القراءةَ أيِ الوجهَ الأرجحَ."
+    },
+    {
+      "id": "DISC_GOLD_2160",
+      "file_index": 2160,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ حصنُ الحقيقةِ."
+    },
+    {
+      "id": "DISC_GOLD_2161",
+      "file_index": 2161,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "يُفصّلُ الشارحُ القاعدةَ ببيانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2162",
+      "file_index": 2162,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "أقبلَ الدارسُ باكراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2163",
+      "file_index": 2163,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ أداةُ الإفهامِ."
+    },
+    {
+      "id": "DISC_GOLD_2164",
+      "file_index": 2164,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "وثّقْ الفروقَ بدقةٍ قبلَ النشرِ."
+    },
+    {
+      "id": "DISC_GOLD_2165",
+      "file_index": 2165,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "بناء",
+      "raw_text": "ما أمتنَ هذا البناءَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2166",
+      "file_index": 2166,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "راسخ",
+      "raw_text": "إنما يحققُ القواعدَ الراسخُ."
+    },
+    {
+      "id": "DISC_GOLD_2167",
+      "file_index": 2167,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ زدْنا علماً وعملاً."
+    },
+    {
+      "id": "DISC_GOLD_2168",
+      "file_index": 2168,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "منهج",
+      "raw_text": "واللهِ ليُثبتنَّ هذا المنهجُ قيمتَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2169",
+      "file_index": 2169,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شواهد",
+      "raw_text": "كيفَ تُضبطُ الشواهدُ في الفصولِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2170",
+      "file_index": 2170,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "تنظيم",
+      "raw_text": "ليتَ التنظيمَ يعمُّ كلَّ بابٍ."
+    },
+    {
+      "id": "DISC_GOLD_2171",
+      "file_index": 2171,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "فحصَ المحققُ النسخَ ثمَّ قارنَ."
+    },
+    {
+      "id": "DISC_GOLD_2172",
+      "file_index": 2172,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تعاونَ العالمُ والدارسُ في التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2173",
+      "file_index": 2173,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حرّرتُ الضوابطَ تحريراً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2174",
+      "file_index": 2174,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قرّرَ الباحثُ المبدأَ أيِ المعيارَ المعتمدَ."
+    },
+    {
+      "id": "DISC_GOLD_2175",
+      "file_index": 2175,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وضوح",
+      "raw_text": "الوضوحُ سمةُ العلمِ الدقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2176",
+      "file_index": 2176,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "نحوي",
+      "raw_text": "يُبيّنُ النحويُّ العلةَ بأناةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2177",
+      "file_index": 2177,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "غدا الباحثُ مبكراً طلباً للتحصيلِ."
+    },
+    {
+      "id": "DISC_GOLD_2178",
+      "file_index": 2178,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تحقق",
+      "raw_text": "التحققُ شرطُ الوثوقِ."
+    },
+    {
+      "id": "DISC_GOLD_2179",
+      "file_index": 2179,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "راجعْ الفروقَ بدقةٍ قبلَ الإرسالِ."
+    },
+    {
+      "id": "DISC_GOLD_2180",
+      "file_index": 2180,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأصيل",
+      "raw_text": "ما أرسخَ هذا التأصيلَ العلميَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2181",
+      "file_index": 2181,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "مدقق",
+      "raw_text": "إنما يستوفي الشروطَ المدققُ."
+    },
+    {
+      "id": "DISC_GOLD_2182",
+      "file_index": 2182,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ باركْ في الجهدِ والوقتِ."
+    },
+    {
+      "id": "DISC_GOLD_2183",
+      "file_index": 2183,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليُثمرنَّ هذا العملُ خيراً."
+    },
+    {
+      "id": "DISC_GOLD_2184",
+      "file_index": 2184,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مباحث",
+      "raw_text": "أينَ تُصنّفُ المباحثُ الدلاليةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2185",
+      "file_index": 2185,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "إحكام",
+      "raw_text": "ليتَ الإحكامَ يلازمُ كلَّ فقرةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2186",
+      "file_index": 2186,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "رتّبَ الباحثُ الشواهدَ ثمَّ لخّصَ."
+    },
+    {
+      "id": "DISC_GOLD_2187",
+      "file_index": 2187,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تباحثَ المحققُ والناقدُ في القرائنِ."
+    },
+    {
+      "id": "DISC_GOLD_2188",
+      "file_index": 2188,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "ضبطتُ العباراتِ ضبطاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2189",
+      "file_index": 2189,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "كاتب",
+      "raw_text": "حررَ الكاتبُ التعريفَ أيِ الحدَّ الجامعَ."
+    },
+    {
+      "id": "DISC_GOLD_2190",
+      "file_index": 2190,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تأمل",
+      "raw_text": "التأملُ عمادُ الفهمِ."
+    },
+    {
+      "id": "DISC_GOLD_2191",
+      "file_index": 2191,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُصنّفُ الباحثُ الأدلةَ بتروٍ."
+    },
+    {
+      "id": "DISC_GOLD_2192",
+      "file_index": 2192,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "سارَ الدارسُ ليلاً طلباً للسكينةِ."
+    },
+    {
+      "id": "DISC_GOLD_2193",
+      "file_index": 2193,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "إتقان",
+      "raw_text": "الإتقانُ غايةُ الباحثِ."
+    },
+    {
+      "id": "DISC_GOLD_2194",
+      "file_index": 2194,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "احفظْ المخطوطَ بعنايةٍ قبلَ الفهرسةِ."
+    },
+    {
+      "id": "DISC_GOLD_2195",
+      "file_index": 2195,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "عرض",
+      "raw_text": "ما أصفى هذا العرضَ العلميَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2196",
+      "file_index": 2196,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "متقن",
+      "raw_text": "إنما يضبطُ النصوصَ المتقنُ."
+    },
+    {
+      "id": "DISC_GOLD_2197",
+      "file_index": 2197,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ يسّرْ أمورَنا وباركْ فيها."
+    },
+    {
+      "id": "DISC_GOLD_2198",
+      "file_index": 2198,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "قسم",
+      "raw_text": "واللهِ ليُتمَّنَّ هذا القسمُ مهمتَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2199",
+      "file_index": 2199,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "دفعة",
+      "raw_text": "متى تُرفعُ الدفعةُ الثانيةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2200",
+      "file_index": 2200,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "توفيق",
+      "raw_text": "ليتَ التوفيقَ يرافقُ كلَّ خطوةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2201",
+      "file_index": 2201,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحقّقُ الباحثُ القاعدةَ صباحاً بإحكامٍ."
+    },
+    {
+      "id": "DISC_GOLD_2202",
+      "file_index": 2202,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "راجعَ الدارسُ الفصولَ طلباً للتمكنِ."
+    },
+    {
+      "id": "DISC_GOLD_2203",
+      "file_index": 2203,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صدق",
+      "raw_text": "الصدقُ أساسُ البناءِ العلميِّ."
+    },
+    {
+      "id": "DISC_GOLD_2204",
+      "file_index": 2204,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "فصّلْ القرائنَ في المتنِ بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2205",
+      "file_index": 2205,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تناسق",
+      "raw_text": "ما أبدعَ تناسقَ هذه الأبوابِ!"
+    },
+    {
+      "id": "DISC_GOLD_2206",
+      "file_index": 2206,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "أصولي",
+      "raw_text": "إنما يستنبطُ الفروعَ الأصوليُّ."
+    },
+    {
+      "id": "DISC_GOLD_2207",
+      "file_index": 2207,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ألهمْنا الصوابَ والسدادَ."
+    },
+    {
+      "id": "DISC_GOLD_2208",
+      "file_index": 2208,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "تراث",
+      "raw_text": "واللهِ ليُحفظنَّ هذا التراثُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2209",
+      "file_index": 2209,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مصادر",
+      "raw_text": "كيفَ تُوثّقُ المصادرُ في البحثِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2210",
+      "file_index": 2210,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "وضوح",
+      "raw_text": "ليتَ الوضوحَ يغمرُ كلَّ مبحثٍ."
+    },
+    {
+      "id": "DISC_GOLD_2211",
+      "file_index": 2211,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "حرّرَ الباحثُ المادةَ ثمَّ راجعَها."
+    },
+    {
+      "id": "DISC_GOLD_2212",
+      "file_index": 2212,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تداولَ المحققُ والمفهرسُ الفهارسَ."
+    },
+    {
+      "id": "DISC_GOLD_2213",
+      "file_index": 2213,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "بوّبتُ المسائلَ تبويباً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2214",
+      "file_index": 2214,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "أوضحَ الشارحُ الغرضَ أيِ المقصدَ الأساسَ."
+    },
+    {
+      "id": "DISC_GOLD_2215",
+      "file_index": 2215,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ ملاكُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2216",
+      "file_index": 2216,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُحقّقُ الناسخُ الروايةَ بتثبتٍ."
+    },
+    {
+      "id": "DISC_GOLD_2217",
+      "file_index": 2217,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "خرجَ الطالبُ فجراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2218",
+      "file_index": 2218,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دقة",
+      "raw_text": "الدقةُ حارسُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2219",
+      "file_index": 2219,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "لخّصْ النتائجَ بدقةٍ قبلَ العرضِ."
+    },
+    {
+      "id": "DISC_GOLD_2220",
+      "file_index": 2220,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأليف",
+      "raw_text": "ما أتقنَ هذا التأليفَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2221",
+      "file_index": 2221,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يستقصي المسائلَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2222",
+      "file_index": 2222,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اهدِنا للحقِّ والرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2223",
+      "file_index": 2223,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "جهد",
+      "raw_text": "واللهِ ليبلغنَّ هذا الجهدُ كمالهُ."
+    },
+    {
+      "id": "DISC_GOLD_2224",
+      "file_index": 2224,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مسودات",
+      "raw_text": "أينَ تُراجعُ المسوداتُ النهائيةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2225",
+      "file_index": 2225,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "تيسير",
+      "raw_text": "ليتَ التيسيرَ يلازمُ كلَّ مرحلةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2226",
+      "file_index": 2226,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحقّقُ الباحثُ القاعدةَ صباحاً بإحكامٍ."
+    },
+    {
+      "id": "DISC_GOLD_2227",
+      "file_index": 2227,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "راجعَ الدارسُ الفصولَ طلباً للتمكنِ."
+    },
+    {
+      "id": "DISC_GOLD_2228",
+      "file_index": 2228,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صدق",
+      "raw_text": "الصدقُ أساسُ البناءِ العلميِّ."
+    },
+    {
+      "id": "DISC_GOLD_2229",
+      "file_index": 2229,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "فصّلْ القرائنَ في المتنِ بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2230",
+      "file_index": 2230,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تناسق",
+      "raw_text": "ما أبدعَ تناسقَ هذه الأبوابِ!"
+    },
+    {
+      "id": "DISC_GOLD_2231",
+      "file_index": 2231,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "أصولي",
+      "raw_text": "إنما يستنبطُ الفروعَ الأصوليُّ."
+    },
+    {
+      "id": "DISC_GOLD_2232",
+      "file_index": 2232,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ألهمْنا الصوابَ والسدادَ."
+    },
+    {
+      "id": "DISC_GOLD_2233",
+      "file_index": 2233,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "تراث",
+      "raw_text": "واللهِ ليُحفظنَّ هذا التراثُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2234",
+      "file_index": 2234,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مصادر",
+      "raw_text": "كيفَ تُوثّقُ المصادرُ في البحثِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2235",
+      "file_index": 2235,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "وضوح",
+      "raw_text": "ليتَ الوضوحَ يغمرُ كلَّ مبحثٍ."
+    },
+    {
+      "id": "DISC_GOLD_2236",
+      "file_index": 2236,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "حرّرَ الباحثُ المادةَ ثمَّ راجعَها."
+    },
+    {
+      "id": "DISC_GOLD_2237",
+      "file_index": 2237,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تداولَ المحققُ والمفهرسُ الفهارسَ."
+    },
+    {
+      "id": "DISC_GOLD_2238",
+      "file_index": 2238,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "بوّبتُ المسائلَ تبويباً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2239",
+      "file_index": 2239,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "أوضحَ الشارحُ الغرضَ أيِ المقصدَ الأساسَ."
+    },
+    {
+      "id": "DISC_GOLD_2240",
+      "file_index": 2240,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ ملاكُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2241",
+      "file_index": 2241,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُحقّقُ الناسخُ الروايةَ بتثبتٍ."
+    },
+    {
+      "id": "DISC_GOLD_2242",
+      "file_index": 2242,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "خرجَ الطالبُ فجراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2243",
+      "file_index": 2243,
+      "chunk_id": 9,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دقة",
+      "raw_text": "الدقةُ حارسُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2244",
+      "file_index": 2244,
+      "chunk_id": 9,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "لخّصْ النتائجَ بدقةٍ قبلَ العرضِ."
+    },
+    {
+      "id": "DISC_GOLD_2245",
+      "file_index": 2245,
+      "chunk_id": 9,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأليف",
+      "raw_text": "ما أتقنَ هذا التأليفَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2246",
+      "file_index": 2246,
+      "chunk_id": 9,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يستقصي المسائلَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2247",
+      "file_index": 2247,
+      "chunk_id": 9,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اهدِنا للحقِّ والرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2248",
+      "file_index": 2248,
+      "chunk_id": 9,
+      "speech_act": "oath_قسم",
+      "lemma": "جهد",
+      "raw_text": "واللهِ ليبلغنَّ هذا الجهدُ كمالهُ."
+    },
+    {
+      "id": "DISC_GOLD_2249",
+      "file_index": 2249,
+      "chunk_id": 9,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مسودات",
+      "raw_text": "أينَ تُراجعُ المسوداتُ النهائيةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2250",
+      "file_index": 2250,
+      "chunk_id": 9,
+      "speech_act": "wish_تمن",
+      "lemma": "تيسير",
+      "raw_text": "ليتَ التيسيرَ يلازمُ كلَّ مرحلةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2251",
+      "file_index": 2251,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُدقّقُ الباحثُ النصوصَ مساءً بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2252",
+      "file_index": 2252,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "حرّرَ الدارسُ القواعدَ طلباً للإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2253",
+      "file_index": 2253,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ أساسُ التبليغِ."
+    },
+    {
+      "id": "DISC_GOLD_2254",
+      "file_index": 2254,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "وثّقْ الشواهدَ في المدونةِ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2255",
+      "file_index": 2255,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ضبط",
+      "raw_text": "ما أروعَ هذا الضبطَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2256",
+      "file_index": 2256,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "خبير",
+      "raw_text": "إنما يميّزُ الفروقَ الخبيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2257",
+      "file_index": 2257,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ وفّقنا للعلمِ والعملِ."
+    },
+    {
+      "id": "DISC_GOLD_2258",
+      "file_index": 2258,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليُثمرنَّ هذا العملُ بركةً."
+    },
+    {
+      "id": "DISC_GOLD_2259",
+      "file_index": 2259,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "عينات",
+      "raw_text": "أينَ تُحفظُ العيناتُ الموثقةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2260",
+      "file_index": 2260,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "دقة",
+      "raw_text": "ليتَ الدقةَ تلازمُ كلَّ عملٍ."
+    },
+    {
+      "id": "DISC_GOLD_2261",
+      "file_index": 2261,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "فحصَ الباحثُ الأدلةَ ثمَّ قرّرَ."
+    },
+    {
+      "id": "DISC_GOLD_2262",
+      "file_index": 2262,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تشاورَ العالمُ والباحثُ في المسألةِ."
+    },
+    {
+      "id": "DISC_GOLD_2263",
+      "file_index": 2263,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "رتّبتُ الشواهدَ ترتيباً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2264",
+      "file_index": 2264,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "حققَ المحققُ النصَّ أيِ المتنَ المنقحَ."
+    },
+    {
+      "id": "DISC_GOLD_2265",
+      "file_index": 2265,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تأصيل",
+      "raw_text": "التأصيلُ عمادُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2266",
+      "file_index": 2266,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "يُحرّرُ الدارسُ الفوائدَ بتروٍ."
+    },
+    {
+      "id": "DISC_GOLD_2267",
+      "file_index": 2267,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "غدا الباحثُ باكراً طلباً للضبطِ."
+    },
+    {
+      "id": "DISC_GOLD_2268",
+      "file_index": 2268,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ضبط",
+      "raw_text": "الضبطُ ملاكُ الإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2269",
+      "file_index": 2269,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "قيدْ الملحوظاتِ بدقةٍ قبلَ المراجعةِ."
+    },
+    {
+      "id": "DISC_GOLD_2270",
+      "file_index": 2270,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبهى هذا النسقَ العلميَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2271",
+      "file_index": 2271,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يستوفي الأدلةَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2272",
+      "file_index": 2272,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ باركْ في العلمِ والبيانِ."
+    },
+    {
+      "id": "DISC_GOLD_2273",
+      "file_index": 2273,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "مسعى",
+      "raw_text": "واللهِ ليُتمَّنَّ هذا المسعى غايتَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2274",
+      "file_index": 2274,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "دفعة",
+      "raw_text": "متى تُعتمدُ الدفعةُ الجديدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2275",
+      "file_index": 2275,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "توفيق",
+      "raw_text": "ليتَ التوفيقَ يلازمُ كلَّ سعيٍ."
+    },
+    {
+      "id": "DISC_GOLD_2276",
+      "file_index": 2276,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُدقّقُ الباحثُ النصوصَ مساءً بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2277",
+      "file_index": 2277,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "حرّرَ الدارسُ القواعدَ طلباً للإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2278",
+      "file_index": 2278,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ أساسُ التبليغِ."
+    },
+    {
+      "id": "DISC_GOLD_2279",
+      "file_index": 2279,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "وثّقْ الشواهدَ في المدونةِ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2280",
+      "file_index": 2280,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ضبط",
+      "raw_text": "ما أروعَ هذا الضبطَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2281",
+      "file_index": 2281,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "خبير",
+      "raw_text": "إنما يميّزُ الفروقَ الخبيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2282",
+      "file_index": 2282,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ وفّقنا للعلمِ والعملِ."
+    },
+    {
+      "id": "DISC_GOLD_2283",
+      "file_index": 2283,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليُثمرنَّ هذا العملُ بركةً."
+    },
+    {
+      "id": "DISC_GOLD_2284",
+      "file_index": 2284,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "عينات",
+      "raw_text": "أينَ تُحفظُ العيناتُ الموثقةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2285",
+      "file_index": 2285,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "دقة",
+      "raw_text": "ليتَ الدقةَ تلازمُ كلَّ عملٍ."
+    },
+    {
+      "id": "DISC_GOLD_2286",
+      "file_index": 2286,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "فحصَ الباحثُ الأدلةَ ثمَّ قرّرَ."
+    },
+    {
+      "id": "DISC_GOLD_2287",
+      "file_index": 2287,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تشاورَ العالمُ والباحثُ في المسألةِ."
+    },
+    {
+      "id": "DISC_GOLD_2288",
+      "file_index": 2288,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "رتّبتُ الشواهدَ ترتيباً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2289",
+      "file_index": 2289,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "حققَ المحققُ النصَّ أيِ المتنَ المنقحَ."
+    },
+    {
+      "id": "DISC_GOLD_2290",
+      "file_index": 2290,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تأصيل",
+      "raw_text": "التأصيلُ عمادُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2291",
+      "file_index": 2291,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "يُحرّرُ الدارسُ الفوائدَ بتروٍ."
+    },
+    {
+      "id": "DISC_GOLD_2292",
+      "file_index": 2292,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "غدا الباحثُ باكراً طلباً للضبطِ."
+    },
+    {
+      "id": "DISC_GOLD_2293",
+      "file_index": 2293,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ضبط",
+      "raw_text": "الضبطُ ملاكُ الإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2294",
+      "file_index": 2294,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "قيدْ الملحوظاتِ بدقةٍ قبلَ المراجعةِ."
+    },
+    {
+      "id": "DISC_GOLD_2295",
+      "file_index": 2295,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبهى هذا النسقَ العلميَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2296",
+      "file_index": 2296,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يستوفي الأدلةَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2297",
+      "file_index": 2297,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ باركْ في العلمِ والبيانِ."
+    },
+    {
+      "id": "DISC_GOLD_2298",
+      "file_index": 2298,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "مسعى",
+      "raw_text": "واللهِ ليُتمَّنَّ هذا المسعى غايتَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2299",
+      "file_index": 2299,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "دفعة",
+      "raw_text": "متى تُعتمدُ الدفعةُ الجديدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2300",
+      "file_index": 2300,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "توفيق",
+      "raw_text": "ليتَ التوفيقَ يلازمُ كلَّ سعيٍ."
+    },
+    {
+      "id": "DISC_GOLD_2301",
+      "file_index": 2301,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحرّرُ الباحثُ المسألةَ صباحاً بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2302",
+      "file_index": 2302,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "راجعَ الدارسُ الشواهدَ طلباً للتحققِ."
+    },
+    {
+      "id": "DISC_GOLD_2303",
+      "file_index": 2303,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أمانة",
+      "raw_text": "الأمانةُ عمادُ البحثِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2304",
+      "file_index": 2304,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "رتّبْ القواعدَ في المدونةِ بإحكامٍ."
+    },
+    {
+      "id": "DISC_GOLD_2305",
+      "file_index": 2305,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ضبط",
+      "raw_text": "ما أجملَ هذا الضبطَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2306",
+      "file_index": 2306,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "نحوي",
+      "raw_text": "إنما يميّزُ القرائنَ النحويُّ."
+    },
+    {
+      "id": "DISC_GOLD_2307",
+      "file_index": 2307,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ارزقنا الفهمَ والسدادَ."
+    },
+    {
+      "id": "DISC_GOLD_2308",
+      "file_index": 2308,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليُثمرنَّ هذا العملُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2309",
+      "file_index": 2309,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نصوص",
+      "raw_text": "متى تُعتمدُ النصوصُ الجديدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2310",
+      "file_index": 2310,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "دقة",
+      "raw_text": "ليتَ الدقةَ تلازمُ كلَّ قيدٍ."
+    },
+    {
+      "id": "DISC_GOLD_2311",
+      "file_index": 2311,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "جمعَ الباحثُ الأدلةَ ثمَّ بوّبَها."
+    },
+    {
+      "id": "DISC_GOLD_2312",
+      "file_index": 2312,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تداولَ المحققُ والمراجعُ المسألةَ."
+    },
+    {
+      "id": "DISC_GOLD_2313",
+      "file_index": 2313,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حقّقتُ الشواهدَ تحقيقاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2314",
+      "file_index": 2314,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مؤلف",
+      "raw_text": "أثبتَ المؤلفُ القاعدةَ أيِ الضابطَ المعتبرَ."
+    },
+    {
+      "id": "DISC_GOLD_2315",
+      "file_index": 2315,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صبر",
+      "raw_text": "الصبرُ مفتاحُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2316",
+      "file_index": 2316,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُقابلُ الناسخُ النسخةَ بعنايةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2317",
+      "file_index": 2317,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "سافرَ الطالبُ مساءً طلباً للإفادةِ."
+    },
+    {
+      "id": "DISC_GOLD_2318",
+      "file_index": 2318,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "إنصاف",
+      "raw_text": "الإنصافُ ميزانُ العلماءِ."
+    },
+    {
+      "id": "DISC_GOLD_2319",
+      "file_index": 2319,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "اضبطْ الفروعَ بدقةٍ قبلَ الرفعِ."
+    },
+    {
+      "id": "DISC_GOLD_2320",
+      "file_index": 2320,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبدعَ هذا النسقَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2321",
+      "file_index": 2321,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "خبير",
+      "raw_text": "إنما يحللُ القواعدَ الخبيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2322",
+      "file_index": 2322,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اجعلْ عملَنا خالصاً ومقبولاً."
+    },
+    {
+      "id": "DISC_GOLD_2323",
+      "file_index": 2323,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "مشروع",
+      "raw_text": "واللهِ ليكتملنَّ هذا المشروعُ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2324",
+      "file_index": 2324,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نسخ",
+      "raw_text": "أينَ تُحفظُ النسخُ الموثقةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2325",
+      "file_index": 2325,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "فهم",
+      "raw_text": "ليتَ الفهمَ يعمّقُ كلَّ دراسةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2326",
+      "file_index": 2326,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قارنَ الباحثُ الرواياتِ ثمَّ رجّحَ."
+    },
+    {
+      "id": "DISC_GOLD_2327",
+      "file_index": 2327,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أستاذ",
+      "raw_text": "تناقشَ الأستاذُ والباحثُ في المنهجِ."
+    },
+    {
+      "id": "DISC_GOLD_2328",
+      "file_index": 2328,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "نقّحتُ الفصولَ تنقيحاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2329",
+      "file_index": 2329,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "اعتمدَ المحققُ القراءةَ أيِ الوجهَ الأرجحَ."
+    },
+    {
+      "id": "DISC_GOLD_2330",
+      "file_index": 2330,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ حصنُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2331",
+      "file_index": 2331,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "يُفصّلُ الشارحُ المسألةَ ببيانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2332",
+      "file_index": 2332,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "أقبلَ الدارسُ باكراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2333",
+      "file_index": 2333,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ أداةُ الإفهامِ."
+    },
+    {
+      "id": "DISC_GOLD_2334",
+      "file_index": 2334,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "وثّقْ الفروقَ بدقةٍ قبلَ النشرِ."
+    },
+    {
+      "id": "DISC_GOLD_2335",
+      "file_index": 2335,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "بناء",
+      "raw_text": "ما أمتنَ هذا البناءَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2336",
+      "file_index": 2336,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "راسخ",
+      "raw_text": "إنما يحققُ القواعدَ الراسخُ."
+    },
+    {
+      "id": "DISC_GOLD_2337",
+      "file_index": 2337,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ زدْنا علماً وبصيرةً."
+    },
+    {
+      "id": "DISC_GOLD_2338",
+      "file_index": 2338,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "منهج",
+      "raw_text": "واللهِ ليُثبتنَّ هذا المنهجُ رسوخَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2339",
+      "file_index": 2339,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شواهد",
+      "raw_text": "كيفَ تُضبطُ الشواهدُ في الفصولِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2340",
+      "file_index": 2340,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "تنظيم",
+      "raw_text": "ليتَ التنظيمَ يعمُّ كلَّ بابٍ."
+    },
+    {
+      "id": "DISC_GOLD_2341",
+      "file_index": 2341,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "فحصَ المحققُ النسخَ ثمَّ قارنَ."
+    },
+    {
+      "id": "DISC_GOLD_2342",
+      "file_index": 2342,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تعاونَ العالمُ والدارسُ في التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2343",
+      "file_index": 2343,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حرّرتُ الضوابطَ تحريراً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2344",
+      "file_index": 2344,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قرّرَ الباحثُ المبدأَ أيِ المعيارَ المعتمدَ."
+    },
+    {
+      "id": "DISC_GOLD_2345",
+      "file_index": 2345,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وضوح",
+      "raw_text": "الوضوحُ سمةُ العلمِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2346",
+      "file_index": 2346,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "نحوي",
+      "raw_text": "يُبيّنُ النحويُّ العلةَ بأناةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2347",
+      "file_index": 2347,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "غدا الباحثُ مبكراً طلباً للتحصيلِ."
+    },
+    {
+      "id": "DISC_GOLD_2348",
+      "file_index": 2348,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تحقق",
+      "raw_text": "التحققُ شرطُ الوثوقِ."
+    },
+    {
+      "id": "DISC_GOLD_2349",
+      "file_index": 2349,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "راجعْ الفروقَ بدقةٍ قبلَ الإرسالِ."
+    },
+    {
+      "id": "DISC_GOLD_2350",
+      "file_index": 2350,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأصيل",
+      "raw_text": "ما أرسخَ هذا التأصيلَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2351",
+      "file_index": 2351,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قارنَ الباحثُ الرواياتِ ثمَّ رجّحَ."
+    },
+    {
+      "id": "DISC_GOLD_2352",
+      "file_index": 2352,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أستاذ",
+      "raw_text": "تناقشَ الأستاذُ والباحثُ في المنهجِ."
+    },
+    {
+      "id": "DISC_GOLD_2353",
+      "file_index": 2353,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "نقّحتُ الفصولَ تنقيحاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2354",
+      "file_index": 2354,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "اعتمدَ المحققُ القراءةَ أيِ الوجهَ الأرجحَ."
+    },
+    {
+      "id": "DISC_GOLD_2355",
+      "file_index": 2355,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ حصنُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2356",
+      "file_index": 2356,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "يُفصّلُ الشارحُ المسألةَ ببيانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2357",
+      "file_index": 2357,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "أقبلَ الدارسُ باكراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2358",
+      "file_index": 2358,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ أداةُ الإفهامِ."
+    },
+    {
+      "id": "DISC_GOLD_2359",
+      "file_index": 2359,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "وثّقْ الفروقَ بدقةٍ قبلَ النشرِ."
+    },
+    {
+      "id": "DISC_GOLD_2360",
+      "file_index": 2360,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "بناء",
+      "raw_text": "ما أمتنَ هذا البناءَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2361",
+      "file_index": 2361,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "راسخ",
+      "raw_text": "إنما يحققُ القواعدَ الراسخُ."
+    },
+    {
+      "id": "DISC_GOLD_2362",
+      "file_index": 2362,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ زدْنا علماً وبصيرةً."
+    },
+    {
+      "id": "DISC_GOLD_2363",
+      "file_index": 2363,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "منهج",
+      "raw_text": "واللهِ ليُثبتنَّ هذا المنهجُ رسوخَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2364",
+      "file_index": 2364,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شواهد",
+      "raw_text": "كيفَ تُضبطُ الشواهدُ في الفصولِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2365",
+      "file_index": 2365,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "تنظيم",
+      "raw_text": "ليتَ التنظيمَ يعمُّ كلَّ بابٍ."
+    },
+    {
+      "id": "DISC_GOLD_2366",
+      "file_index": 2366,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "فحصَ المحققُ النسخَ ثمَّ قارنَ."
+    },
+    {
+      "id": "DISC_GOLD_2367",
+      "file_index": 2367,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تعاونَ العالمُ والدارسُ في التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2368",
+      "file_index": 2368,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حرّرتُ الضوابطَ تحريراً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2369",
+      "file_index": 2369,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قرّرَ الباحثُ المبدأَ أيِ المعيارَ المعتمدَ."
+    },
+    {
+      "id": "DISC_GOLD_2370",
+      "file_index": 2370,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وضوح",
+      "raw_text": "الوضوحُ سمةُ العلمِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2371",
+      "file_index": 2371,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "نحوي",
+      "raw_text": "يُبيّنُ النحويُّ العلةَ بأناةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2372",
+      "file_index": 2372,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "غدا الباحثُ مبكراً طلباً للتحصيلِ."
+    },
+    {
+      "id": "DISC_GOLD_2373",
+      "file_index": 2373,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تحقق",
+      "raw_text": "التحققُ شرطُ الوثوقِ."
+    },
+    {
+      "id": "DISC_GOLD_2374",
+      "file_index": 2374,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "راجعْ الفروقَ بدقةٍ قبلَ الإرسالِ."
+    },
+    {
+      "id": "DISC_GOLD_2375",
+      "file_index": 2375,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأصيل",
+      "raw_text": "ما أرسخَ هذا التأصيلَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2376",
+      "file_index": 2376,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحقّقُ الباحثُ المسألةَ صباحاً بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2377",
+      "file_index": 2377,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "راجعَ الدارسُ الفصولَ طلباً للتمكنِ."
+    },
+    {
+      "id": "DISC_GOLD_2378",
+      "file_index": 2378,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صدق",
+      "raw_text": "الصدقُ عمادُ البناءِ العلميِّ."
+    },
+    {
+      "id": "DISC_GOLD_2379",
+      "file_index": 2379,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "فصّلْ القرائنَ في المتنِ بإحكامٍ."
+    },
+    {
+      "id": "DISC_GOLD_2380",
+      "file_index": 2380,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تناسق",
+      "raw_text": "ما أبدعَ تناسقَ هذه الأبوابِ!"
+    },
+    {
+      "id": "DISC_GOLD_2381",
+      "file_index": 2381,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "أصولي",
+      "raw_text": "إنما يستنبطُ الفروعَ الأصوليُّ."
+    },
+    {
+      "id": "DISC_GOLD_2382",
+      "file_index": 2382,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ألهمْنا الرشادَ والرشادَ."
+    },
+    {
+      "id": "DISC_GOLD_2383",
+      "file_index": 2383,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "تراث",
+      "raw_text": "واللهِ ليُحفظنَّ هذا التراثُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2384",
+      "file_index": 2384,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مصادر",
+      "raw_text": "كيفَ تُوثّقُ المصادرُ في البحثِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2385",
+      "file_index": 2385,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "وضوح",
+      "raw_text": "ليتَ الوضوحَ يغمرُ كلَّ مبحثٍ."
+    },
+    {
+      "id": "DISC_GOLD_2386",
+      "file_index": 2386,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "حرّرَ الباحثُ المادةَ ثمَّ راجعَها."
+    },
+    {
+      "id": "DISC_GOLD_2387",
+      "file_index": 2387,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تداولَ المحققُ والمفهرسُ الفهارسَ."
+    },
+    {
+      "id": "DISC_GOLD_2388",
+      "file_index": 2388,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "بوّبتُ المسائلَ تبويباً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2389",
+      "file_index": 2389,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "أوضحَ الشارحُ الغرضَ أيِ المقصدَ الأساسَ."
+    },
+    {
+      "id": "DISC_GOLD_2390",
+      "file_index": 2390,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ ملاكُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2391",
+      "file_index": 2391,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُحقّقُ الناسخُ الروايةَ بتثبتٍ."
+    },
+    {
+      "id": "DISC_GOLD_2392",
+      "file_index": 2392,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "خرجَ الطالبُ فجراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2393",
+      "file_index": 2393,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دقة",
+      "raw_text": "الدقةُ حارسُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2394",
+      "file_index": 2394,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "لخّصْ النتائجَ بدقةٍ قبلَ العرضِ."
+    },
+    {
+      "id": "DISC_GOLD_2395",
+      "file_index": 2395,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأليف",
+      "raw_text": "ما أتقنَ هذا التأليفَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2396",
+      "file_index": 2396,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يستقصي المسائلَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2397",
+      "file_index": 2397,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اهدِنا للحقِّ والرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2398",
+      "file_index": 2398,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "جهد",
+      "raw_text": "واللهِ ليبلغنَّ هذا الجهدُ كمالهُ."
+    },
+    {
+      "id": "DISC_GOLD_2399",
+      "file_index": 2399,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مسودات",
+      "raw_text": "أينَ تُراجعُ المسوداتُ النهائيةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2400",
+      "file_index": 2400,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "تيسير",
+      "raw_text": "ليتَ التيسيرَ يلازمُ كلَّ مرحلةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2401",
+      "file_index": 2401,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحرّرُ الباحثُ المسألةَ صباحاً بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2402",
+      "file_index": 2402,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "راجعَ الدارسُ الشواهدَ طلباً للتمكنِ."
+    },
+    {
+      "id": "DISC_GOLD_2403",
+      "file_index": 2403,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أمانة",
+      "raw_text": "الأمانةُ عمادُ البحثِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2404",
+      "file_index": 2404,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "رتّبْ القواعدَ في المدونةِ بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2405",
+      "file_index": 2405,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ضبط",
+      "raw_text": "ما أجملَ هذا الضبطَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2406",
+      "file_index": 2406,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "نحوي",
+      "raw_text": "إنما يميّزُ القرائنَ النحويُّ."
+    },
+    {
+      "id": "DISC_GOLD_2407",
+      "file_index": 2407,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ارزقنا الفهمَ والرشادَ."
+    },
+    {
+      "id": "DISC_GOLD_2408",
+      "file_index": 2408,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليُثمرنَّ هذا العملُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2409",
+      "file_index": 2409,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نصوص",
+      "raw_text": "متى تُعتمدُ النصوصُ الجديدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2410",
+      "file_index": 2410,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "دقة",
+      "raw_text": "ليتَ الدقةَ تلازمُ كلَّ قيدٍ."
+    },
+    {
+      "id": "DISC_GOLD_2411",
+      "file_index": 2411,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "جمعَ الباحثُ الأدلةَ ثمَّ بوّبَها."
+    },
+    {
+      "id": "DISC_GOLD_2412",
+      "file_index": 2412,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تداولَ المحققُ والمراجعُ المسألةَ."
+    },
+    {
+      "id": "DISC_GOLD_2413",
+      "file_index": 2413,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حقّقتُ الشواهدَ تحقيقاً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2414",
+      "file_index": 2414,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مؤلف",
+      "raw_text": "أثبتَ المؤلفُ القاعدةَ أيِ الضابطَ المعتبرَ."
+    },
+    {
+      "id": "DISC_GOLD_2415",
+      "file_index": 2415,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صبر",
+      "raw_text": "الصبرُ مفتاحُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2416",
+      "file_index": 2416,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُقابلُ الناسخُ النسخةَ بعنايةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2417",
+      "file_index": 2417,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "سافرَ الطالبُ مساءً طلباً للإفادةِ."
+    },
+    {
+      "id": "DISC_GOLD_2418",
+      "file_index": 2418,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "إنصاف",
+      "raw_text": "الإنصافُ ميزانُ العلماءِ."
+    },
+    {
+      "id": "DISC_GOLD_2419",
+      "file_index": 2419,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "اضبطْ الفروعَ بدقةٍ قبلَ الرفعِ."
+    },
+    {
+      "id": "DISC_GOLD_2420",
+      "file_index": 2420,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبدعَ هذا النسقَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2421",
+      "file_index": 2421,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "خبير",
+      "raw_text": "إنما يحللُ القواعدَ الخبيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2422",
+      "file_index": 2422,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اجعلْ عملَنا خالصاً ومقبولاً."
+    },
+    {
+      "id": "DISC_GOLD_2423",
+      "file_index": 2423,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "مشروع",
+      "raw_text": "واللهِ ليكتملنَّ هذا المشروعُ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2424",
+      "file_index": 2424,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نسخ",
+      "raw_text": "أينَ تُحفظُ النسخُ الموثقةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2425",
+      "file_index": 2425,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "فهم",
+      "raw_text": "ليتَ الفهمَ يعمّقُ كلَّ دراسةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2426",
+      "file_index": 2426,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قارنَ الباحثُ الرواياتِ ثمَّ رجّحَ."
+    },
+    {
+      "id": "DISC_GOLD_2427",
+      "file_index": 2427,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أستاذ",
+      "raw_text": "تناقشَ الأستاذُ والباحثُ في المنهجِ."
+    },
+    {
+      "id": "DISC_GOLD_2428",
+      "file_index": 2428,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "نقّحتُ الفصولَ تنقيحاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2429",
+      "file_index": 2429,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "اعتمدَ المحققُ القراءةَ أيِ الوجهَ الأرجحَ."
+    },
+    {
+      "id": "DISC_GOLD_2430",
+      "file_index": 2430,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ حصنُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2431",
+      "file_index": 2431,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "يُفصّلُ الشارحُ المسألةَ ببيانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2432",
+      "file_index": 2432,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "أقبلَ الدارسُ باكراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2433",
+      "file_index": 2433,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ أداةُ الإفهامِ."
+    },
+    {
+      "id": "DISC_GOLD_2434",
+      "file_index": 2434,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "وثّقْ الفروقَ بدقةٍ قبلَ النشرِ."
+    },
+    {
+      "id": "DISC_GOLD_2435",
+      "file_index": 2435,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "بناء",
+      "raw_text": "ما أمتنَ هذا البناءَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2436",
+      "file_index": 2436,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "راسخ",
+      "raw_text": "إنما يحققُ القواعدَ الراسخُ."
+    },
+    {
+      "id": "DISC_GOLD_2437",
+      "file_index": 2437,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ زدْنا علماً وبصيرةً."
+    },
+    {
+      "id": "DISC_GOLD_2438",
+      "file_index": 2438,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "منهج",
+      "raw_text": "واللهِ ليُثبتنَّ هذا المنهجُ رسوخَهُ."
+    },
+    {
+      "id": "DISC_GOLD_2439",
+      "file_index": 2439,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شواهد",
+      "raw_text": "كيفَ تُضبطُ الشواهدُ في الفصولِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2440",
+      "file_index": 2440,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "تنظيم",
+      "raw_text": "ليتَ التنظيمَ يعمُّ كلَّ بابٍ."
+    },
+    {
+      "id": "DISC_GOLD_2441",
+      "file_index": 2441,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "فحصَ المحققُ النسخَ ثمَّ قارنَ."
+    },
+    {
+      "id": "DISC_GOLD_2442",
+      "file_index": 2442,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "تعاونَ العالمُ والدارسُ في التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2443",
+      "file_index": 2443,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "حرّرتُ الضوابطَ تحريراً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2444",
+      "file_index": 2444,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "قرّرَ الباحثُ المبدأَ أيِ المعيارَ المعتمدَ."
+    },
+    {
+      "id": "DISC_GOLD_2445",
+      "file_index": 2445,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وضوح",
+      "raw_text": "الوضوحُ سمةُ العلمِ الرصينِ."
+    },
+    {
+      "id": "DISC_GOLD_2446",
+      "file_index": 2446,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "نحوي",
+      "raw_text": "يُبيّنُ النحويُّ العلةَ بأناةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2447",
+      "file_index": 2447,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "غدا الباحثُ مبكراً طلباً للتحصيلِ."
+    },
+    {
+      "id": "DISC_GOLD_2448",
+      "file_index": 2448,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تحقق",
+      "raw_text": "التحققُ شرطُ الوثوقِ."
+    },
+    {
+      "id": "DISC_GOLD_2449",
+      "file_index": 2449,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "راجعْ الفروقَ بدقةٍ قبلَ الإرسالِ."
+    },
+    {
+      "id": "DISC_GOLD_2450",
+      "file_index": 2450,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأصيل",
+      "raw_text": "ما أرسخَ هذا التأصيلَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2451",
+      "file_index": 2451,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُحقّقُ الباحثُ المسألةَ صباحاً بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2452",
+      "file_index": 2452,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "راجعَ الدارسُ الفصولَ طلباً للتمكنِ."
+    },
+    {
+      "id": "DISC_GOLD_2453",
+      "file_index": 2453,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "صدق",
+      "raw_text": "الصدقُ عمادُ البناءِ العلميِّ."
+    },
+    {
+      "id": "DISC_GOLD_2454",
+      "file_index": 2454,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "فصّلْ القرائنَ في المتنِ بإحكامٍ."
+    },
+    {
+      "id": "DISC_GOLD_2455",
+      "file_index": 2455,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تناسق",
+      "raw_text": "ما أبدعَ تناسقَ هذه الأبوابِ!"
+    },
+    {
+      "id": "DISC_GOLD_2456",
+      "file_index": 2456,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "أصولي",
+      "raw_text": "إنما يستنبطُ الفروعَ الأصوليُّ."
+    },
+    {
+      "id": "DISC_GOLD_2457",
+      "file_index": 2457,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ألهمْنا الصوابَ والسدادَ."
+    },
+    {
+      "id": "DISC_GOLD_2458",
+      "file_index": 2458,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "تراث",
+      "raw_text": "واللهِ ليُحفظنَّ هذا التراثُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2459",
+      "file_index": 2459,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مصادر",
+      "raw_text": "كيفَ تُوثّقُ المصادرُ في البحثِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2460",
+      "file_index": 2460,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "وضوح",
+      "raw_text": "ليتَ الوضوحَ يغمرُ كلَّ مبحثٍ."
+    },
+    {
+      "id": "DISC_GOLD_2461",
+      "file_index": 2461,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "حرّرَ الباحثُ المادةَ ثمَّ راجعَها."
+    },
+    {
+      "id": "DISC_GOLD_2462",
+      "file_index": 2462,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تداولَ المحققُ والمفهرسُ الفهارسَ."
+    },
+    {
+      "id": "DISC_GOLD_2463",
+      "file_index": 2463,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "بوّبتُ المسائلَ تبويباً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2464",
+      "file_index": 2464,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "أوضحَ الشارحُ الغرضَ أيِ المقصدَ الأساسَ."
+    },
+    {
+      "id": "DISC_GOLD_2465",
+      "file_index": 2465,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "تثبت",
+      "raw_text": "التثبتُ ملاكُ التحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2466",
+      "file_index": 2466,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُحقّقُ الناسخُ الروايةَ بتثبتٍ."
+    },
+    {
+      "id": "DISC_GOLD_2467",
+      "file_index": 2467,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "خرجَ الطالبُ فجراً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2468",
+      "file_index": 2468,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دقة",
+      "raw_text": "الدقةُ حارسُ المعرفةِ."
+    },
+    {
+      "id": "DISC_GOLD_2469",
+      "file_index": 2469,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "لخّصْ النتائجَ بدقةٍ قبلَ العرضِ."
+    },
+    {
+      "id": "DISC_GOLD_2470",
+      "file_index": 2470,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "تأليف",
+      "raw_text": "ما أتقنَ هذا التأليفَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2471",
+      "file_index": 2471,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يستقصي المسائلَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2472",
+      "file_index": 2472,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اهدِنا للحقِّ والرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2473",
+      "file_index": 2473,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "جهد",
+      "raw_text": "واللهِ ليبلغنَّ هذا الجهدُ كمالهُ."
+    },
+    {
+      "id": "DISC_GOLD_2474",
+      "file_index": 2474,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "مسودات",
+      "raw_text": "أينَ تُراجعُ المسوداتُ النهائيةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2475",
+      "file_index": 2475,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "تيسير",
+      "raw_text": "ليتَ التيسيرَ يلازمُ كلَّ مرحلةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2476",
+      "file_index": 2476,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُدقّقُ الباحثُ الشواهدَ مساءً بعنايةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2477",
+      "file_index": 2477,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "تأمّلَ الدارسُ القواعدَ طلباً للإتقانِ."
+    },
+    {
+      "id": "DISC_GOLD_2478",
+      "file_index": 2478,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "إخلاص",
+      "raw_text": "الإخلاصُ أساسُ العملِ الصالحِ."
+    },
+    {
+      "id": "DISC_GOLD_2479",
+      "file_index": 2479,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "حرّرْ التعليقاتَ في الهامشِ بوضوحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2480",
+      "file_index": 2480,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ضبط",
+      "raw_text": "ما أمتنَ هذا الضبطَ المنهجيَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2481",
+      "file_index": 2481,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "مختص",
+      "raw_text": "إنما يضبطُ المصطلحاتِ المختصُّ."
+    },
+    {
+      "id": "DISC_GOLD_2482",
+      "file_index": 2482,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ وفّقْنا للخيرِ والرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2483",
+      "file_index": 2483,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليثمرنَّ هذا العملُ الدؤوبُ."
+    },
+    {
+      "id": "DISC_GOLD_2484",
+      "file_index": 2484,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "شواهد",
+      "raw_text": "كيفَ تُصنّفُ الشواهدُ في المدونةِ؟"
+    },
+    {
+      "id": "DISC_GOLD_2485",
+      "file_index": 2485,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "إتقان",
+      "raw_text": "ليتَ الإتقانَ يلازمُ كلَّ فصلٍ."
+    },
+    {
+      "id": "DISC_GOLD_2486",
+      "file_index": 2486,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "صنّفَ الباحثُ القواعدَ ثمَّ رتّبَها."
+    },
+    {
+      "id": "DISC_GOLD_2487",
+      "file_index": 2487,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "تباحثَ المحققُ والمراجعُ في الفروعِ."
+    },
+    {
+      "id": "DISC_GOLD_2488",
+      "file_index": 2488,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "ضبطتُ الشواهدَ ضبطاً محكماً."
+    },
+    {
+      "id": "DISC_GOLD_2489",
+      "file_index": 2489,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "مؤلف",
+      "raw_text": "قرّرَ المؤلفُ الحكمَ أيِ القولَ المختارَ."
+    },
+    {
+      "id": "DISC_GOLD_2490",
+      "file_index": 2490,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "رسوخ",
+      "raw_text": "الرسوخُ ثباتُ العلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2491",
+      "file_index": 2491,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ناسخ",
+      "raw_text": "يُحرّرُ الناسخُ المتنَ بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2492",
+      "file_index": 2492,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "طالب",
+      "raw_text": "غدا الطالبُ سَحَراً طلباً للتحقيقِ."
+    },
+    {
+      "id": "DISC_GOLD_2493",
+      "file_index": 2493,
+      "chunk_id": 10,
+      "speech_act": "assertion_إخبار",
+      "lemma": "وقار",
+      "raw_text": "الوقارُ زينةُ العالمِ."
+    },
+    {
+      "id": "DISC_GOLD_2494",
+      "file_index": 2494,
+      "chunk_id": 10,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "أحكمْ الضبطَ بدقةٍ قبلَ الرفعِ."
+    },
+    {
+      "id": "DISC_GOLD_2495",
+      "file_index": 2495,
+      "chunk_id": 10,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ترتيب",
+      "raw_text": "ما أبدعَ هذا الترتيبَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2496",
+      "file_index": 2496,
+      "chunk_id": 10,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "بصير",
+      "raw_text": "إنما يميّزُ العللَ البصيرُ."
+    },
+    {
+      "id": "DISC_GOLD_2497",
+      "file_index": 2497,
+      "chunk_id": 10,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ ارزقنا التوفيقَ والسدادَ."
+    },
+    {
+      "id": "DISC_GOLD_2498",
+      "file_index": 2498,
+      "chunk_id": 10,
+      "speech_act": "oath_قسم",
+      "lemma": "سجل",
+      "raw_text": "واللهِ ليكتملنَّ هذا السجلُّ قريباً."
+    },
+    {
+      "id": "DISC_GOLD_2499",
+      "file_index": 2499,
+      "chunk_id": 10,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "فصول",
+      "raw_text": "أينَ تُحفظُ الفصولُ المحققةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2500",
+      "file_index": 2500,
+      "chunk_id": 10,
+      "speech_act": "wish_تمن",
+      "lemma": "فائدة",
+      "raw_text": "ليتَ الفائدةَ تعمُّ كلَّ قارئٍ."
+    },
+    {
+      "id": "DISC_GOLD_2501",
+      "file_index": 2501,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "عالم",
+      "raw_text": "يُحقّقُ العالمُ المسألةَ صباحاً بإتقانٍ."
+    },
+    {
+      "id": "DISC_GOLD_2502",
+      "file_index": 2502,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "تأمّلَ الدارسُ الفروعَ طلباً للتمكنِ."
+    },
+    {
+      "id": "DISC_GOLD_2503",
+      "file_index": 2503,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "ثبات",
+      "raw_text": "الثباتُ عمادُ البناءِ الراسخِ."
+    },
+    {
+      "id": "DISC_GOLD_2504",
+      "file_index": 2504,
+      "chunk_id": 11,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "رتّبْ الشواهدَ في المدونةِ بإحكامٍ."
+    },
+    {
+      "id": "DISC_GOLD_2505",
+      "file_index": 2505,
+      "chunk_id": 11,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "ضبط",
+      "raw_text": "ما أمتنَ هذا الضبطَ الدلاليَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2506",
+      "file_index": 2506,
+      "chunk_id": 11,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "محقق",
+      "raw_text": "إنما يضبطُ القرائنَ المحققُ."
+    },
+    {
+      "id": "DISC_GOLD_2507",
+      "file_index": 2507,
+      "chunk_id": 11,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ افتحْ لنا أبوابَ الفهمِ والرشادِ."
+    },
+    {
+      "id": "DISC_GOLD_2508",
+      "file_index": 2508,
+      "chunk_id": 11,
+      "speech_act": "oath_قسم",
+      "lemma": "جهد",
+      "raw_text": "واللهِ ليُثمرنَّ هذا الجهدُ العلميُّ."
+    },
+    {
+      "id": "DISC_GOLD_2509",
+      "file_index": 2509,
+      "chunk_id": 11,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نصوص",
+      "raw_text": "متى تُراجعُ النصوصُ المدخلةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2510",
+      "file_index": 2510,
+      "chunk_id": 11,
+      "speech_act": "wish_تمن",
+      "lemma": "دقة",
+      "raw_text": "ليتَ الدقةَ تلازمُ كلَّ عينةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2511",
+      "file_index": 2511,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "حرّرَ الباحثُ الفروعَ ثمَّ ضبطَها."
+    },
+    {
+      "id": "DISC_GOLD_2512",
+      "file_index": 2512,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "شارح",
+      "raw_text": "تداولَ الشارحُ والمحققُ المسألةَ."
+    },
+    {
+      "id": "DISC_GOLD_2513",
+      "file_index": 2513,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "متكلم",
+      "raw_text": "وثّقتُ القرائنَ توثيقاً دقيقاً."
+    },
+    {
+      "id": "DISC_GOLD_2514",
+      "file_index": 2514,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "محقق",
+      "raw_text": "أثبتَ المحققُ الضابطَ أيِ القيدَ المعتبرَ."
+    },
+    {
+      "id": "DISC_GOLD_2515",
+      "file_index": 2515,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "أناة",
+      "raw_text": "الأناةُ مفتاحُ التثبتِ."
+    },
+    {
+      "id": "DISC_GOLD_2516",
+      "file_index": 2516,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "باحث",
+      "raw_text": "يُقابلُ الباحثُ الفروعَ بدقةٍ."
+    },
+    {
+      "id": "DISC_GOLD_2517",
+      "file_index": 2517,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "دارس",
+      "raw_text": "سافرَ الدارسُ صباحاً طلباً للعلمِ."
+    },
+    {
+      "id": "DISC_GOLD_2518",
+      "file_index": 2518,
+      "chunk_id": 11,
+      "speech_act": "assertion_إخبار",
+      "lemma": "بيان",
+      "raw_text": "البيانُ ميزانُ الشرحِ."
+    },
+    {
+      "id": "DISC_GOLD_2519",
+      "file_index": 2519,
+      "chunk_id": 11,
+      "speech_act": "directive_طلب",
+      "lemma": "مخاطب",
+      "raw_text": "حرّرْ الشواهدَ بدقةٍ قبلَ الرفعِ."
+    },
+    {
+      "id": "DISC_GOLD_2520",
+      "file_index": 2520,
+      "chunk_id": 11,
+      "speech_act": "exclamation_تعجب",
+      "lemma": "نسق",
+      "raw_text": "ما أبدعَ هذا النسقَ النحويَّ!"
+    },
+    {
+      "id": "DISC_GOLD_2521",
+      "file_index": 2521,
+      "chunk_id": 11,
+      "speech_act": "restriction_قصر_وحصر",
+      "lemma": "متقن",
+      "raw_text": "إنما يحققُ القرائنَ المتقنُ."
+    },
+    {
+      "id": "DISC_GOLD_2522",
+      "file_index": 2522,
+      "chunk_id": 11,
+      "speech_act": "supplication_دعاء",
+      "lemma": "مخاطب",
+      "raw_text": "اللهمَّ اجعلْ سعيَنا مأجوراً ومباركاً."
+    },
+    {
+      "id": "DISC_GOLD_2523",
+      "file_index": 2523,
+      "chunk_id": 11,
+      "speech_act": "oath_قسم",
+      "lemma": "عمل",
+      "raw_text": "واللهِ ليكتملنَّ هذا العملُ بنجاحٍ."
+    },
+    {
+      "id": "DISC_GOLD_2524",
+      "file_index": 2524,
+      "chunk_id": 11,
+      "speech_act": "interrogative_استفهام",
+      "lemma": "نسخ",
+      "raw_text": "أينَ تُحفظُ النسخُ المعتمدةُ؟"
+    },
+    {
+      "id": "DISC_GOLD_2525",
+      "file_index": 2525,
+      "chunk_id": 11,
+      "speech_act": "wish_تمن",
+      "lemma": "تنظيم",
+      "raw_text": "ليتَ التنظيمَ يعمُّ كلَّ مدونةٍ."
     }
   ]
 }
