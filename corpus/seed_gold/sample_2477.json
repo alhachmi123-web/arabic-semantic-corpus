@@ -1,0 +1,33 @@
+{
+  "discourse_id": "DISC_GOLD_2477",
+  "raw_text": "تأمّلَ الدارسُ القواعدَ طلباً للإتقانِ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "دارس",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "تأمل",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "القواعدَ",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "cause_purpose_العلة_والغاية",
+      "value": "طلباً",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}
