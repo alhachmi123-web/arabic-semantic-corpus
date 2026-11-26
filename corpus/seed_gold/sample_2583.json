@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_2583",
+  "raw_text": "واللهِ ليؤتينَّ الصبرُ ثمارهُ.",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "والله",
+      "اللام",
+      "نون التوكيد"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "صبر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "آتى",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "ثمارهُ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}

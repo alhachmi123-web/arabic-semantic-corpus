@@ -1,0 +1,27 @@
+{
+  "discourse_id": "DISC_GOLD_2595",
+  "raw_text": "ما أتقنَ هذا الضبطَ اللغويَّ!",
+  "pragmatic_intent": {
+    "speech_act": "exclamation_تعجب",
+    "discourse_markers": [
+      "ما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "ضبط",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "أتقنَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}
