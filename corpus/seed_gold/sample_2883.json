@@ -1,0 +1,32 @@
+{
+  "discourse_id": "DISC_GOLD_2883",
+  "raw_text": "واللهِ ليظهرنَّ أثرُ الصدقِ.",
+  "pragmatic_intent": {
+    "speech_act": "oath_قسم",
+    "discourse_markers": [
+      "والله",
+      "اللام",
+      "نون التوكيد"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "أثر",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "ظهر",
+      "temporal_state": "future_منتظر"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "أثرُ الصدقِ",
+      "phonetic_marker": "damma_ضمة"
+    }
+  ],
+  "contextual_links": []
+}
