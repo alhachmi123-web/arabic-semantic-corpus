@@ -1,0 +1,19 @@
+{
+  "discourse_id": "DISC_GOLD_2565",
+  "raw_text": "الإنصافُ ميزانُ البحثِ.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "إنصاف",
+      "role": "subject_محور_ثابت",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": null,
+    "semantic_aspect": "static_permanence_ثبوت_وديمومة"
+  },
+  "event_modifiers": [],
+  "contextual_links": []
+}

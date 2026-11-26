@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_2571",
+  "raw_text": "إنما يمهدُ للمسألةِ المحققُ.",
+  "pragmatic_intent": {
+    "speech_act": "restriction_قصر_وحصر",
+    "discourse_markers": [
+      "إنما"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "محقق",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "مهد",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "للمسألةِ",
+      "phonetic_marker": "kasra_كسرة"
+    }
+  ],
+  "contextual_links": []
+}
