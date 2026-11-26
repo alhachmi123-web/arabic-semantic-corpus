@@ -1,0 +1,30 @@
+{
+  "discourse_id": "DISC_GOLD_2859",
+  "raw_text": "كيفَ تُحفظُ النسخُ الخطيةُ؟",
+  "pragmatic_intent": {
+    "speech_act": "interrogative_استفهام",
+    "discourse_markers": [
+      "كيف"
+    ]
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "نسخ",
+      "role": "recipient_مُستقبِل_للحدث",
+      "phonetic_marker": "damma_ضمة"
+    },
+    "action_event": {
+      "lemma": "حفظ",
+      "temporal_state": "ongoing_متجدد"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "manner_state_الهيئة_والكيفية",
+      "value": "كيفَ",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": []
+}
