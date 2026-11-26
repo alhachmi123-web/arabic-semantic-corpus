@@ -1,0 +1,40 @@
+{
+  "discourse_id": "DISC_GOLD_2938",
+  "raw_text": "رتّبتُ المسائلَ ترتيباً محكماً.",
+  "pragmatic_intent": {
+    "speech_act": "assertion_إخبار",
+    "discourse_markers": []
+  },
+  "predication_core": {
+    "topic_axis": {
+      "lemma": "متكلم",
+      "role": "initiator_مُحدِث",
+      "phonetic_marker": "implicit_مقدر"
+    },
+    "action_event": {
+      "lemma": "رتب",
+      "temporal_state": "past_منقضٍ"
+    },
+    "semantic_aspect": "dynamic_renewal_تجدد_وحدوث"
+  },
+  "event_modifiers": [
+    {
+      "modifier_type": "target_scope_نطاق_الوقوع",
+      "value": "المسائلَ",
+      "phonetic_marker": "fatha_فتحة"
+    },
+    {
+      "modifier_type": "intensity_measure_المقدار_والتأكيد",
+      "value": "ترتيباً محكماً",
+      "phonetic_marker": "fatha_فتحة"
+    }
+  ],
+  "contextual_links": [
+    {
+      "link_type": "semantic_reinforcement_تأكيد_وترسيخ",
+      "connector_particle": null,
+      "target_element": "رتّبتُ",
+      "linked_value": "ترتيباً محكماً"
+    }
+  ]
+}
